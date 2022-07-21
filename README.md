@@ -313,8 +313,7 @@ Germonprez, M. and Hovorka, D. (2002). Examining Group Communicative Processes: 
  
 Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, Proceedings of AMCIS 2001, Boston, MA.
  
-**WORKING PAPERS IN PRINT (9)**
-
+# WORKING PAPERS IN PRINT (9)
 Germonprez, M., Pallud, J., and Monod, E. (2011). Technology Embodiment: The Contribution of Heidegger's Phenomenology, Sprouts: Working Papers on Information Systems, 466.
  
 Hovorka, D.S. and Germonprez, M. (2011). Towards an Informativity Account of Design Research, Sprouts: Working Papers on Information Systems, 452.
@@ -334,7 +333,6 @@ Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technology, Sprouts:
 Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
  
 # PRESENTATIONS (59)
-
 How Do We Design Open Source Communities to be More Diverse, Inclusive, and Equitable, FOSDEM, February 2022.
 
 Corporate Engagement with Open Source Communities: Research Findings, Linux Foundation Member Summit, November 2021. 
@@ -462,144 +460,136 @@ A Critical Examination of Channel Expansion Theory, Information Systems Research
 Building a Web Presence: Selling Online, Colorado State University, College of Business, Corporate Sponsorship Seminar, Fort Collins, CO, May 1996.
  
 # PROFESSIONAL UNIVERSITY ACTIVITIES
-University of Nebraska Omaha, Faculty Senate, 2021-2024
-University of Nebraska Omaha, College of IS&T Dean Search Committee, 2020-2021
-University of Nebraska Omaha, College of IS&T Personnel Committee, 2017-2021
-University of Nebraska Omaha, Excellence in Research Awards Committee, Chair, 2017-2018
-University of Nebraska Omaha, Excellence in Teaching Awards Committee, 2015-2017
-University of Nebraska Omaha, Doctoral Program Committee, 2013-2016, 2017-2020
-University of Nebraska Omaha, Dean's Advisory Committee, 2013-2017
-University of Nebraska Omaha, UCRCA Committee, 2014-2017
-University of Nebraska Omaha, GRACA ad hoc Reviewing, 2014-2016
-University of Nebraska Omaha, College of IS&T Personnel Committee, 2014-2016
-University of Nebraska Omaha, College of IS&T Academic Committee, 2014-2016
-University of Wisconsin - Eau Claire, Awards Committee, 2010-2011
-University of Wisconsin - Eau Claire, COB Dean Search Committee, 2010
-University of Wisconsin - Eau Claire, COB Curriculum Committee, 2010-2011
-University of Wisconsin - Eau Claire Civility Committee, 2005-2007
-Undergraduate Faculty Advisor - IS Department, Case Western Reserve University, 2003-2005
-Information Systems Intro Course Design - IS Department, Case Western Reserve University, 2004
-Faculty Representative for USG Student Group - Case Western Reserve University, 2004
+- University of Nebraska Omaha, Faculty Senate, 2021-2024
+- University of Nebraska Omaha, College of IS&T Dean Search Committee, 2020-2021
+- University of Nebraska Omaha, College of IS&T Personnel Committee, 2017-2021
+- University of Nebraska Omaha, Excellence in Research Awards Committee, Chair, 2017-2018
+- University of Nebraska Omaha, Excellence in Teaching Awards Committee, 2015-2017
+- University of Nebraska Omaha, Doctoral Program Committee, 2013-2016, 2017-2020
+- University of Nebraska Omaha, Dean's Advisory Committee, 2013-2017
+- University of Nebraska Omaha, UCRCA Committee, 2014-2017
+- University of Nebraska Omaha, GRACA ad hoc Reviewing, 2014-2016
+- University of Nebraska Omaha, College of IS&T Personnel Committee, 2014-2016
+- University of Nebraska Omaha, College of IS&T Academic Committee, 2014-2016
+- University of Wisconsin - Eau Claire, Awards Committee, 2010-2011
+- University of Wisconsin - Eau Claire, COB Dean Search Committee, 2010
+- University of Wisconsin - Eau Claire, COB Curriculum Committee, 2010-2011
+- University of Wisconsin - Eau Claire Civility Committee, 2005-2007
+- Undergraduate Faculty Advisor - IS Department, Case Western Reserve University, 2003-2005
+- Information Systems Intro Course Design - IS Department, Case Western Reserve University, 2004
+- Faculty Representative for USG Student Group - Case Western Reserve University, 2004
  
 # PROFESSIONAL ACADEMIC ACTIVITIES
  
 ## Executive
 ---------
-President, Association for Information Systems SIGOPEN, 2017-2018
-President Elect, Association for Information Systems SIGOPEN, 2015-2016
-Co-Founder, Association for Information Systems SIGOPEN, 2015
-Department Editor for Open Communities, Association for Information Systems (AIS), 2012-2014
-Past President, Midwest Association for Information Systems (MWAIS), 2011-2012
-President, Midwest Association for Information Systems (MWAIS), 2010-2011
-President Elect, Midwest Association for Information Systems (MWAIS), 2009-2010
-Membership and Publicity Director, Midwest Association for Information Systems, 2006 - 2009
-Secretary-Treasurer, SIG-HCI, 2004-2007
+- President, Association for Information Systems SIGOPEN, 2017-2018
+- President Elect, Association for Information Systems SIGOPEN, 2015-2016
+- Co-Founder, Association for Information Systems SIGOPEN, 2015
+- Department Editor for Open Communities, Association for Information Systems (AIS), 2012-2014
+- Past President, Midwest Association for Information Systems (MWAIS), 2011-2012
+- President, Midwest Association for Information Systems (MWAIS), 2010-2011
+- President Elect, Midwest Association for Information Systems (MWAIS), 2009-2010
+- Membership and Publicity Director, Midwest Association for Information Systems, 2006 - 2009
+- Secretary-Treasurer, SIG-HCI, 2004-2007
  
 ## Journal Editorship
 ------------------
-Senior Editor, Journal of Information Technology, 2018-2020
-Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2019
-Associate Editor, Information Systems Journal, 2016-2019
-Editorial Board Member, Journal of Information Technology, 2010 - 2018
-Associate Editor, Communications of the Association for Information Systems, 2011 - 2018
-Guest Editor, Information Systems Journal, Special Issue on the Dark Side of IT, 2014-2015
-Associate Editor, AIS Transactions on Human-Computer Interaction, 2008-2011
-Guest Editor, European Journal for Information Systems, SI on Qualitative Research Methods, 2010
-Guest Editor, International Journal for Human Computer Studies, SI on HCI, 2009
-Guest Editor, DataBase for the Advances of Info. Sys. (with T. Hess and G. Lee) SI on HCI, 2008
-Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
+- Senior Editor, Journal of Information Technology, 2018-2020
+- Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2019
+- Associate Editor, Information Systems Journal, 2016-2019
+- Editorial Board Member, Journal of Information Technology, 2010 - 2018
+- Associate Editor, Communications of the Association for Information Systems, 2011 - 2018
+- Guest Editor, Information Systems Journal, Special Issue on the Dark Side of IT, 2014-2015
+- Associate Editor, AIS Transactions on Human-Computer Interaction, 2008-2011
+- Guest Editor, European Journal for Information Systems, SI on Qualitative Research Methods, 2010
+- Guest Editor, International Journal for Human Computer Studies, SI on HCI, 2009
+- Guest Editor, DataBase for the Advances of Info. Sys. (with T. Hess and G. Lee) SI on HCI, 2008
+- Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
  
 ## Organizing (Conference Level)
 -----------------------------
-BIGXII+ Doctoral and Junior Faculty Consortium, Co-Chair, 2017
-SIGOPEN ICIS Workshop, Co-Chair, 2015-2016
-SIGOPEN ECIS Workshop Co-Chair, 2015
-MWAIS Conference Co-Chair, 2008
-AMCIS Co-Chair for Panels, Tutorials, and Workshops, 2005 and 2007
-ICIS SIGHCI Pre-Conference Workshop, 2003 - 2006
-OASIS (IFIP 8.2) Organizer, ICIS, 2006
-Organizing Co-Chair, SIGHCI/ICIS Workshop, 2006
-Organizing Co-Chair, IFIP 8.2, 2005
+- BIGXII+ Doctoral and Junior Faculty Consortium, Co-Chair, 2017
+- SIGOPEN ICIS Workshop, Co-Chair, 2015-2016
+- SIGOPEN ECIS Workshop Co-Chair, 2015
+- MWAIS Conference Co-Chair, 2008
+- AMCIS Co-Chair for Panels, Tutorials, and Workshops, 2005 and 2007
+- ICIS SIGHCI Pre-Conference Workshop, 2003 - 2006
+- OASIS (IFIP 8.2) Organizer, ICIS, 2006
+- Organizing Co-Chair, SIGHCI/ICIS Workshop, 2006
+- Organizing Co-Chair, IFIP 8.2, 2005
   
 ## Program Committee Member (Track or Mini-Track Level)
 ----------------------------------------------------
-AMCIS Doctoral Consortium Member, 2018
-OpenSym Program Co-Chair, 2018
-OpenSym Program Committee, 2020 and 2021
-OpenSym Doctoral Symposium Co-Chair, 2017
-AMCIS Track Co-Chair, IS and Open Research and Practice (SIGOPEN), 2016 and 2017
-SIGOPEN Pre-ICIS Workshop, 2015 and 2016
-IFIP 8.2, AE, 2011
-ICIS Engaged Scholarship through Design and Action Track, AE, 2010
-AMCIS Mini-track Co-Chair, Users as Designers, Information Systems Modification and Secondary Design, 2010
-ICIS Project and Program Management Track, AE, 2009
-European Conference for Information Systems, AE, 2006 and 2008
-AMCIS Track Co-Chair, SIGCHI, 2006 - 2008
-AMCIS Mini-track Co-Chair, Interface Design, Evaluation, and Impact (SIGHCI), 2006 - 2008
+- AMCIS Doctoral Consortium Member, 2018
+- OpenSym Program Co-Chair, 2018
+- OpenSym Program Committee, 2020 and 2021
+- OpenSym Doctoral Symposium Co-Chair, 2017
+- AMCIS Track Co-Chair, IS and Open Research and Practice (SIGOPEN), 2016 and 2017
+- SIGOPEN Pre-ICIS Workshop, 2015 and 2016
+- IFIP 8.2, AE, 2011
+- ICIS Engaged Scholarship through Design and Action Track, AE, 2010
+- AMCIS Mini-track Co-Chair, Users as Designers, Information Systems Modification and Secondary Design, 2010
+- ICIS Project and Program Management Track, AE, 2009
+- European Conference for Information Systems, AE, 2006 and 2008
+- AMCIS Track Co-Chair, SIGCHI, 2006 - 2008
+- AMCIS Mini-track Co-Chair, Interface Design, Evaluation, and Impact (SIGHCI), 2006 - 2008
  
 ## Editorial Reviews
 -----------------
-First Monday
-MIS Quarterly
-Research Policy
-E-Service Journal
-IFIP 8.2 Annual Conference
-Information Systems Journal
-Communications of the ACM
-Information Systems Research
-Journal of Information Technology
-Academy of Management Conference
-European Journal of Information Systems
-Language Action Perspective Conference
-Journal of Management Information Systems
-Americas Conference on Information Systems
-European Conference on Information Systems
-IEEE Transactions on Engineering Management
-International Conference on Information Systems
-International Journal of Human Computer Studies
-Journal of the Association for Information Systems
-Information Systems and E-Business Management
-Hawaii International Conference on System Sciences
-Communications of the Association for Information Systems
+- First Monday
+- MIS Quarterly
+- Research Policy
+- E-Service Journal
+- IFIP 8.2 Annual Conference
+- Information Systems Journal
+- Communications of the ACM
+- Information Systems Research
+- Journal of Information Technology
+- Academy of Management Conference
+- European Journal of Information Systems
+- Language Action Perspective Conference
+- Journal of Management Information Systems
+- Americas Conference on Information Systems
+- European Conference on Information Systems
+- IEEE Transactions on Engineering Management
+- International Conference on Information Systems
+- International Journal of Human Computer Studies
+- Journal of the Association for Information Systems
+- Information Systems and E-Business Management
+- Hawaii International Conference on System Sciences
+- Communications of the Association for Information Systems
  
 # PH.D. WORK
-Vinod Ahuja, Value of Open Source, University of Nebraska Omaha. Ongoing 2022.
- 
-Kevin Lumbard, Design and Open Source, University of Nebraska Omaha. Ongoing 2022.
- 
-Georg Link, Cooperative Signaling Behavior: Signals for Open Source Project Health, University of Nebraska Omaha. Defended 2019. Currently at Bitergia. 
- 
-Nargess Tahmasbi, Social Engagements: The Role of Technology in Extreme Events, University of Nebraska Omaha. Defended 2016. Currently at Penn State Hazleton. 
- 
-Xiao-Dan Yu, Adaptive Use of IT Capabilities for Development of Shared Mental Models in Virtual Teams, University of Nebraska Omaha. Defended 2013. Currently at the University of International Business and Economics Beijing.
- 
-Dawn Owens, Understanding the Adaptive Use of Virtual World Technology Capabilities and Trust in Virtual Teams, University of Nebraska Omaha. Defended 2012. Currently at UT-Dallas. 
- 
-Alanah Davis, Technology Choice in Virtual Teams: The Use of Interventions to Change the Pattern of Technology Choice in Virtual Teams, University of Nebraska Omaha. Defended 2009. Currently at Drake University.
- 
-Dirk Hovorka, Information Systems Foundations: Four Research Essays, University of Colorado - Boulder. Defended 2006. Currently at the University of Sydney. 
- 
-Sean McGann, Coping with the Unplanned: The Dynamics of Improvisation in Information Systems: Evolution Within and Across Firm Boundaries, Case Western Reserve University. Defended 2005. Currently at the University of Washington. 
+- Vinod Ahuja, Value of Open Source, University of Nebraska Omaha. Ongoing 2022.
+- Kevin Lumbard, Design and Open Source, University of Nebraska Omaha. Ongoing 2022.
+- Georg Link, Cooperative Signaling Behavior: Signals for Open Source Project Health, University of Nebraska Omaha. Defended 2019. Currently at Bitergia. 
+- Nargess Tahmasbi, Social Engagements: The Role of Technology in Extreme Events, University of Nebraska Omaha. Defended 2016. Currently at Penn State Hazleton. 
+- Xiao-Dan Yu, Adaptive Use of IT Capabilities for Development of Shared Mental Models in Virtual Teams, University of Nebraska Omaha. Defended 2013. Currently at the University of International Business and Economics Beijing.
+- Dawn Owens, Understanding the Adaptive Use of Virtual World Technology Capabilities and Trust in Virtual Teams, University of Nebraska Omaha. Defended 2012. Currently at UT-Dallas. 
+- Alanah Davis, Technology Choice in Virtual Teams: The Use of Interventions to Change the Pattern of Technology Choice in Virtual Teams, University of Nebraska Omaha. Defended 2009. Currently at Drake University.
+- Dirk Hovorka, Information Systems Foundations: Four Research Essays, University of Colorado - Boulder. Defended 2006. Currently at the University of Sydney. 
+- Sean McGann, Coping with the Unplanned: The Dynamics of Improvisation in Information Systems: Evolution Within and Across Firm Boundaries, Case Western Reserve University. Defended 2005. Currently at the University of Washington. 
  
 # PROFESSIONAL AFFILIATIONS
-IFIP 8.2
-SIGOPEN
-Association for Information Systems (AIS)
-Open Community Data Exchange (OCDX)
-Software Package Data Exchange (SPDX)
-Association for Computing Machinery (ACM)
-Midwest Association for Information Systems (MWAIS)
-Community Health Analytics Open Source Software (CHAOSS)
+- IFIP 8.2
+- SIGOPEN
+- Association for Information Systems (AIS)
+- Open Community Data Exchange (OCDX)
+- Software Package Data Exchange (SPDX)
+- Association for Computing Machinery (ACM)
+- Midwest Association for Information Systems (MWAIS)
+- Community Health Analytics Open Source Software (CHAOSS)
  
 # TEACHING
-Managing in a Digital World
-Object Oriented Programming
-Information Systems Introduction
-Advanced Development Methods
-Distributed Systems Development
-Open Source Systems Development
-Open Source Software Development
-Computer Network Design and Management
+- Managing in a Digital World
+- Object Oriented Programming
+- Information Systems Introduction
+- Advanced Development Methods
+- Distributed Systems Development
+- Open Source Systems Development
+- Open Source Software Development
+- Computer Network Design and Management
  
 # PROFESSIONAL EXPERIENCE
 LPR Construction, Loveland, CO, 1996-1998
@@ -612,17 +602,17 @@ Cumulus Internet Services, Fort Collins, CO, 1995-1996
 Co-Founder
   
 # REFERENCES
-Julie Kendall
-Professor of Management
-School of Business - Camden, Rutgers University
-julie@thekendalls.org 
+Julie Kendall  
+Professor of Management  
+School of Business - Camden, Rutgers University  
+julie@thekendalls.org   
  
-Sean Goggins
-Professor
-College of Engineering, Computer Science, University of Missouri
-GogginsS@missouri.edu
+Sean Goggins  
+Professor  
+College of Engineering, Computer Science, University of Missouri  
+GogginsS@missouri.edu  
  
-Lars Mathiassen
-GRA Eminent Scholar, Professor and Co-Founder of Center for Process Innovation
-J. Mack Robinson College of Business, Georgia State University
-lmathiassen@ceprin.org
+Lars Mathiassen  
+GRA Eminent Scholar, Professor and Co-Founder of Center for Process Innovation  
+J. Mack Robinson College of Business, Georgia State University  
+lmathiassen@ceprin.org  
