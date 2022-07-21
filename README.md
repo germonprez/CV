@@ -1,19 +1,12 @@
 # Curriculum Vitae
 
 Matt Germonprez
-
 Mutual of Omaha Distinguished Chair of Information Science & Technology
-
 Professor of Information Systems and Quantitative Analysis
-
 College of Information Science & Technology
-
 University of Nebraska Omaha
-
 Omaha, NE 68182
-
 germonprez@gmail.com
-
 Twitter: @germ
  
 # RESEARCH SUMMARY
