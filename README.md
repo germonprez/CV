@@ -20,35 +20,35 @@ Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Scienc
 - ES, Saint Margaret Mary, Neenah, WI, 1985
  
 # ACADEMIC APPOINTMENTS
-University of Nebraska Omaha, College of Information Science & Technology
-Mutual of Omaha Distinguished Chair of Information Science & Technology
-Professor of Information Systems and Quantitative Analysis
+University of Nebraska Omaha, College of Information Science & Technology  
+Mutual of Omaha Distinguished Chair of Information Science & Technology  
+Professor of Information Systems and Quantitative Analysis  
 2019 - Current
  
-University of Nebraska Omaha, College of Information Science & Technology
-Mutual of Omaha Distinguished Chair of Information Science & Technology
-Associate Professor of Information Systems and Quantitative Analysis
+University of Nebraska Omaha, College of Information Science & Technology  
+Mutual of Omaha Distinguished Chair of Information Science & Technology  
+Associate Professor of Information Systems and Quantitative Analysis  
 2012 - 2019
  
-University of Nebraska Omaha
-Goldstein Center for Human Rights
-Affiliated Faculty
+University of Nebraska Omaha  
+Goldstein Center for Human Rights  
+Affiliated Faculty  
 2018 - 2019
  
-University of Sydney, Business School
-Visiting Scholar
+University of Sydney, Business School  
+Visiting Scholar  
 2015
 
-University of Wisconsin - Eau Claire, College of Business
-Associate Professor of Information Systems
+University of Wisconsin - Eau Claire, College of Business  
+Associate Professor of Information Systems  
 2010 - 2012
  
-University of Wisconsin - Eau Claire, College of Business
-Assistant Professor of Information Systems
+University of Wisconsin - Eau Claire, College of Business  
+Assistant Professor of Information Systems  
 2005 - 2010
  
-Case Western Reserve University, Weatherhead School of Management
-Assistant Professor of Information Systems
+Case Western Reserve University, Weatherhead School of Management  
+Assistant Professor of Information Systems  
 2002 - 2005
  
 # HONORS AND AWARDS
