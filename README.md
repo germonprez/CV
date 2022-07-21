@@ -13,11 +13,11 @@ Twitter: @germ
 Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Science & Technology and Professor of Information Systems and Quantitative Analysis in the College of Information Science & Technology at the University of Nebraska Omaha. He uses qualitative field-studies to research corporate engagement with open communities and the dynamics of work found in these engagements. His lines of research have been funded by numerous organizations including the Alfred P. Sloan Foundation, the Ford Foundation, the National Science Foundation, the Chan Zuckerberg Initiative, and Mozilla. Matt is the co-founder of the Linux Foundation Community Health Analytics OSS Project (CHAOSS). He has had work accepted at ISR, MISQ, JAIS, JIT, ISJ, I&O, CSCW, OpenSym, Group, HICSS, IEEE Computer, and ACM Interactions. Matt is an active open source community member, having presented design and development work at LinuxCon, the Open Source Summit NA, the Linux Foundation Open Compliance Summit, the Linux Foundation Collaboration Summit, and the Open Source Leadership Summit.
  
 # EDUCATION
-PhD, University of Colorado, Boulder, CO, Information Systems, 2002
-MS, Colorado State University, Fort Collins, CO, Information Systems, 1997
-BS, Iowa State University, Ames, IA, Biology, 1993
-HS, Neenah High School, Neenah, WI, 1989
-ES, Saint Margaret Mary, Neenah, WI, 1985
+- PhD, University of Colorado, Boulder, CO, Information Systems, 2002
+- MS, Colorado State University, Fort Collins, CO, Information Systems, 1997
+- BS, Iowa State University, Ames, IA, Biology, 1993
+- HS, Neenah High School, Neenah, WI, 1989
+- ES, Saint Margaret Mary, Neenah, WI, 1985
  
 # ACADEMIC APPOINTMENTS
 University of Nebraska Omaha, College of Information Science & Technology
