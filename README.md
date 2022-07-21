@@ -52,15 +52,15 @@ Assistant Professor of Information Systems
 2002 - 2005
  
 # HONORS AND AWARDS
-Communications of the AIS (CAIS) Paul Gray Award for the Most Thought Provoking Paper - 2018
-Rutgers University, School of Business, Camden Annual Research Award - 2017
-AIS Senior Scholar Best Paper Award (Top Research Award in the IS Field) - 2011
-Journal of the Association for Information Systems (JAIS) Best Paper Award - 2011
-Transactions on Human Computer Interaction (THCI) Best Reviewer Award - 2011
-Carnegie Foundation CASE Professor of the Year Nominee for UW-Eau Claire - 2009
-Univ. of Wisc. - Eau Claire Teaching Excellence Award (Top University-Level Teaching Award) - 2008
-Undergraduate Teaching Excellence Award - Case Western Reserve University - 2005
-Committee on Learning and Academic Support Services Honoree - University of Colorado - 2001
+- Communications of the AIS (CAIS) Paul Gray Award for the Most Thought Provoking Paper - 2018
+- Rutgers University, School of Business, Camden Annual Research Award - 2017
+- AIS Senior Scholar Best Paper Award (Top Research Award in the IS Field) - 2011
+- Journal of the Association for Information Systems (JAIS) Best Paper Award - 2011
+- Transactions on Human Computer Interaction (THCI) Best Reviewer Award - 2011
+- Carnegie Foundation CASE Professor of the Year Nominee for UW-Eau Claire - 2009
+- Univ. of Wisc. - Eau Claire Teaching Excellence Award (Top University-Level Teaching Award) - 2008
+- Undergraduate Teaching Excellence Award - Case Western Reserve University - 2005
+- Committee on Learning and Academic Support Services Honoree - University of Colorado - 2001
  
 # AWARDED GRANTS, GRANT WORK, AND CONTRACTS
 (Totaling $2,747,493 with partner institutions; Continuously Funded 2010-2023)
