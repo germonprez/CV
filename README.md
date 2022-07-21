@@ -93,29 +93,29 @@ Germonprez, M. (2011-2015). Sole PI. Organizational Participation in Open Commun
  
 Khazanchi, D., Germonprez, M., Matfield, D., and Mirski, P. (2010-2013). Co-PI. Global IT Project Management, DOE/FIPSE Atlantis Excellence in Mobility, $194,000
  
-Ford Foundation/Sloan Foundation Digital Infrastructure Reviewer (2018, 2020)
-Irish Software Research Centre ALECS Fellowship Reviewer (2018, 2020)
-Natural Sciences and Engineering Research Council of Canada Reviewer (2019)
-Danish Council for Independent Research Reviewer (2014)
-Israel Science Foundation Reviewer (2014)
-National Science Foundation Panel Member and Ad Hoc Reviewer (2010, 2012, 2013, 2016, 2017, 2019)
+Ford Foundation/Sloan Foundation Digital Infrastructure Reviewer (2018, 2020)  
+Irish Software Research Centre ALECS Fellowship Reviewer (2018, 2020)  
+Natural Sciences and Engineering Research Council of Canada Reviewer (2019)  
+Danish Council for Independent Research Reviewer (2014)  
+Israel Science Foundation Reviewer (2014)  
+National Science Foundation Panel Member and Ad Hoc Reviewer (2010, 2012, 2013, 2016, 2017, 2019)  
  
 ## Universities
 ------------
-UN-Omaha Fund for Investigating in the Research Enterprise Grant (2013-2014), $20,000
-UN-Omaha Faculty Research Initiative Grant (2013-2014), $5,000
-UWEC College of Business Research Grant (2006, 2007, 2011), $6,000 - $7,500
-UWEC Student-Faculty PIE/ORSP International Grant (2008), $4,200
-UWEC Mason Shoes Netsuite Technology Grant (2008), $750
+- UN-Omaha Fund for Investigating in the Research Enterprise Grant (2013-2014), $20,000
+- UN-Omaha Faculty Research Initiative Grant (2013-2014), $5,000
+- UWEC College of Business Research Grant (2006, 2007, 2011), $6,000 - $7,500
+- UWEC Student-Faculty PIE/ORSP International Grant (2008), $4,200
+- UWEC Mason Shoes Netsuite Technology Grant (2008), $750
  
 ## Corporations
 ------------
-Union Pacific Open Source Intake (2015-2016): $135,000
-Texas Instruments SPDX/Yocto Integration (2013-2015): $15,000
-Hewlett Packard FOSSology Discovery (2013-2014): $10,000
-Amazon.com Cloud Computing Grant (2010-2011): $6,000
-My InnerView Student Mentorship (2009), $3,500
-Roehl Transportation Student Mentorship (2008), $3,000
+- Union Pacific Open Source Intake (2015-2016): $135,000
+- Texas Instruments SPDX/Yocto Integration (2013-2015): $15,000
+- Hewlett Packard FOSSology Discovery (2013-2014): $10,000
+- Amazon.com Cloud Computing Grant (2010-2011): $6,000
+- My InnerView Student Mentorship (2009), $3,500
+- Roehl Transportation Student Mentorship (2008), $3,000
  
  # OPEN SOURCE ENGAGEMENT
 Founding Member & Board Member of the Linux Foundation CHAOSS Project
