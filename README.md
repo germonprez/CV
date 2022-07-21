@@ -314,6 +314,7 @@ Germonprez, M. and Hovorka, D. (2002). Examining Group Communicative Processes: 
 Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, Proceedings of AMCIS 2001, Boston, MA.
  
 **WORKING PAPERS IN PRINT (9)**
+
 Germonprez, M., Pallud, J., and Monod, E. (2011). Technology Embodiment: The Contribution of Heidegger's Phenomenology, Sprouts: Working Papers on Information Systems, 466.
  
 Hovorka, D.S. and Germonprez, M. (2011). Towards an Informativity Account of Design Research, Sprouts: Working Papers on Information Systems, 452.
@@ -333,6 +334,7 @@ Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technology, Sprouts:
 Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
  
 # PRESENTATIONS (59)
+
 How Do We Design Open Source Communities to be More Diverse, Inclusive, and Equitable, FOSDEM, February 2022.
 
 Corporate Engagement with Open Source Communities: Research Findings, Linux Foundation Member Summit, November 2021. 
