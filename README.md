@@ -461,16 +461,16 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
  
 # PROFESSIONAL UNIVERSITY ACTIVITIES
 - University of Nebraska Omaha, Faculty Senate, 2021-2024
-- University of Nebraska Omaha, College of IS&T Dean Search Committee, 2020-2021
-- University of Nebraska Omaha, College of IS&T Personnel Committee, 2017-2021
+- University of Nebraska Omaha, Office of Research and Creative Activity, Advisory Board, 2020-2022
 - University of Nebraska Omaha, Excellence in Research Awards Committee, Chair, 2017-2018
 - University of Nebraska Omaha, Excellence in Teaching Awards Committee, 2015-2017
 - University of Nebraska Omaha, Doctoral Program Committee, 2013-2016, 2017-2020
 - University of Nebraska Omaha, Dean's Advisory Committee, 2013-2017
 - University of Nebraska Omaha, UCRCA Committee, 2014-2017
 - University of Nebraska Omaha, GRACA ad hoc Reviewing, 2014-2016
-- University of Nebraska Omaha, College of IS&T Personnel Committee, 2014-2016
 - University of Nebraska Omaha, College of IS&T Academic Committee, 2014-2016
+- University of Nebraska Omaha, College of IS&T Dean Search Committee, 2020-2021
+- University of Nebraska Omaha, College of IS&T Personnel Committee, 2014-2020, 2022-2024
 - University of Wisconsin - Eau Claire, Awards Committee, 2010-2011
 - University of Wisconsin - Eau Claire, COB Dean Search Committee, 2010
 - University of Wisconsin - Eau Claire, COB Curriculum Committee, 2010-2011
@@ -616,3 +616,13 @@ Lars Mathiassen
 GRA Eminent Scholar, Professor and Co-Founder of Center for Process Innovation  
 J. Mack Robinson College of Business, Georgia State University  
 lmathiassen@ceprin.org  
+
+Demetris Cheatham 
+Senior Director, Diversity, Inclusion & Belonging Strategy
+GitHub
+demetris11@github.com
+
+Josh Greenberg
+Director of the Digital Information Technology Program
+Alfred P. Sloan Foundation
+greenberg@sloan.org
