@@ -617,7 +617,7 @@ GRA Eminent Scholar, Professor and Co-Founder of Center for Process Innovation
 J. Mack Robinson College of Business, Georgia State University  
 lmathiassen@ceprin.org  
 
-Demetris Cheatham 
+Demetris Cheatham  
 Senior Director, Diversity, Inclusion & Belonging Strategy  
 GitHub  
 demetris11@github.com  
