@@ -618,11 +618,11 @@ J. Mack Robinson College of Business, Georgia State University
 lmathiassen@ceprin.org  
 
 Demetris Cheatham 
-Senior Director, Diversity, Inclusion & Belonging Strategy
-GitHub
-demetris11@github.com
+Senior Director, Diversity, Inclusion & Belonging Strategy  
+GitHub  
+demetris11@github.com  
 
-Josh Greenberg
-Director of the Digital Information Technology Program
-Alfred P. Sloan Foundation
-greenberg@sloan.org
+Josh Greenberg  
+Director of the Digital Information Technology Program  
+Alfred P. Sloan Foundation  
+greenberg@sloan.org  
