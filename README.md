@@ -495,7 +495,7 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
  
 ## Journal Editorship
 ------------------
-- Senior Editor, Journal of Information Technology, 2018-2020
+- Senior Editor, Journal of Information Technology, 2018-2023
 - Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2019
 - Associate Editor, Information Systems Journal, 2016-2019
 - Editorial Board Member, Journal of Information Technology, 2010 - 2018
