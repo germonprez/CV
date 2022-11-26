@@ -330,7 +330,7 @@ Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technology, Sprouts:
  
 Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
  
-# PRESENTATIONS (59)
+# PRESENTATIONS (60)
 How Do We Design Open Source Communities to be More Diverse, Inclusive, and Equitable, FOSDEM, February 2022.
 
 Corporate Engagement with Open Source Communities: Research Findings, Linux Foundation Member Summit, November 2021. 
