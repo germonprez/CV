@@ -206,13 +206,11 @@ Braley, D., Fano, A., Light, J., and Germonprez, M. (2005). Ubiquitous Computing
  
 Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, in Information Systems Research: Relevant Theory and Informed Practice, Kaplan, B., Truex, D., Wastell, D., Wood-Harper, T., & DeGross, J. (eds.), Kluwer Academic Publishers, Boston, MA.
  
-# CONFERENCES and WORKSHOPS (53)
+# CONFERENCES and WORKSHOPS (52)
 Goggins, S., Lumbard, K., and Germonprez, M. (2021). Open Source Community Health: Analytical Metrics and Their Corresponding Narratives, 4th International Workshop on Software Health in Projects, Ecosystems, and Communities (SoHeal2021), Online.
  
 Lumbard, K., Werther-Poulin, G., Buhman, A., Hale, M., Germonprez, M., and Goggins, S. (2020). Welcome? Investigating the reception of new contributors to organizational-communal open source software projects, Proceeding of AMCIS 2020, Online.
- 
-Germonprez, M. and Snell, M. (2020). Diversity & Inclusion Badging Program, CHAOSScon EU 2020, Brussels, Belgium.
- 
+  
 Yi, S., Lumbard, K., Damen, N., Germonprez, M., and Toh, C. (2019). Towards an Information Archetypes Framework: Exploring the Types of Information Used in Open Source Design Engagements, Proceedings of AMSE 2019 International Design Engineering Technical Conferences & Design Education, Anaheim, CA.
  
 Lumbard, K., Ahuja, V., Goggins, S., and Germonprez, M. (2019). Something to Talk About: Exploring Open Source Design Spaces. Proceedings of MWAIS 2019, Oshkosh, WI.
@@ -344,6 +342,8 @@ Contributor Leaderboards to Incentivize Good Community Citizenship, Open Source 
 CHAOSS and Augur, Chan Zuckerberg Essential Open Source Software Workshop, Online, December 2020.
  
 Surveying Critical Risks to Science: Themes from Analysis of Open Scientific Software, Chan Zuckerberg Essential Open Source Software Workshop, Berkeley, CA, February 2020.
+
+Germonprez, M. and Snell, M. (2020). Diversity & Inclusion Badging Program, CHAOSScon EU 2020, Brussels, Belgium.
  
 Diversity & Inclusion Badging Program, CHAOSScon, Brussels, Belgium, February 2020.
  
