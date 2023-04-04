@@ -63,10 +63,12 @@ Assistant Professor of Information Systems
 - Committee on Learning and Academic Support Services Honoree - University of Colorado - 2001
  
 # AWARDED GRANTS, GRANT WORK, AND CONTRACTS
-(Totaling $2,747,493 with partner institutions; Continuously Funded 2010-2023)
+(Totaling $4,358,760 with partner institutions; Continuously Funded 2010-2026)
  
 ## Foundations, Institutes, and Initiatives
 --------------------------
+Germonprez, M. and Goggins, S. (2023-2026). Co-PI. CHAOSS: Building Sustainability, Alfred P. Sloan Foundation, $1,611,267. 
+
 Germonprez, M., Goggins, S., and Barron, E. (2022-2024). Co-PI. Core Support for Diversity, Equity and Inclusion Program at CHAOSS, Ford Foundation, $150,000
 
 Germonprez, M. Goggins, S., Barron, E., and Lumbard, K. (2021-2022). Co-PI. Corporate Engagement with Open Source Projects, Red Hat, $91,617
