@@ -135,6 +135,8 @@ Google Season of Docs Mentor, 2020
 Outreachy Mentor, 2020
  
 # ARTICLES (29)
+Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, Accepted for Publication. 
+
 Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, IEEE Computer, 54(8), 104–111.
 
 Germonprez, M., Gandhi, R., and Link, G. (2021). The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines, Communications of the Association for Information Systems, 49. 
