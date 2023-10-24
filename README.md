@@ -134,7 +134,7 @@ Google Summer of Code Mentor, 2018-2022
 Google Season of Docs Mentor, 2020
 Outreachy Mentor, 2020
  
-# ARTICLES (29)
+# ARTICLES (30)
 Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, Accepted for Publication. 
 
 Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, IEEE Computer, 54(8), 104–111.
