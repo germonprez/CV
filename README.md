@@ -484,7 +484,6 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
 # PROFESSIONAL ACADEMIC ACTIVITIES
  
 ## Executive
----------
 - President, Association for Information Systems SIGOPEN, 2017-2018
 - President Elect, Association for Information Systems SIGOPEN, 2015-2016
 - Co-Founder, Association for Information Systems SIGOPEN, 2015
@@ -496,7 +495,6 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
 - Secretary-Treasurer, SIG-HCI, 2004-2007
  
 ## Journal Editorship
-------------------
 - Senior Editor, Journal of Information Technology, 2018-2023
 - Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2019
 - Associate Editor, Information Systems Journal, 2016-2019
@@ -510,7 +508,6 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
 - Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
  
 ## Organizing (Conference Level)
------------------------------
 - BIGXII+ Doctoral and Junior Faculty Consortium, Co-Chair, 2017
 - SIGOPEN ICIS Workshop, Co-Chair, 2015-2016
 - SIGOPEN ECIS Workshop Co-Chair, 2015
@@ -522,7 +519,6 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
 - Organizing Co-Chair, IFIP 8.2, 2005
   
 ## Program Committee Member (Track or Mini-Track Level)
-----------------------------------------------------
 - AMCIS Doctoral Consortium Member, 2018
 - OpenSym Program Co-Chair, 2018
 - OpenSym Program Committee, 2020 and 2021
@@ -538,7 +534,6 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
 - AMCIS Mini-track Co-Chair, Interface Design, Evaluation, and Impact (SIGHCI), 2006 - 2008
  
 ## Editorial Reviews
------------------
 - First Monday
 - MIS Quarterly
 - Research Policy
