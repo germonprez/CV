@@ -65,7 +65,6 @@ Assistant Professor of Information Systems
 (Totaling $4,358,760 with partner institutions; Continuously Funded 2010-2026)
  
 ## Foundations, Institutes, and Initiatives
---------------------------
 Germonprez, M. and Goggins, S. (2023-2026). Co-PI. CHAOSS: Building Sustainability, Alfred P. Sloan Foundation, $1,611,267. 
 
 Germonprez, M., Goggins, S., and Barron, E. (2022-2024). Co-PI. Core Support for Diversity, Equity and Inclusion Program at CHAOSS, Ford Foundation, $150,000
@@ -102,7 +101,6 @@ Israel Science Foundation Reviewer (2014)
 National Science Foundation Panel Member and Ad Hoc Reviewer (2010, 2012, 2013, 2016, 2017, 2019)  
  
 ## Universities
-------------
 - UN-Omaha Fund for Investigating in the Research Enterprise Grant (2013-2014), $20,000
 - UN-Omaha Faculty Research Initiative Grant (2013-2014), $5,000
 - UWEC College of Business Research Grant (2006, 2007, 2011), $6,000 - $7,500
@@ -110,7 +108,6 @@ National Science Foundation Panel Member and Ad Hoc Reviewer (2010, 2012, 2013, 
 - UWEC Mason Shoes Netsuite Technology Grant (2008), $750
  
 ## Corporations
-------------
 - Union Pacific Open Source Intake (2015-2016): $135,000
 - Texas Instruments SPDX/Yocto Integration (2013-2015): $15,000
 - Hewlett Packard FOSSology Discovery (2013-2014): $10,000
