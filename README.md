@@ -53,7 +53,7 @@ Assistant Professor of Information Systems
 # HONORS AND AWARDS
 - Communications of the AIS (CAIS) Paul Gray Award for the Most Thought Provoking Paper - 2018
 - Rutgers University, School of Business, Camden Annual Research Award - 2017
-- AIS Senior Scholar Best Paper Award (Top Research Award in the IS Field) - 2011
+- AIS Senior Scholar Best Paper Award (Top Research Award in the IS Field) - 2012
 - Journal of the Association for Information Systems (JAIS) Best Paper Award - 2011
 - Transactions on Human Computer Interaction (THCI) Best Reviewer Award - 2011
 - Carnegie Foundation CASE Professor of the Year Nominee for UW-Eau Claire - 2009
