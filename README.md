@@ -558,25 +558,22 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
 - Communications of the Association for Information Systems
  
 # PH.D. WORK
-- Vinod Ahuja, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023, Currently at Florida Gulf Coast University. 
-- Kevin Lumbard, Open Source Design: How Corporations Realize Determinacy in Open Source Design Engagements, Defended 2023. Currently at Creighton University. 
-- Georg Link, Cooperative Signaling Behavior: Signals for Open Source Project Health, University of Nebraska Omaha. Defended 2019. Currently at Bitergia. 
-- Nargess Tahmasbi, Social Engagements: The Role of Technology in Extreme Events, University of Nebraska Omaha. Defended 2016. Currently at Penn State Hazleton. 
-- Xiao-Dan Yu, Adaptive Use of IT Capabilities for Development of Shared Mental Models in Virtual Teams, University of Nebraska Omaha. Defended 2013. Currently at the University of International Business and Economics Beijing.
-- Dawn Owens, Understanding the Adaptive Use of Virtual World Technology Capabilities and Trust in Virtual Teams, University of Nebraska Omaha. Defended 2012. Currently at UT-Dallas. 
-- Alanah Davis, Technology Choice in Virtual Teams: The Use of Interventions to Change the Pattern of Technology Choice in Virtual Teams, University of Nebraska Omaha. Defended 2009. Currently at Drake University.
-- Dirk Hovorka, Information Systems Foundations: Four Research Essays, University of Colorado - Boulder. Defended 2006. Currently at the University of Sydney. 
-- Sean McGann, Coping with the Unplanned: The Dynamics of Improvisation in Information Systems: Evolution Within and Across Firm Boundaries, Case Western Reserve University. Defended 2005. Currently at the University of Washington. 
+- Vinod Ahuja, Advisor, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023, Florida Gulf Coast University. 
+- Kevin Lumbard, Advisor, Open Source Design: How Corporations Realize Determinacy in Open Source Design Engagements, Defended 2023. Creighton University. 
+- Georg Link, Advisor, Cooperative Signaling Behavior: Signals for Open Source Project Health, University of Nebraska Omaha. Defended 2019, Bitergia. 
+- Nargess Tahmasbi, Committee Member, Social Engagements: The Role of Technology in Extreme Events, Defended 2016, Penn State Hazleton. 
+- Xiao-Dan Yu, Committee Member, Adaptive Use of IT Capabilities for Development of Shared Mental Models in Virtual Teams, Defended 2013, University of International Business and Economics Beijing.
+- Dawn Owens, Committee Member, Understanding the Adaptive Use of Virtual World Technology Capabilities and Trust in Virtual Teams, Defended 2012, UT-Dallas. 
+- Alanah Davis, Committee Member, Technology Choice in Virtual Teams: The Use of Interventions to Change the Pattern of Technology Choice in Virtual Teams, Defended 2009, Drake University.
+- Dirk Hovorka, Committee Member, Information Systems Foundations: Four Research Essays, Defended 2006, University of Sydney. 
+- Sean McGann, Committee Member, Coping with the Unplanned: The Dynamics of Improvisation in Information Systems: Evolution Within and Across Firm Boundaries, Defended 2005, University of Washington. 
+
  
 # PROFESSIONAL AFFILIATIONS
 - IFIP 8.2
-- SIGOPEN
 - Association for Information Systems (AIS)
-- Open Community Data Exchange (OCDX)
-- Software Package Data Exchange (SPDX)
 - Association for Computing Machinery (ACM)
 - Midwest Association for Information Systems (MWAIS)
-- Community Health Analytics Open Source Software (CHAOSS)
  
 # TEACHING
 - Managing in a Digital World
