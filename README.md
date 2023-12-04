@@ -558,8 +558,8 @@ Building a Web Presence: Selling Online, Colorado State University, College of B
 - Communications of the Association for Information Systems
  
 # PH.D. WORK
-- Vinod Ahuja, Value of Open Source, University of Nebraska Omaha. Ongoing 2023.
-- Kevin Lumbard, Design and Open Source, University of Nebraska Omaha. Ongoing 2023.
+- Vinod Ahuja, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023, Currently at Florida Gulf Coast University. 
+- Kevin Lumbard, Open Source Design: How Corporations Realize Determinacy in Open Source Design Engagements, Defended 2023. Currently at Creighton University. 
 - Georg Link, Cooperative Signaling Behavior: Signals for Open Source Project Health, University of Nebraska Omaha. Defended 2019. Currently at Bitergia. 
 - Nargess Tahmasbi, Social Engagements: The Role of Technology in Extreme Events, University of Nebraska Omaha. Defended 2016. Currently at Penn State Hazleton. 
 - Xiao-Dan Yu, Adaptive Use of IT Capabilities for Development of Shared Mental Models in Virtual Teams, University of Nebraska Omaha. Defended 2013. Currently at the University of International Business and Economics Beijing.
@@ -599,20 +599,10 @@ Cumulus Internet Services, Fort Collins, CO, 1995-1996
 Co-Founder
   
 # REFERENCES
-Julie Kendall  
-Professor of Management  
-School of Business - Camden, Rutgers University  
-julie@thekendalls.org   
- 
 Sean Goggins  
 Professor  
 College of Engineering, Computer Science, University of Missouri  
 GogginsS@missouri.edu  
- 
-Lars Mathiassen  
-GRA Eminent Scholar, Professor and Co-Founder of Center for Process Innovation  
-J. Mack Robinson College of Business, Georgia State University  
-lmathiassen@ceprin.org  
 
 Demetris Cheatham  
 Senior Director, Diversity, Inclusion & Belonging Strategy  
