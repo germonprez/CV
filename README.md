@@ -527,7 +527,7 @@ Program Director for Digital Information Technology
 Alfred P. Sloan Foundation  
 greenberg@sloan.org  
 
-Demetris Cheatham
+Demetris Cheatham  
 Chief of Staff to the CEO
 GitHub  
 demetris11@github.com  
