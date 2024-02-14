@@ -312,8 +312,12 @@ Lumbard, K., Abbid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designin
 - Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
 
 ### PRESENTATIONS
-- Measuring OSS in Universities, OSPO++ Monthly Meetup, March 2023 
-- How Do We Design Open Source Communities to be More Diverse, Inclusive, and Equitable, FOSDEM, February 2023.
+- CHAOSS DEI Project Badging, Open Source Summit North America, Seattle, WA, April 2024.
+- OSS Viability and Project Selection, Open Source Summit North America, Seattle, WA, April 2024.
+- CHAOSS Overview, CHAOSScon, Brussels, Belguim, February 2024.
+- OSS Viability and Project Selection, Linux Foundaiton Member Summit, Monterey, CA, October, 2023. 
+- Measuring OSS in Universities, OSPO++ Monthly Meetup, Online, March 2023.
+- How Do We Design Open Source Communities to be More Diverse, Inclusive, and Equitable, FOSDEM, Brussels, Belguim, February 2023.
 - Corporate Engagement with Open Source Communities: Research Findings, Linux Foundation Member Summit, November 2021.
 - Core Support for Diversity, Equity, and Inclusion Program at CHAOSS, BRIDGE Lab, Online, October 2021.
 - Contributor Leaderboards to Incentivize Good Community Citizenship, Open Source Summit North America, Panel, Seattle, WA, October 2021.
