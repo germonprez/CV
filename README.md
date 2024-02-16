@@ -114,7 +114,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R. (2016). DoSOCS: A System for SPDX 2.0 Document Creation and Storage, Journal of Open Source Software.
 
 ### ARTICLES
-- Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, Accepted for Publication.
+- Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532.
 
 - Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, IEEE Computer, 54(8), 104-111.
 
