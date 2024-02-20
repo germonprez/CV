@@ -383,7 +383,7 @@ Lumbard, K., Abbid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designin
 - Building a Web Presence: Selling Online, Colorado State University, College of Business, Corporate Sponsorship Seminar, Fort Collins, CO, May 1996.
 
 ### PROFESSIONAL UNIVERSITY ACTIVITIES
-- University of Nebraska Omaha, Faculty Senate, 2021-2024
+- University of Nebraska Omaha, Faculty Senate, 2021-2023
 - University of Nebraska Omaha, College of IS&T Dean Search Committee, 2020-2021
 - University of Nebraska Omaha, College of IS&T Personnel Committee, 2017-2021
 - University of Nebraska Omaha, Excellence in Research Awards Committee, Chair, 2017-2018
