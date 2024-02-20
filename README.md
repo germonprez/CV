@@ -197,8 +197,6 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 
 - Lumbard, K., Werther-Poulin, G., Buhman, A., Hale, M., Germonprez, M., and Goggins, S. (2020). Welcome? Investigating the reception of new contributors to organizational-communal open source software projects, Proceeding of AMCIS 2020, Online.
 
-- Germonprez, M. and Snell, M. (2020). Diversity & Inclusion Badging Program, CHAOSScon EU 2020, Brussels, Belgium.
-
 - Yi, S., Lumbard, K., Damen, N., Germonprez, M., and Toh, C. (2019). Towards an Information Archetypes Framework: Exploring the Types of Information Used in Open Source Design Engagements, Proceedings of AMSE 2019 International Design Engineering Technical Conferences & Design Education, Anaheim, CA.
 
 - Lumbard, K., Ahuja, V., Goggins, S., and Germonprez, M. (2019). Something to Talk About: Exploring Open Source Design Spaces. Proceedings of MWAIS 2019, Oshkosh, WI.
