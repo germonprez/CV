@@ -314,8 +314,8 @@ Lumbard, K., Abbid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designin
 - CHAOSS DEI Project Badging, Open Source Summit North America, Seattle, WA, April 2024.
 - OSS Viability and Project Selection, Open Source Summit North America, Seattle, WA, April 2024.
 - Rising Tides: The Steady Transformation of Open Source, Georgia State University, Atlanta, GA, February 2024.
-- CHAOSS Overview, CHAOSScon, Brussels, Belguim, February 2024.
-- OSS Viability and Project Selection, Linux Foundaiton Member Summit, Monterey, CA, October 2023. 
+- CHAOSS Overview, CHAOSScon, Brussels, Belgium, February 2024.
+- OSS Viability and Project Selection, Linux Foundation Member Summit, Monterey, CA, October 2023. 
 - Measuring OSS in Universities, OSPO++ Monthly Meetup, Online, March 2023.
 - How Do We Design Open Source Communities to be More Diverse, Inclusive, and Equitable, FOSDEM, Brussels, Belguim, February 2023.
 - Corporate Engagement with Open Source Communities: Research Findings, Linux Foundation Member Summit, November 2021.
