@@ -486,7 +486,7 @@ Lumbard, K., Abbid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designin
 - Natural Sciences and Engineering Research Council of Canada Reviewer (2019)
 - Danish Council for Independent Research Reviewer (2014)
 - Israel Science Foundation Reviewer (2014)
-- National Science Foundation Panel and Ad Hoc Reviews (2010, 2012, 2013, 2016, 2017, 2019)
+- National Science Foundation Panel and Ad Hoc Reviews (2010, 2012, 2013, 2016, 2017, 2019, 2024)
 
 ### PH.D. WORK
 - Vinod Ahuja, UN-Omaha, Advisor, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023, Currently at Florida Gulf Coast University.
