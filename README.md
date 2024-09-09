@@ -310,6 +310,7 @@ Lumbard, K., Abbid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designin
 - Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
 
 ### PRESENTATIONS
+- Open Source in Higher Education, IBM Z Day, Online, October 2024. 
 - Rising Tides: The Steady Transformation of Open Source, Syracuse University, Syracuse, NY, April 2024.
 - CHAOSS DEI Project Badging, Open Source Summit North America, Seattle, WA, April 2024.
 - OSS Viability and Project Selection, Open Source Summit North America, Seattle, WA, April 2024.
