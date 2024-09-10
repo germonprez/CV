@@ -65,8 +65,6 @@ Assistant Professor of Information Systems
 
 - Germonprez, M., Goggins, S., and Barron, E. (2021-2023). Co-PI. Core Support for Diversity, Equity, and Inclusion Program at CHAOSS, Ford Foundation, $150,000.  
 
-- Germonprez, M. Goggins, S., Barron, E., and Lumbard, K. (2021-2022). Co-PI. Corporate Engagement with Open Source Projects, Red Hat, $91,617.  
-
 - Goggins, S. and Germonprez, M. (2020-2023). Co-PI. Securing and Expanding CHAOSS for Measuring Health and Sustainability of Open Source Software Communities, Alfred P. Sloan Foundation, $899,876.  
 
 - Germonprez, M., Goggins, S., and Barron, E. (2020-2021). Co-PI. Open Source Community Diversity & Inclusion, Ford Foundation, $50,000.  
@@ -98,12 +96,13 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - UWEC Mason Shoes Netsuite Technology Grant (2008), $750
 
 #### Corporations
-- Union Pacific Open Source Intake (2015-2016): $135,000
-- Texas Instruments SPDX/Yocto Integration (2013-2015): $15,000
-- Hewlett Packard FOSSology Discovery (2013-2014): $10,000
-- Amazon.com Cloud Computing Grant (2010-2011): $6,000
-- My InnerView Student Mentorship (2009), $3,500
-- Roehl Transportation Student Mentorship (2008), $3,000
+- Red Hat, Corporate Engagement with Open Source Projects (2021-2022), $91,617
+- Union Pacific, Open Source Intake (2015-2016): $135,000
+- Texas Instruments, SPDX/Yocto Integration (2013-2015): $15,000
+- Hewlett Packard, FOSSology Discovery (2013-2014): $10,000
+- Amazon.com, Cloud Computing Grant (2010-2011): $6,000
+- My InnerView, Student Mentorship (2009), $3,500
+- Roehl Transportation, Student Mentorship (2008), $3,000
 
 ### OPEN SOURCE ENGAGEMENT
 - Founding Member & Board Member of the Linux Foundation CHAOSS Project  
