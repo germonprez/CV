@@ -205,7 +205,8 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M., Link, G., Lumbard, K., and Goggins, S. (2018). Eight Observations and 24 Research Questions About Open Source Projects: Illuminating New Realities, Proceedings of CSCW, Vol. 2, Article 57, New York, NY.
 
 - Gandhi, R., Germonprez, M., and Link, G. (2018). Open Data Standards for Open Source Software Risk Management Routines: An Examination of SPDX, Proceedings of GROUP 2018, Sanibel Island, FL.
-Lumbard, K., Abbid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes, Proceedings of HICSS 2018, Waikoloa Village, HI.
+
+- Lumbard, K., Abbid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes, Proceedings of HICSS 2018, Waikoloa Village, HI.
 
 - Lumbard, K. and Germonprez, M. (2017). Open Source Communities as Liminal Ecosystems, Proceedings of MWAIS 2017, Springfield, IL.
 
