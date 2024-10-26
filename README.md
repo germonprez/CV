@@ -59,6 +59,8 @@ Assistant Professor of Information Systems
 (Totaling $4.3M with partner institutions; Continuously Funded 2010-2026)
 
 #### Foundations, Institutes, and Initiatives  
+- Goggins, S., Germonprez, M., El Zein, R., Foster, D., and Barron, E. (2024-2025), Scientific Open Source Project Health and Sustainability, Wellcome Trust, $557,888 (in contracting).
+
 - Germonprez, M. and Goggins, S. (2023-2026). Co-PI. CHAOSS: Building Sustainability, Alfred P. Sloan Foundation, $1,611,267.  
 
 - Goggins, S., Germonprez, M., and Barron, E. (2023-2025). Co-PI. CHAOSS: Supporting DEI Efforts in Open Source Projects Around the World, Ford Foundation, $150,000.  
