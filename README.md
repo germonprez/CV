@@ -196,8 +196,6 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 ### CONFERENCES and WORKSHOPS
 - Germonprez, M., Lin Y-K, Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA.
 
-- Germonprez, M., Nagel, F., Vinogradov, K., Tridgell, J., Elie, E., Chandrasekhar, R., and Masayuki, H. (2024). The Future of Open Source Research, OFA Symposium, Panel, Boston, MA.
-
 - Goggins, S., Lumbard, K., and Germonprez, M. (2021). Open Source Community Health: Analytical Metrics and Their Corresponding Narratives, 4th International Workshop on Software Health in Projects, Ecosystems, and Communities (SoHeal2021), Online.
 
 - Lumbard, K., Werther-Poulin, G., Buhman, A., Hale, M., Germonprez, M., and Goggins, S. (2020). Welcome? Investigating the reception of new contributors to organizational-communal open source software projects, Proceeding of AMCIS 2020, Online.
@@ -316,7 +314,8 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
 
 ### PRESENTATIONS
-- Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA, November 2024. 
+- Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA, November 2024.
+- The Future of Open Source Research, OFA Symposium, Panel, Boston, MA, November 2024.
 - Open Source in Higher Education, IBM Z Day, Online, October 2024. 
 - Rising Tides: The Steady Transformation of Open Source, Syracuse University, Syracuse, NY, April 2024.
 - CHAOSS DEI Project Badging, Open Source Summit North America, Seattle, WA, April 2024.
