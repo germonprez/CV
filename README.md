@@ -194,7 +194,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, in Information Systems Research: Relevant Theory and Informed Practice, Kaplan, B., Truex, D., Wastell, D., Wood-Harper, T., & DeGross, J. (eds.), Kluwer Academic Publishers, Boston, MA.
 
 ### CONFERENCES and WORKSHOPS
-- Germonprez, M., Goggins, S., Lin Y-K, Li, Y. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA.
+- Germonprez, M., Lin Y-K, Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA.
 
 - Germonprez, M., Nagel, F., Vinogradov, K., Tridgell, J., Elie, E., Chandrasekhar, R., and Masayuki, H. (2024). The Future of Open Source Research, OFA Symposium, Panel, Boston, MA.
 
