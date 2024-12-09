@@ -8,12 +8,7 @@ germonprez@gmail.com
 he/him/his  
 
 ### RESEARCH SUMMARY
-Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Science & Technology and Professor of Information Systems and Quantitative Analysis in the College of Information Science
-& Technology at the University of Nebraska Omaha. He uses qualitative field-studies to research organizational engagement with open communities and the dynamics of work found in these
-engagements. His lines of research have been funded by numerous organizations including the Alfred P. Sloan Foundation, the Ford Foundation, the National Science Foundation, the Chan Zuckerberg
-Initiative, and Mozilla. Matt is the co-founder of the Linux Foundation Community Health Analytics OSS Project (CHAOSS). He has had work accepted at ISR, MISQ, JAIS, JIT, ISJ, I&O, CSCW, OpenSym,
-Group, HICSS, IEEE Computer, and ACM Interactions. Matt is an active open source community member, having presented design and development work at LinuxCon, the Open Source Summit NA,
-the Linux Foundation Open Compliance Summit, the Linux Foundation Collaboration Summit, and the Open Source Member Summit.
+Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Science & Technology and Professor of Information Systems and Quantitative Analysis in the College of Information Science & Technology at the University of Nebraska Omaha. He uses qualitative field-studies to research organizational engagement with open communities and the dynamics of work found in these engagements. His lines of research have been funded by numerous organizations including the Alfred P. Sloan Foundation, the Ford Foundation, the National Science Foundation, the Chan Zuckerberg Initiative, and Mozilla. Matt is the co-founder of the Linux Foundation Community Health Analytics OSS Project (CHAOSS). He has had work accepted at ISR, MISQ, JAIS, JIT, ISJ, I&O, CSCW, OpenSym, Group, HICSS, IEEE Computer, and ACM Interactions. Matt is an active open source community member, having presented design and development work at LinuxCon, the Open Source Summit NA, the Linux Foundation Open Compliance Summit, the Linux Foundation Collaboration Summit, and the Open Source Member Summit.
 
 ### EDUCATION
 - PhD, University of Colorado, Boulder, CO, Information Systems, 2002
@@ -438,6 +433,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
 
 #### Organizing (Conference Level)
+- Summer Institute of the Consortium for the Science of Sociotechnical Systems (CSST), Mentor, 2025
 - BIGXII+ Doctoral and Junior Faculty Consortium, Co-Chair, 2017
 - SIGOPEN ICIS Workshop, Co-Chair, 2015-2016
 - SIGOPEN ECIS Workshop Co-Chair, 2015
