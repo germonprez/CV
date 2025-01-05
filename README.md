@@ -54,7 +54,7 @@ Assistant Professor of Information Systems
 (Totaling $4.3M with partner institutions; Continuously Funded 2010-2026)
 
 #### Foundations, Institutes, and Initiatives  
-- Germonprez, M., Goggins, S., El Zein, R., Foster, D., and Barron, E. (2024-2025), Scientific Open Source Project Health and Sustainability, Wellcome Trust, $557,888 (in contracting).
+- Germonprez, M., Goggins, S., El Zein, R., Foster, D., and Barron, E. (2024-2025), Scientific Open Source Project Health and Sustainability, Wellcome Trust, $557,888.
 
 - Germonprez, M. and Goggins, S. (2023-2026). Co-PI. CHAOSS: Building Sustainability, Alfred P. Sloan Foundation, $1,611,267.  
 
@@ -110,6 +110,8 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R. (2016). DoSOCS: A System for SPDX 2.0 Document Creation and Storage, Journal of Open Source Software.
 
 ### ARTICLES
+- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2024). Open Source software Field Research: Spanning Social and Practice Networks for Re-entering the Field, First Monday, Conditionally Accepted. 
+
 - Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532.
 
 - Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, IEEE Computer, 54(8), 104-111.
