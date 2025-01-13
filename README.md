@@ -86,8 +86,8 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Khazanchi, D., Germonprez, M., Matfield, D., and Mirski, P. (2010-2013). Co-PI. Global IT Project Management, DOE/FIPSE Atlantis Excellence in Mobility, $194,000.    
 
 #### Universities
-- UN-Omaha Fund for Investigating in the Research Enterprise Grant (2013-2014), $20,000
-- UN-Omaha Faculty Research Initiative Grant (2013-2014), $5,000
+- University of Nebraka Omaha Fund for Investigating in the Research Enterprise Grant (2013-2014), $20,000
+- University of Nebraka Omaha Faculty Research Initiative Grant (2013-2014), $5,000
 - UWEC College of Business Research Grant (2006, 2007, 2011), $6,000 - $7,500
 - UWEC Student-Faculty PIE/ORSP International Grant (2008), $4,200
 - UWEC Mason Shoes Netsuite Technology Grant (2008), $750
