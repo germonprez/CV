@@ -60,11 +60,11 @@ Assistant Professor of Information Systems
 
 - Goggins, S., Germonprez, M., and Barron, E. (2023-2025). Co-PI. CHAOSS: Supporting DEI Efforts in Open Source Projects Around the World, Ford Foundation, $150,000.  
 
-- Germonprez, M., Goggins, S., and Barron, E. (2021-2023). Co-PI. Core Support for Diversity, Equity, and Inclusion Program at CHAOSS, Ford Foundation, $150,000.  
+- Germonprez, M., Goggins, S., and Barron, E. (2021-2023). Co-PI. Core Support for CHAOSS, Ford Foundation, $150,000.  
 
 - Goggins, S. and Germonprez, M. (2020-2023). Co-PI. Securing and Expanding CHAOSS for Measuring Health and Sustainability of Open Source Software Communities, Alfred P. Sloan Foundation, $899,876.  
 
-- Germonprez, M., Goggins, S., and Barron, E. (2020-2021). Co-PI. Open Source Community Diversity & Inclusion, Ford Foundation, $50,000.  
+- Germonprez, M., Goggins, S., and Barron, E. (2020-2021). Co-PI. Core Support for CHAOSS Project, Ford Foundation, $50,000.  
 
 - Germonprez, M. and Goggins, S. (2020-2021). Co-PI. Open Source Project Health. Mozilla, $147,953.  
 
@@ -323,15 +323,15 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Measuring OSS in Universities, OSPO++ Monthly Meetup, Online, March 2023.
 - How Do We Design Open Source Communities to be More Diverse, Inclusive, and Equitable, FOSDEM, Brussels, Belguim, February 2023.
 - Corporate Engagement with Open Source Communities: Research Findings, Linux Foundation Member Summit, November 2021.
-- Core Support for Diversity, Equity, and Inclusion Program at CHAOSS, BRIDGE Lab, Online, October 2021.
+- Core Support at CHAOSS, BRIDGE Lab, Online, October 2021.
 - Contributor Leaderboards to Incentivize Good Community Citizenship, Open Source Summit North America, Panel, Seattle, WA, October 2021.
 - CHAOSS and Augur, Chan Zuckerberg Essential Open Source Software Workshop, Online, December 2020.
 - Surveying Critical Risks to Science: Themes from Analysis of Open Scientific Software, Chan Zuckerberg Essential Open Source Software Workshop, Berkeley, CA, February 2020.
-- Diversity & Inclusion Badging Program, CHAOSScon, Brussels, Belgium, February 2020.
+- CHAOSS Badging Program, CHAOSScon, Brussels, Belgium, February 2020.
 - The Strength of a Rising Tide: Open Source’s Steady Transformation, National University of Ireland, Galway, Ireland, January 2020.
 - CHAOSS: Forward, Open Source Summit North America, San Diego, CA, August 2019. 
 - Community Health: Greenfields and Gremlins, Keynote, CHAOSScon, Vancouver, Canada, August 2018.
-- CHAOSS: Exploring Open Source Project Diversity & Inclusion, Linux Foundation Open Source Leadership Summit, Napa, CA, March 2018.
+- CHAOSS: Exploring Open Source Project Engagement, Linux Foundation Open Source Leadership Summit, Napa, CA, March 2018.
 - Rising Tides and Open Source Projects, UN-Omaha BRIDGE Lab, Omaha, NE, October 2017.
 - Community Health Analytics Open Source Software, Presented at Red Hat, Raleigh, NC, September 2017.
 - Community Health Analytics Open Source Software (CHAOSS): An Open Source Community for
