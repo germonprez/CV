@@ -58,7 +58,7 @@ Assistant Professor of Information Systems
 
 - Germonprez, M. and Goggins, S. (2023-2026). Co-PI. CHAOSS: Building Sustainability, Alfred P. Sloan Foundation, $1,611,267.  
 
-- Goggins, S., Germonprez, M., and Barron, E. (2023-2025). Co-PI. CHAOSS: Supporting DEI Efforts in Open Source Projects Around the World, Ford Foundation, $150,000.  
+- Goggins, S., Germonprez, M., and Barron, E. (2023-2025). Co-PI. CHAOSS: Core Support, Ford Foundation, $150,000.  
 
 - Germonprez, M., Goggins, S., and Barron, E. (2021-2023). Co-PI. Core Support for CHAOSS, Ford Foundation, $150,000.  
 
