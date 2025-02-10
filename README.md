@@ -315,7 +315,6 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - The Future of Open Source Research, OFA Symposium, Panel, Boston, MA, November 2024.
 - Open Source in Higher Education, IBM Z Day, Online, October 2024. 
 - Rising Tides: The Steady Transformation of Open Source, Syracuse University, Syracuse, NY, April 2024.
-- CHAOSS DEI Project Badging, Open Source Summit North America, Seattle, WA, April 2024.
 - OSS Viability and Project Selection, Open Source Summit North America, Seattle, WA, April 2024.
 - Rising Tides: The Steady Transformation of Open Source, Georgia State University, Atlanta, GA, February 2024.
 - CHAOSS Overview, CHAOSScon, Brussels, Belgium, February 2024.
