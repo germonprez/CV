@@ -337,8 +337,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Community Health Analytics Open Source Software (CHAOSS): An Open Source Community for
 - Advancing Project Transparency, Linux Foundation Open Source Summit North America, Los Angeles, CA, September 2017.
 - SPDX in Software Exchanges, Linux Foundation Leadership Summit, Olympic Village, CA, February 2017.
-- Understanding Open Source Communities as Complex Adaptive Systems: A Case of the R Project
-- Community, AMCIS 2016, San Diego, CA, August 2016.
+- Understanding Open Source Communities as Complex Adaptive Systems: A Case of the R Project Community, AMCIS 2016, San Diego, CA, August 2016.
 - Making Data Shareable: The Open Community Data Exchange, University College Cork, Cork, Ireland, July 2016.
 - Corporate Engagement with Open Source Communities: A Theory of Responsive Design, University of Sydney, Sydney, AU, May 2015.
 - Corporate Engagement with Open Source Communities: A Theory of Responsive Design, University of Missouri, Columbia, MO, April 2015.
