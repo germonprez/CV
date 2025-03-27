@@ -389,6 +389,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Building a Web Presence: Selling Online, Colorado State University, College of Business, Corporate Sponsorship Seminar, Fort Collins, CO, May 1996.
 
 ### PROFESSIONAL UNIVERSITY ACTIVITIES
+- University of Nebraska Omaha, Weitz Innovation and Excellence Committee, 2024-2026
 - University of Nebraska Omaha, Faculty Senate, 2021-2023
 - University of Nebraska Omaha, College of IS&T Dean Search Committee, 2020-2021
 - University of Nebraska Omaha, College of IS&T Personnel Committee, 2017-2021
