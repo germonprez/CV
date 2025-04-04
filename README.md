@@ -310,7 +310,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
 
 ### PRESENTATIONS
-- New Trajectories: Collective Action Threats (Relicensing) and Member Responses (Hard Forks) in OSS, University of Cincinnati, March 2025. 
+- New Trajectories: Collective Action Threats and Member Responses in OSS, University of Cincinnati, March 2025. 
 - 10 Years of Work in Open Source, Social Science Foo Camp, Menlo Park, CA, February 2025. 
 - Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA, November 2024.
 - The Future of Open Source Research, OFA Symposium, Panel, Boston, MA, November 2024.
