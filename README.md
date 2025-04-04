@@ -412,6 +412,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 ### PROFESSIONAL ACADEMIC ACTIVITIES
 
 #### Executive
+- Executive Advisory Board, Information Systems Practice Journal, 2025-current
 - President, Association for Information Systems SIGOPEN, 2017-2018
 - President Elect, Association for Information Systems SIGOPEN, 2015-2016
 - Co-Founder, Association for Information Systems SIGOPEN, 2015
