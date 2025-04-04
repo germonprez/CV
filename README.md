@@ -449,7 +449,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Organizing Co-Chair, IFIP 8.2, 2005
 
 #### Program Committee Member (Track or Mini-Track Level)
-- Mining Software Repositories - FOSS Award, 2025
+- Mining Software Repositories FOSS Award Committee, 2025
 - AMCIS Doctoral Consortium Member, 2018
 - OpenSym Program Co-Chair, 2018
 - OpenSym Program Committee, 2020 and 2021
