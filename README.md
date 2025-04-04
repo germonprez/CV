@@ -100,14 +100,6 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - My InnerView, Student Mentorship (2009), $3,500
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
-### OPEN SOURCE ENGAGEMENT
-- Founding Member & Board Member of the Linux Foundation CHAOSS Project  
-- Contributor to the SPDX Specification
-- Germonprez, M. and Linåker, J. (2024). Measuring and Communicating Impact by your OSPO, OSPO Book Project, Published by the TODO Group. 
-- Link, G., Lumbard, K., Damen, N., Rosser, H., Germonprez, M. Goggins, S., Wiggins, A., Ahuja, V., Brier, J., Cohoon, H., Halfaker, A., Howison, J., Marti, D., Newman, G., Osterlund, C., Paik, R., Rother, B., and Schecter, A. (2019). Open Community Health: Workshop Report, Journal of Peer Production, Issue 13.
-- Ahuja, V., Marti, D., Link, G., Germonprez, M., and Goggins, S. (2018). How to Measure the Impact of Your Open Source Project, Opensource.com.
-- Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R. (2016). DoSOCS: A System for SPDX 2.0 Document Creation and Storage, Journal of Open Source Software.
-
 ### ARTICLES
 - Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source software Field Research: Spanning Social and Practice Networks for Re-entering the Field, First Monday. 
 
@@ -386,6 +378,14 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Redefining Channel Expansion: A Critical Approach, AMCIS 2001, Boston, MA, August 2001.
 - A Critical Examination of Channel Expansion Theory, Information Systems Research Colloquium, University of Colorado, Boulder, December 2000.
 - Building a Web Presence: Selling Online, Colorado State University, College of Business, Corporate Sponsorship Seminar, Fort Collins, CO, May 1996.
+
+### OPEN SOURCE ENGAGEMENT
+- Founding Member & Board Member of the Linux Foundation CHAOSS Project  
+- Contributor to the SPDX Specification
+- Germonprez, M. and Linåker, J. (2024). Measuring and Communicating Impact by your OSPO, OSPO Book Project, Published by the TODO Group. 
+- Link, G., Lumbard, K., Damen, N., Rosser, H., Germonprez, M. Goggins, S., Wiggins, A., Ahuja, V., Brier, J., Cohoon, H., Halfaker, A., Howison, J., Marti, D., Newman, G., Osterlund, C., Paik, R., Rother, B., and Schecter, A. (2019). Open Community Health: Workshop Report, Journal of Peer Production, Issue 13.
+- Ahuja, V., Marti, D., Link, G., Germonprez, M., and Goggins, S. (2018). How to Measure the Impact of Your Open Source Project, Opensource.com.
+- Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R. (2016). DoSOCS: A System for SPDX 2.0 Document Creation and Storage, Journal of Open Source Software.
 
 ### PROFESSIONAL UNIVERSITY ACTIVITIES
 - University of Nebraska Omaha, Weitz Innovation and Excellence Committee, 2024-2026
