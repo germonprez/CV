@@ -39,7 +39,7 @@ Assistant Professor of Information Systems
 2002 - 2005  
 
 ### HONORS AND AWARDS  
-- Communications of the AIS Paul Gray Award for the Most Thought Provoking Paper - 2018
+- Communications of the AIS Paul Gray Award for the Most Thought Provoking Paper - 2017
 - Rutgers University, School of Business, Camden Annual Research Award - 2017
 - AIS Senior Scholar Best Paper Award (Top Research Award in the IS Field) - 2011
 - Journal of the Association for Information Systems Best Paper Award - 2011
