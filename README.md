@@ -423,7 +423,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Secretary-Treasurer, SIG-HCI, 2004-2007
 
 #### Journal Editorship
-- Senior Editor, Journal of Information Technology, 2018-2024
+- Senior Editor, Journal of Information Technology, 2018-current
 - Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2019
 - Associate Editor, Information Systems Journal, 2016-2019
 - Editorial Board Member, Journal of Information Technology, 2010 - 2018
@@ -435,8 +435,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Guest Editor, DataBase for the Advances of Info. Sys. (with T. Hess and G. Lee) SI on HCI, 2008
 - Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
 
-#### Organizing (Conference Level)
-- Summer Institute of the Consortium for the Science of Sociotechnical Systems (CSST), Mentor, 2025
+#### Conference Organizing
 - BIGXII+ Doctoral and Junior Faculty Consortium, Co-Chair, 2017
 - SIGOPEN ICIS Workshop, Co-Chair, 2015-2016
 - SIGOPEN ECIS Workshop Co-Chair, 2015
@@ -447,7 +446,8 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Organizing Co-Chair, SIGHCI/ICIS Workshop, 2006
 - Organizing Co-Chair, IFIP 8.2, 2005
 
-#### Program Committee Member (Track or Mini-Track Level)
+#### Conference Program Committee Member
+- Summer Institute of the Consortium for the Science of Sociotechnical Systems (CSST), Mentor, 2025
 - Mining Software Repositories FOSS Award Committee, 2025
 - AMCIS Doctoral Consortium Member, 2018
 - OpenSym Program Co-Chair, 2018
