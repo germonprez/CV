@@ -410,7 +410,8 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 
 ### PROFESSIONAL ACADEMIC ACTIVITIES
 
-#### Executive
+#### Commmittees and Executive
+- Jessica Pye Doctoral Student Service Award Committee, Association for Information Systems, 2025–2027
 - Executive Advisory Board, Information Systems Practice Journal, 2025-current
 - President, Association for Information Systems SIGOPEN, 2017-2018
 - President Elect, Association for Information Systems SIGOPEN, 2015-2016
