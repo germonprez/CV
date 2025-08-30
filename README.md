@@ -302,6 +302,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
 
 ### PRESENTATIONS
+- Key Stakeholders in Open Source Software Ecosystems, Panel, Open Source Communities and Accountability Workshop, Carnegie Mellon University, October 2025. 
 - New Trajectories: Collective Action Threats and Member Responses in OSS, University of Cincinnati, March 2025. 
 - 10 Years of Work in Open Source, Social Science Foo Camp, Menlo Park, CA, February 2025. 
 - Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA, November 2024.
@@ -541,7 +542,9 @@ Program Director for Digital Information Technology
 Alfred P. Sloan Foundation  
 greenberg@sloan.org  
 
-Demetris Cheatham  
-Chief of Staff to the CEO  
-GitHub  
-demetris11@github.com  
+Lars Mathiassen
+GRA Eminent Scholar, Regents Professor
+Center for Digital Innovation
+Computer Information Systems
+Robinson College of Business
+Georgia State University
