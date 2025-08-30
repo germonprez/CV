@@ -388,10 +388,11 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R. (2016). DoSOCS: A System for SPDX 2.0 Document Creation and Storage, Journal of Open Source Software.
 
 ### PROFESSIONAL UNIVERSITY ACTIVITIES
+- University of Nebraska Omaha, College of IS&T Executive Committee, 2018-2021, 2024-2026
 - University of Nebraska Omaha, Weitz Innovation and Excellence Committee, 2024-2026
 - University of Nebraska Omaha, Faculty Senate, 2021-2023
 - University of Nebraska Omaha, College of IS&T Dean Search Committee, 2020-2021
-- University of Nebraska Omaha, College of IS&T Personnel Committee, 2017-2021
+- University of Nebraska Omaha, College of IS&T Personnel Committee, 2017-2021, 2024-2026
 - University of Nebraska Omaha, Excellence in Research Awards Committee, Chair, 2017-2018
 - University of Nebraska Omaha, Excellence in Teaching Awards Committee, 2015-2017
 - University of Nebraska Omaha, Doctoral Program Committee, 2013-2016, 2017-2020
