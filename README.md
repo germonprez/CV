@@ -517,6 +517,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Midwest Association for Information Systems (MWAIS)
 
 ### TEACHING
+- Cloud Infrastructure
 - Managing in a Digital World
 - Object Oriented Programming
 - Information Systems Introduction
