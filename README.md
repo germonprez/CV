@@ -543,9 +543,15 @@ Program Director for Digital Information Technology
 Alfred P. Sloan Foundation  
 greenberg@sloan.org  
 
-Lars Mathiassen
-GRA Eminent Scholar, Regents Professor
-Center for Digital Innovation
-Computer Information Systems
-Robinson College of Business
-Georgia State University
+Lars Mathiassen  
+GRA Eminent Scholar, Regents Professor  
+Center for Digital Innovation  
+Computer Information Systems  
+Robinson College of Business  
+Georgia State University  
+lars.mathiassen@ceprin.org  
+
+Demetris Cheatham  
+Chief of Staff to the CEO, GitHub  
+demetris11@github.com  
+
