@@ -389,25 +389,24 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R. (2016). DoSOCS: A System for SPDX 2.0 Document Creation and Storage, Journal of Open Source Software.
 
 ### PROFESSIONAL UNIVERSITY ACTIVITIES
-- University of Nebraska Omaha, Weitz Innovation and Excellence Committee, 2024-2026
-- University of Nebraska Omaha, Faculty Senate, 2021-2023
+- University of Nebraska Omaha, Weitz Innovation and Excellence Advisory Committee, 2024-2027
+- University of Nebraska Omaha, Faculty Senate, 2021-2024
+- University of Nebraska Omaha, Office of Research / Sponsored Activity Advisory Board, 2021-2022
 - University of Nebraska Omaha, College of IS&T Dean Search Committee, 2020-2021
-- University of Nebraska Omaha, College of IS&T Personnel Committee, 2017-2021, 2024-2026
-- University of Nebraska Omaha, Excellence in Research Awards Committee, Chair, 2017-2018
+- University of Nebraska Omaha, College of IS&T Personnel Committee, 2014-2021, 2024-2026
+- University of Nebraska Omaha, Excellence in Research Awards Committee, 2017-2018
 - University of Nebraska Omaha, Excellence in Teaching Awards Committee, 2015-2017
 - University of Nebraska Omaha, Doctoral Program Committee, 2013-2016, 2017-2020
 - University of Nebraska Omaha, Dean's Advisory Committee, 2013-2017
 - University of Nebraska Omaha, UCRCA Committee, 2014-2017
 - University of Nebraska Omaha, GRACA ad hoc Reviewing, 2014-2016
-- University of Nebraska Omaha, College of IS&T Personnel Committee, 2014-2016
 - University of Nebraska Omaha, College of IS&T Academic Committee, 2014-2016
 - University of Wisconsin - Eau Claire, Awards Committee, 2010-2011
 - University of Wisconsin - Eau Claire, COB Dean Search Committee, 2010
 - University of Wisconsin - Eau Claire, COB Curriculum Committee, 2010-2011
 - University of Wisconsin - Eau Claire Civility Committee, 2005-2007
-- Undergraduate Faculty Advisor - IS Department, Case Western Reserve University, 2003-2005
-- Information Systems Intro Course Design - IS Department, Case Western Reserve University, 2004
 - Faculty Representative for USG Student Group - Case Western Reserve University, 2004
+
 
 ### PROFESSIONAL ACADEMIC ACTIVITIES
 
