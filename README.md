@@ -286,6 +286,10 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, Proceedings of AMCIS 2001, Boston, MA.
 
 ### WORKING PAPERS
+-  Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M. (2025). and Goggins, G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670
+
+- Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K., and Howison, J. (2024). Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field, ArXiv, https://arxiv.org/abs/2402.14172
+
 - Germonprez, M., Pallud, J., and Monod, E. (2011). Technology Embodiment: The Contribution of Heidegger's Phenomenology, Sprouts: Working Papers on Information Systems, 466.
 
 - Hovorka, D.S. and Germonprez, M. (2011). Towards an Informativity Account of Design Research, Sprouts: Working Papers on Information Systems, 452.
@@ -305,7 +309,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
 
 ### PRESENTATIONS
-- Open Source Supply Chains as Sociotechnical Sysetms, University of Georgia, January 2026. 
+- Open Source Supply Chains as Sociotechnical Systems, University of Georgia, January 2026. 
 - Generative Artificial Intelligence: A Potential Disruptor to Corporate Engagement with Open Source, ICIS TREO Talks, Nashville, TN, December 2025.
 - Key Stakeholders in Open Source Software Ecosystems, Panel, Open Source Communities and Accountability Workshop, Carnegie Mellon University, October 2025. 
 - New Trajectories: Collective Action Threats and Member Responses in OSS, University of Cincinnati, March 2025. 
