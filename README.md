@@ -183,7 +183,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, in Information Systems Research: Relevant Theory and Informed Practice, Kaplan, B., Truex, D., Wastell, D., Wood-Harper, T., & DeGross, J. (eds.), Kluwer Academic Publishers, Boston, MA.
 
 ### CONFERENCES and WORKSHOPS
-- Sharma, P., Herfurth, A., Sokiyna, M., Das, S., Siponen, M., and Germonprez, M. (2025). A Framework for Mitigating Licensing Risks in AI-Generated Code, MISQE pre-ICIS workshop  on The Future of Artificial Intelligence in the Enterprise. Nashville, TN. 
+- Sharma, P.N., Herfurth, A., Sokiyna, M., Germonprez, M., Sharma, P., Das, S., and Siponen, M. (2025). A Framework for Mitigating Licensing Risks in AI-Generated Code, MISQE pre-ICIS workshop  on The Future of Artificial Intelligence in the Enterprise. Nashville, TN. 
 
 - Germonprez, M., Lin Y-K, Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA.
 
