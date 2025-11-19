@@ -102,7 +102,9 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
 ### ARTICLES
-- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source software Field Research: Spanning Social and Practice Networks for Re-entering the Field, First Monday. 
+- Germonprez, M. (2025). Open Source Community Roles and Community Continuity, IEEE Computer, Accepted for Publication. 
+
+- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, First Monday. 
 
 - Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532.
 
