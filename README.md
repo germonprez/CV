@@ -185,8 +185,6 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, in Information Systems Research: Relevant Theory and Informed Practice, Kaplan, B., Truex, D., Wastell, D., Wood-Harper, T., & DeGross, J. (eds.), Kluwer Academic Publishers, Boston, MA.
 
 ### CONFERENCES and WORKSHOPS
-- Sharma, P.N., Herfurth, A., Sokiyna, M., Germonprez, M., Sharma, P., Das, S., and Siponen, M. (2025). A Framework for Mitigating Licensing Risks in AI-Generated Code, MISQE pre-ICIS workshop  on The Future of Artificial Intelligence in the Enterprise. Nashville, TN. 
-
 - Germonprez, M., Lin Y-K, Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, OFA Symposium, Boston, MA.
 
 - Goggins, S., Lumbard, K., and Germonprez, M. (2021). Open Source Community Health: Analytical Metrics and Their Corresponding Narratives, 4th International Workshop on Software Health in Projects, Ecosystems, and Communities (SoHeal2021), Online.
@@ -288,6 +286,8 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, Proceedings of AMCIS 2001, Boston, MA.
 
 ### WORKING PAPERS
+- Sharma, P.N., Herfurth, A., Sokiyna, M., Germonprez, M., Sharma, P., Das, S., and Siponen, M. (2025). A Framework for Mitigating Licensing Risks in AI-Generated Code, MISQE pre-ICIS workshop on The Future of Artificial Intelligence in the Enterprise. Nashville, TN. 
+
 -  Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M. (2025). and Goggins, G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670
 
 - Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K., and Howison, J. (2024). Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field, ArXiv, https://arxiv.org/abs/2402.14172
