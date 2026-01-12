@@ -435,8 +435,9 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Secretary-Treasurer, SIG-HCI, 2004-2007
 
 #### Journal Editorship
-- Senior Editor, Journal of Information Technology, 2018-2025
-- Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2025
+- Senior Editor, Journal of Information Technology, 2018-2026
+- Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2026
+- Editorial Board Member, AIS Transactions on Human-Computer Interaction, 2020-2026
 - Associate Editor, Information Systems Journal, 2016-2019
 - Editorial Board Member, Journal of Information Technology, 2010 - 2018
 - Associate Editor, Communications of the Association for Information Systems, 2011 - 2018
