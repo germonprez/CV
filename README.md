@@ -325,7 +325,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - CHAOSS Overview, CHAOSScon, Brussels, Belgium, February 2024.
 - OSS Viability and Project Selection, Linux Foundation Member Summit, Monterey, CA, October 2023. 
 - Measuring OSS in Universities, OSPO++ Monthly Meetup, Online, March 2023.
-- How Do We Design Open Source Communities to be More Equitable, FOSDEM, Brussels, Belguim, February 2023.
+- How Do We Design Open Source Communities to be More Equitable, FOSDEM, Brussels, Belgium, February 2023.
 - Corporate Engagement with Open Source Communities: Research Findings, Linux Foundation Member Summit, November 2021.
 - Core Support at CHAOSS, BRIDGE Lab, Online, October 2021.
 - Contributor Leaderboards to Incentivize Good Community Citizenship, Open Source Summit North America, Panel, Seattle, WA, October 2021.
