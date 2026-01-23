@@ -436,11 +436,12 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 
 #### Journal Editorship
 - Senior Editor, Journal of Information Technology, 2018-2026
+- Associate Editor, European Journal of Information Sysetms, 2026
 - Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2026
 - Editorial Board Member, AIS Transactions on Human-Computer Interaction, 2020-2026
 - Associate Editor, Information Systems Journal, 2016-2019
 - Editorial Board Member, Journal of Information Technology, 2010 - 2018
-- Associate Editor, Communications of the Association for Information Systems, 2011 - 2018
+- Associate Editor, Communications of the Association for Information Systems, 2011-2018
 - Guest Editor, Information Systems Journal, Special Issue on the Dark Side of IT, 2014-2015
 - Associate Editor, AIS Transactions on Human-Computer Interaction, 2008-2011
 - Guest Editor, European Journal for Information Systems, SI on Qualitative Research Methods, 2010
