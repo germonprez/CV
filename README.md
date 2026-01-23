@@ -286,8 +286,6 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, Proceedings of AMCIS 2001, Boston, MA.
 
 ### WORKING PAPERS
-- Sharma, P.N., Herfurth, A., Sokiyna, M., Germonprez, M., Sharma, P., Das, S., and Siponen, M. (2025). A Framework for Mitigating Licensing Risks in AI-Generated Code, MISQE pre-ICIS workshop on The Future of Artificial Intelligence in the Enterprise. Nashville, TN. 
-
 -  Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M. (2025). and Goggins, G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670
 
 - Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K., and Howison, J. (2024). Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field, ArXiv, https://arxiv.org/abs/2402.14172
