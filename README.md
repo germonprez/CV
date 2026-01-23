@@ -38,7 +38,8 @@ Case Western Reserve University, Weatherhead School of Management
 Assistant Professor of Information Systems  
 2002 - 2005  
 
-### HONORS AND AWARDS  
+### HONORS, AWARDS, AND DISTINCTIONS
+- AIS Distinguished Member - Cum Laude - 2025
 - University of Nebraska Omaha Circle of Distinction Honoree - 2025
 - Communications of the AIS Paul Gray Award for the Most Thought Provoking Paper - 2017
 - Rutgers University, School of Business, Camden Annual Research Award - 2017
@@ -541,27 +542,4 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - LPR Construction, Loveland, CO, 1996-1998, IT Director
 - COSS Technology Group, Fort Collins, CO, 1996-1997, Managing Director
 - Cumulus Internet Services, Fort Collins, CO, 1995-1996, Co-Founder
-
-### REFERENCES
-Sean Goggins  
-Professor  
-College of Engineering, Computer Science, University of Missouri  
-GogginsS@missouri.edu  
-
-Josh Greenberg  
-Program Director for Digital Information Technology  
-Alfred P. Sloan Foundation  
-greenberg@sloan.org  
-
-Lars Mathiassen  
-GRA Eminent Scholar, Regents Professor  
-Center for Digital Innovation  
-Computer Information Systems  
-Robinson College of Business  
-Georgia State University  
-lars.mathiassen@ceprin.org  
-
-Demetris Cheatham  
-Chief of Staff to the CEO, GitHub  
-demetris11@github.com  
 
