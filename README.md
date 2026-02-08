@@ -441,10 +441,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Associate Editor, Information Systems Journal, 2016-2019
 - Editorial Board Member, Journal of Information Technology, 2010 - 2018
 - Associate Editor, Communications of the Association for Information Systems, 2011-2018
-- Guest Editor, Information Systems Journal, Special Issue on the Dark Side of IT, 2014-2015
 - Associate Editor, AIS Transactions on Human-Computer Interaction, 2008-2011
-- Guest Editor, European Journal for Information Systems, SI on Qualitative Research Methods, 2010
-- Guest Editor, International Journal for Human Computer Studies, SI on HCI, 2009
 - Guest Editor, DataBase for the Advances of Info. Sys. (with T. Hess and G. Lee) SI on HCI, 2008
 - Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
 
