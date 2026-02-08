@@ -437,11 +437,10 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Senior Editor, Journal of Information Technology, 2018-2026
 - Associate Editor, European Journal of Information Sysetms, 2026
 - Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2026
-- Editorial Board Member, AIS Transactions on Human-Computer Interaction, 2020-2026
+- Editorial Board Member, AIS Transactions on Human-Computer Interaction, 2008-2026
 - Associate Editor, Information Systems Journal, 2016-2019
 - Editorial Board Member, Journal of Information Technology, 2010 - 2018
 - Associate Editor, Communications of the Association for Information Systems, 2011-2018
-- Associate Editor, AIS Transactions on Human-Computer Interaction, 2008-2011
 - Guest Editor, DataBase for the Advances of Info. Sys. (with T. Hess and G. Lee) SI on HCI, 2008
 - Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
 
