@@ -103,7 +103,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
 ### ARTICLES
-- Germonprez, M. (2025). Open Source Community Roles and Community Continuity, IEEE Computer, Accepted for Publication. 
+- Germonprez, M. (2025). Open Source Community Roles and Community Continuity, IEEE Computer, 59, 137-141.
 
 - Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, First Monday. 
 
