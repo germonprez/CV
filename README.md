@@ -289,7 +289,9 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, Proceedings of AMCIS 2001, Boston, MA.
 
 ### WORKING PAPERS
--  Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M. (2025). and Goggins, G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670
+- Germonprez, M., Conboy, K., Morgan, L., Link, G., and Goggins, S. (2026). Where is the Control? The Distribution of Outcome Control in Open Source Software Consortia, SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6711038
+  
+- Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M. (2025). and Goggins, G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670
 
 - Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K., and Howison, J. (2024). Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field, ArXiv, https://arxiv.org/abs/2402.14172
 
