@@ -39,7 +39,7 @@ Assistant Professor of Information Systems
 2002 - 2005  
 
 ### HONORS, AWARDS, AND DISTINCTIONS
-- University of Nebrasak Omaha, University Public Science Fellowship - 2026/2027
+- University of Nebraska Omaha, University Public Science Fellowship - 2026/2027
 - University of Nebraska Omaha, College of Information Science & Technology, Outstanding Research and Creativty Award - 2026
 - AIS Distinguished Member - Cum Laude - 2025
 - University of Nebraska Omaha Circle of Distinction Honoree - 2025
