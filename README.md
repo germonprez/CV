@@ -54,7 +54,6 @@ Assistant Professor of Information Systems
 - Committee on Learning and Academic Support Services Honoree - University of Colorado - 2001
 
 ### GRANTS, GRANT WORK, AND CONTRACTS
-(Totaling $4.3M with partner institutions; Continuously Funded 2010-2026)
 
 #### Foundations, Institutes, and Initiatives  
 - Germonprez, M., Goggins, S., El Zein, R., Foster, D., and Barron, E. (2024-2026), Scientific Open Source Project Health and Sustainability, Wellcome Trust, $557,888.
