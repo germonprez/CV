@@ -513,16 +513,16 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - National Science Foundation Panel and Ad Hoc Reviews (2010, 2012, 2013, 2016, 2017, 2019, 2024)
 
 ### PH.D. WORK
-- Munsif Sokiyna, University of Alabama, Committee Member, Ongoing. 
-- Vinod Ahuja, University of Nebraska Omaha, Advisor, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023, Currently at Florida Gulf Coast University.
-- Kevin Lumbard, University of Nebraska Omaha, Advisor, Open Source Design: How Corporations Realize Determinacy in Open Source Design Engagements, Defended 2023, Currently at Creighton University.
-- Georg Link, University of Nebraska Omaha, Advisor, Cooperative Signaling Behavior: Signals for Open Source Project Health, University of Nebraska Omaha. Defended 2019, Currently at Bitergia.
-- Nargess Tahmasbi, University of Nebraska Omaha, Committee Member, Social Engagements: The Role of Technology in Extreme Events, Defended 2016, Currently at Penn State Hazleton.
-- Xiao-Dan Yu, University of Nebraska Omaha, Committee Member, Adaptive Use of IT Capabilities for Development of Shared Mental Models in Virtual Teams, Defended 2013, Currently at the University of International Business and Economics Beijing.
-- Dawn Owens, University of Nebraska Omaha, Committee Member, Understanding the Adaptive Use of Virtual World Technology Capabilities and Trust in Virtual Teams, Defended 2012, Currently at UT-Dallas.
-- Alanah Davis (Mitchell), University of Nebraska Omaha, Committee Member, Technology Choice in Virtual Teams: The Use of Interventions to Change the Pattern of Technology Choice in Virtual Teams, Defended 2009, Currently Dean of the College of Business at Drake University.
-- Dirk Hovorka, University of Colorado, Committee Member, Information Systems Foundations: Four Research Essays, Defended 2006, Currently at the University of Sydney.
-- Sean McGann, Case Western Reserve University, Committee Member, Coping with the Unplanned: The Dynamics of Improvisation in Information Systems: Evolution Within and Across Firm Boundaries, Defended 2005, Formerly at the University of Washington.
+- Munsif Sokiyna, University of Alabama, Committee Member, Defended 2026. 
+- Vinod Ahuja, University of Nebraska Omaha, Advisor, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023.
+- Kevin Lumbard, University of Nebraska Omaha, Advisor, Open Source Design: How Corporations Realize Determinacy in Open Source Design Engagements, Defended 2023.
+- Georg Link, University of Nebraska Omaha, Advisor, Cooperative Signaling Behavior: Signals for Open Source Project Health, University of Nebraska Omaha. Defended 2019.
+- Nargess Tahmasbi, University of Nebraska Omaha, Committee Member, Social Engagements: The Role of Technology in Extreme Events, Defended 2016.
+- Xiao-Dan Yu, University of Nebraska Omaha, Committee Member, Adaptive Use of IT Capabilities for Development of Shared Mental Models in Virtual Teams, Defended 2013.
+- Dawn Owens, University of Nebraska Omaha, Committee Member, Understanding the Adaptive Use of Virtual World Technology Capabilities and Trust in Virtual Teams, Defended 2012.
+- Alanah Davis (Mitchell), University of Nebraska Omaha, Committee Member, Technology Choice in Virtual Teams: The Use of Interventions to Change the Pattern of Technology Choice in Virtual Teams, Defended 2009.
+- Dirk Hovorka, University of Colorado, Committee Member, Information Systems Foundations: Four Research Essays, Defended 2006.
+- Sean McGann, Case Western Reserve University, Committee Member, Coping with the Unplanned: The Dynamics of Improvisation in Information Systems: Evolution Within and Across Firm Boundaries, Defended 2005.
 
 ### PROFESSIONAL AFFILIATIONS
 - IFIP 8.2
