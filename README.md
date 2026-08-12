@@ -108,7 +108,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 
 - Germonprez, M. (2026). Open Source Community Roles and Community Continuity, IEEE Computer, 59, 137-141.
 
-- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, First Monday. 
+- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, 30(2), First Monday. 
 
 - Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532.
 
