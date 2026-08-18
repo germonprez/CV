@@ -104,6 +104,8 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
 ### ARTICLES
+- Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, Information Systems Journal, Accepted for Publication
+
 - Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, IEEE Computer, Accepted for Publication.
 
 - Germonprez, M. (2026). Open Source Community Roles and Community Continuity, IEEE Computer, 59, 137-141.
