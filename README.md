@@ -194,7 +194,7 @@ Assistant Professor of Information Systems
 
 - Germonprez, M., Lin Y-K, Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, _Proceedings of OFA Symposium_, Boston, MA.
 
-- Goggins, S., Lumbard, K., and Germonprez, M. (2021). Open Source Community Health: Analytical Metrics and Their Corresponding Narratives, _Proceedings SoHeal_, Online.
+- Goggins, S., Lumbard, K., and Germonprez, M. (2021). Open Source Community Health: Analytical Metrics and Their Corresponding Narratives, _Proceedings of SoHeal_, Online.
 
 - Lumbard, K., Werther-Poulin, G., Buhman, A., Hale, M., Germonprez, M., and Goggins, S. (2020). Welcome? Investigating the reception of new contributors to organizational-communal open source software projects, _Proceeding of AMCIS_, Online.
 
