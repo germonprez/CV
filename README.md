@@ -90,14 +90,14 @@ Assistant Professor of Information Systems
 
 - Khazanchi, D., Germonprez, M., Matfield, D., and Mirski, P. (2010-2013). Co-PI. Global IT Project Management, **Department of Education**, Atlantis Excellence in Mobility, $194,000.    
 
-##### Universities
+#### _Universities_
 - University of Nebraka Omaha Fund for Investigating in the Research Enterprise Grant (2013-2014), $20,000
 - University of Nebraka Omaha Faculty Research Initiative Grant (2013-2014), $5,000
 - UWEC College of Business Research Grant (2006, 2007, 2011), $6,000 - $7,500
 - UWEC Student-Faculty PIE/ORSP International Grant (2008), $4,200
 - UWEC Mason Shoes Netsuite Technology Grant (2008), $750
 
-##### Corporations
+#### _Corporations_
 - Red Hat, Corporate Engagement with Open Source Projects (2021-2022), $91,617
 - Union Pacific, Open Source Intake (2015-2016): $135,000
 - Texas Instruments, SPDX/Yocto Integration (2013-2015): $15,000
