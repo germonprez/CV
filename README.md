@@ -57,7 +57,7 @@ Assistant Professor of Information Systems
 - Undergraduate Teaching Excellence Award - Case Western Reserve University - 2005
 - Committee on Learning and Academic Support Services Honoree - University of Colorado - 2001
 
-#### GRANTS, GRANT WORK, AND CONTRACTS
+#### GRANTS AND CONTRACTS
 
 ##### Foundations, Institutes, and Initiatives  
 - Germonprez, M., Goggins, S., El Zein, R., Foster, D., and Barron, E. (2024-2026), Scientific Open Source Project Health and Sustainability, **Wellcome Trust**, $557,888.
