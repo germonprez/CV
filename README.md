@@ -125,7 +125,7 @@ Assistant Professor of Information Systems
 
 - Germonprez, M., Levy, M., Kendall, J., and Kendall, K. (2020). Tapestries of Innovation: Structures of Contemporary Open Source Project Engagements, _Journal of the Association for Information Systems_, 21(3), 637-663.
 
-- Germonprez, M., Lipps, J., and Goggins, S. (2019). The Rising Tide: Open Source’s Steady Transformation, _First Monday_.
+- Germonprez, M., Lipps, J., and Goggins, S. (2019). The Rising Tide: Open Source’s Steady Transformation, _First Monday_, 24(8).
 
 - Hukal, P., Berente, N., Germonprez, M., and Schecter, A. (2019). Bots Coordinating Work in Open Source Software Projects, _IEEE Computer_, 52(9), 52-60.
 
