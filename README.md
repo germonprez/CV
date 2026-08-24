@@ -1,4 +1,4 @@
-##Matt Germonprez  
+## Matt Germonprez  
 Mutual of Omaha Distinguished Chair of Information Science & Technology  
 Professor of Information Systems and Quantitative Analysis  
 College of Information Science & Technology  
