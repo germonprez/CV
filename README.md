@@ -259,7 +259,7 @@ Assistant Professor of Information Systems
 - Hovorka, D. and Germonprez, M. (2008). From Practice to Design: Emergence of an Information Service View, _Proceedings of ACIS_, Christchurch, New Zealand.
 
 - Hovorka, D. and Germonprez, M. (2008). Identification-Interaction-Innovation: A Phenomenological Basis for an Information Service View, _Proceedings of the 4th Information Systems Foundations Workshop_, Canberra, Australia.
-  
+
 - Montealegre, R., Germonprez, M., and Hovorka, D. (2008). Toward an Information System View of an Enterprise, Poster, _Proceedings of ICIS_, Paris, France.
 
 - Germonprez, M. and Hovorka, D. (2008). The Information Service View, _Proceedings of IFIP 8.2_, Toronto, Canada.
@@ -296,7 +296,7 @@ Assistant Professor of Information Systems
 
 ### ARCHIVAL AND WORKING PAPERS
 - Germonprez, M., Conboy, K., Morgan, L., Link, G., and Goggins, S. (2026). Where is the Control? The Distribution of Outcome Control in Open Source Software Consortia, SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6711038
-  
+
 - Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M. (2025). and Goggins, G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670
 
 - Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K., and Howison, J. (2024). Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field, ArXiv, https://arxiv.org/abs/2402.14172
@@ -401,8 +401,8 @@ Assistant Professor of Information Systems
 - Building a Web Presence: Selling Online, Colorado State University, College of Business, Corporate Sponsorship Seminar, Fort Collins, CO, May 1996.
 
 ### OPEN SOURCE ENGAGEMENT
-- Founding Member & Board Member of the Linux Foundation CHAOSS Project  
-- Contributor to the SPDX Specification
+- Founding Member of the Linux Foundation CHAOSS Project.
+- Contributor to the SPDX Specification.
 - Germonprez, M. and Linåker, J. (2024). Measuring and Communicating Impact by your OSPO, OSPO Book Project, Published by the TODO Group. 
 - Link, G., Lumbard, K., Damen, N., Rosser, H., Germonprez, M. Goggins, S., Wiggins, A., Ahuja, V., Brier, J., Cohoon, H., Halfaker, A., Howison, J., Marti, D., Newman, G., Osterlund, C., Paik, R., Rother, B., and Schecter, A. (2019). Open Community Health: Workshop Report, Journal of Peer Production, Issue 13.
 - Ahuja, V., Marti, D., Link, G., Germonprez, M., and Goggins, S. (2018). How to Measure the Impact of Your Open Source Project, Opensource.com.
