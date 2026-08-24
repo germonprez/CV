@@ -11,12 +11,12 @@ Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Scienc
 
 His scholarship has appeared in leading journals, including _Information Systems Research_, _MIS Quarterly_, _Journal of the Association for Information Systems_, _Information Systems Journal_, and _Journal of Information Technology_, as well as _IEEE Computer_ and _ACM Interactions_. His honors include the AIS Senior Scholar Best Paper Award, JAIS Best Paper Award, Communications of the AIS Paul Gray Award, AIS Distinguished Member recognition, the University of Nebraska Omaha Circle of Distinction, and the College of Information Science & Technology Outstanding Research and Creativity Award. Key to his scholarship is its direct influence on practice. Through CHAOSS, his research has contributed frameworks, metrics, tools, and governance practices used by internationally by corporations, foundations, governments, and community leaders to assess community sustainability, contributor engagement, project risk, and open source strategy. Professor Germonprez also contributes to the discipline and global open source ecosystems through invited talks, keynote presentations, editorial leadership, and sustained community engagement.
 
-### EDUCATION
+#### EDUCATION
 - PhD, University of Colorado, Boulder, CO, Information Systems, 2002
 - MS, Colorado State University, Fort Collins, CO, Information Systems, 1997
 - BS, Iowa State University, Ames, IA, Biology, 1993
 
-### ACADEMIC APPOINTMENTS  
+#### ACADEMIC APPOINTMENTS  
 University of Nebraska Omaha  
 Public Science Fellow  
 2026 - 2027  
@@ -43,7 +43,7 @@ Case Western Reserve University, Weatherhead School of Management
 Assistant Professor of Information Systems  
 2002 - 2005  
 
-### HONORS, AWARDS, AND DISTINCTIONS
+#### HONORS, AWARDS, AND DISTINCTIONS
 - University of Nebraska Omaha, College of Information Science & Technology, Outstanding Research and Creativity Award - 2026
 - AIS Distinguished Member - Cum Laude - 2025
 - University of Nebraska Omaha Circle of Distinction Honoree - 2025
@@ -57,9 +57,9 @@ Assistant Professor of Information Systems
 - Undergraduate Teaching Excellence Award - Case Western Reserve University - 2005
 - Committee on Learning and Academic Support Services Honoree - University of Colorado - 2001
 
-### GRANTS, GRANT WORK, AND CONTRACTS
+#### GRANTS, GRANT WORK, AND CONTRACTS
 
-#### Foundations, Institutes, and Initiatives  
+##### Foundations, Institutes, and Initiatives  
 - Germonprez, M., Goggins, S., El Zein, R., Foster, D., and Barron, E. (2024-2026), Scientific Open Source Project Health and Sustainability, **Wellcome Trust**, $557,888.
 
 - Germonprez, M. and Goggins, S. (2023-2026). Co-PI. CHAOSS: Building Sustainability, **Alfred P. Sloan Foundation**, $1,611,267.  
@@ -90,7 +90,7 @@ Assistant Professor of Information Systems
 
 - Khazanchi, D., Germonprez, M., Matfield, D., and Mirski, P. (2010-2013). Co-PI. Global IT Project Management, **Department of Education**, Atlantis Excellence in Mobility, $194,000.    
 
-#### Universities
+##### Universities
 - University of Nebraka Omaha Fund for Investigating in the Research Enterprise Grant (2013-2014), $20,000
 - University of Nebraka Omaha Faculty Research Initiative Grant (2013-2014), $5,000
 - UWEC College of Business Research Grant (2006, 2007, 2011), $6,000 - $7,500
