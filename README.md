@@ -13,12 +13,11 @@ I am the Mutual of Omaha Distinguished Chair of Information Science & Technology
 - PhD, University of Colorado, Boulder, CO, Information Systems, 2002
 - MS, Colorado State University, Fort Collins, CO, Information Systems, 1997
 - BS, Iowa State University, Ames, IA, Biology, 1993
-- HS, Neenah High School, Neenah, WI, 1989
 
 ### ACADEMIC APPOINTMENTS  
 University of Nebraska Omaha  
 Public Science Fellow  
-2026/2027  
+2026 - 2027  
 
 University of Nebraska Omaha, College of Information Science & Technology  
 Mutual of Omaha Distinguished Chair of Information Science & Technology  
@@ -59,11 +58,11 @@ Assistant Professor of Information Systems
 ### GRANTS, GRANT WORK, AND CONTRACTS
 
 #### Foundations, Institutes, and Initiatives  
-- Germonprez, M., Goggins, S., El Zein, R., Foster, D., and Barron, E. (2024-2026), Scientific Open Source Project Health and Sustainability, Wellcome Trust, $557,888.
+- Germonprez, M., Goggins, S., El Zein, R., Foster, D., and Barron, E. (2024-2026), Scientific Open Source Project Health and Sustainability, **Wellcome Trust**, $557,888.
 
-- Germonprez, M. and Goggins, S. (2023-2026). Co-PI. CHAOSS: Building Sustainability, Alfred P. Sloan Foundation, $1,611,267.  
+- Germonprez, M. and Goggins, S. (2023-2026). Co-PI. CHAOSS: Building Sustainability, **Alfred P. Sloan Foundation**, $1,611,267.  
 
-- Goggins, S., Germonprez, M., and Barron, E. (2023-2025). Co-PI. CHAOSS: Core Support, Ford Foundation, $150,000.  
+- Goggins, S., Germonprez, M., and Barron, E. (2023-2025). Co-PI. CHAOSS: Core Support, **Ford Foundation**, $150,000.  
 
 - Germonprez, M., Goggins, S., and Barron, E. (2021-2023). Co-PI. Core Support for CHAOSS, Ford Foundation, $150,000.  
 
