@@ -429,7 +429,7 @@ Assistant Professor of Information Systems
 
 ### PROFESSIONAL ACADEMIC ACTIVITIES
 
-##### _Committees and Executive_
+#### _Committees and Executive_
 - Jessica Pye Doctoral Student Service Award Committee, Association for Information Systems, 2025–2027
 - Executive Advisory Board, Information Systems Practice Journal, 2025-current
 - President, Association for Information Systems SIGOPEN, 2017-2018
@@ -442,7 +442,7 @@ Assistant Professor of Information Systems
 - Membership and Publicity Director, Midwest Association for Information Systems, 2006 - 2009
 - Secretary-Treasurer, SIG-HCI, 2004-2007
 
-##### _Journal Editorship_
+#### _Journal Editorship_
 - Senior Editor, Journal of Information Technology, 2018-current
 - Associate Editor, European Journal of Information Systems, 2026-current
 - Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2026
@@ -453,7 +453,7 @@ Assistant Professor of Information Systems
 - Guest Editor, DataBase for the Advances of Info. Sys. (with T. Hess and G. Lee) SI on HCI, 2008
 - Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
 
-##### _Conference Organizing_
+#### _Conference Organizing_
 - BIGXII+ Doctoral and Junior Faculty Consortium, Co-Chair, 2017
 - SIGOPEN ICIS Workshop, Co-Chair, 2015-2016
 - SIGOPEN ECIS Workshop Co-Chair, 2015
@@ -464,7 +464,7 @@ Assistant Professor of Information Systems
 - Organizing Co-Chair, SIGHCI/ICIS Workshop, 2006
 - Organizing Co-Chair, IFIP 8.2, 2005
 
-##### _Conference Program Committee Member_
+#### _Conference Program Committee Member_
 - Summer Institute of the Consortium for the Science of Sociotechnical Systems (CSST), Mentor, 2025
 - Mining Software Repositories FOSS Award Committee, 2025
 - AMCIS Doctoral Consortium Member, 2018
@@ -481,7 +481,7 @@ Assistant Professor of Information Systems
 - AMCIS Track Co-Chair, SIGCHI, 2006 - 2008
 - AMCIS Mini-track Co-Chair, Interface Design, Evaluation, and Impact (SIGHCI), 2006 - 2008
 
-##### _Editorial Reviews_
+#### _Editorial Reviews_
 - First Monday
 - MIS Quarterly
 - Research Policy
@@ -506,7 +506,7 @@ Assistant Professor of Information Systems
 - Hawaii International Conference on System Sciences
 - Communications of the Association for Information Systems
 
-##### _Grant Reviews_
+#### _Grant Reviews_
 - Ford Foundation/Sloan Foundation Digital Infrastructure Reviewer (2018, 2020, 2023)
 - Irish Software Research Centre ALECS Fellowship Reviewer (2018, 2020)
 - Natural Sciences and Engineering Research Council of Canada Reviewer (2019)
