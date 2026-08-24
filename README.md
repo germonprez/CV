@@ -16,9 +16,9 @@ I am the Mutual of Omaha Distinguished Chair of Information Science & Technology
 - HS, Neenah High School, Neenah, WI, 1989
 
 ### ACADEMIC APPOINTMENTS  
-University of Nebraska Omaha
-Public Science Fellow
-2026/2027
+University of Nebraska Omaha  
+Public Science Fellow  
+2026/2027  
 
 University of Nebraska Omaha, College of Information Science & Technology  
 Mutual of Omaha Distinguished Chair of Information Science & Technology  
