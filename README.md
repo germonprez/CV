@@ -97,7 +97,7 @@ Assistant Professor of Information Systems
 - UWEC Student-Faculty PIE/ORSP International Grant (2008), $4,200
 - UWEC Mason Shoes Netsuite Technology Grant (2008), $750
 
-#### Corporations
+##### Corporations
 - Red Hat, Corporate Engagement with Open Source Projects (2021-2022), $91,617
 - Union Pacific, Open Source Intake (2015-2016): $135,000
 - Texas Instruments, SPDX/Yocto Integration (2013-2015): $15,000
@@ -106,7 +106,7 @@ Assistant Professor of Information Systems
 - My InnerView, Student Mentorship (2009), $3,500
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
-### ARTICLES
+#### ARTICLES
 - Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, Accepted for Publication
 
 - Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, _IEEE Computer_, Accepted for Publication.
@@ -174,7 +174,7 @@ Assistant Professor of Information Systems
 
 - Avital, M. and Germonprez, M. (2004). On Paragrammatic Uses of Organizational Theory - A Response to Yiannis Gabriel, _Organization Studies_, 25(6), 1045-1048.
 
-### BOOK CHAPTERS AND FOREWORDS
+#### BOOK CHAPTERS AND FOREWORDS
 - Germonprez, M. and Feller, J. (2015). Foreword, in Software Sourcing in the **Age of Open: Leveraging the Unknown Workforce**, Agerfalk, P., Fitzgerald, B., and Stol, K-J (eds.), Springer, Berlin, Germany.
 
 - Germonprez, M., & Warner, B. (2013). Organizational Participation in Open Innovation Communities, in **Managing Open Innovation Technologies**, Lundström, E., Wiberg, M., Hrastinski, S., Edenius, M. & Agerfalk, P. (eds.), Berlin Heidelberg: Springer-Verlag.
@@ -189,7 +189,7 @@ Assistant Professor of Information Systems
 
 - Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, in **Information Systems Research: Relevant Theory and Informed Practice**, Kaplan, B., Truex, D., Wastell, D., Wood-Harper, T., & DeGross, J. (eds.), Kluwer Academic Publishers, Boston, MA.
 
-### CONFERENCES and WORKSHOPS
+#### CONFERENCES and WORKSHOPS
 - Lumbard, K., Ahuja, V., and Germonprez, M. (2026). Understanding Development Patterns in Corporate Open Source Projects, _Proceedings of ACMSE_, Troy, AL. 
 
 - Germonprez, M., Lin Y-K, Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, _Proceedings of OFA Symposium_, Boston, MA.
@@ -294,7 +294,7 @@ Assistant Professor of Information Systems
 
 - Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, _Proceedings of AMCIS_, Boston, MA.
 
-### ARCHIVAL AND WORKING PAPERS
+#### ARCHIVAL AND WORKING PAPERS
 - Germonprez, M., Conboy, K., Morgan, L., Link, G., and Goggins, S. (2026). Where is the Control? The Distribution of Outcome Control in Open Source Software Consortia, SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6711038
   
 - Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M. (2025). and Goggins, G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670
@@ -319,7 +319,7 @@ Assistant Professor of Information Systems
 
 - Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
 
-### PRESENTATIONS
+#### PRESENTATIONS
 - Open Source Supply Chains as Sociotechnical Systems, University of Georgia, January 2026. 
 - Generative Artificial Intelligence: A Potential Disruptor to Corporate Engagement with Open Source, ICIS TREO Talks, Nashville, TN, December 2025.
 - Key Stakeholders in Open Source Software Ecosystems, Panel, Open Source Communities and Accountability Workshop, Carnegie Mellon University, October 2025. 
@@ -400,7 +400,7 @@ Assistant Professor of Information Systems
 - A Critical Examination of Channel Expansion Theory, Information Systems Research Colloquium, University of Colorado, Boulder, December 2000.
 - Building a Web Presence: Selling Online, Colorado State University, College of Business, Corporate Sponsorship Seminar, Fort Collins, CO, May 1996.
 
-### OPEN SOURCE ENGAGEMENT
+#### OPEN SOURCE ENGAGEMENT
 - Founding Member & Board Member of the Linux Foundation CHAOSS Project  
 - Contributor to the SPDX Specification
 - Germonprez, M. and Linåker, J. (2024). Measuring and Communicating Impact by your OSPO, OSPO Book Project, Published by the TODO Group. 
@@ -408,7 +408,7 @@ Assistant Professor of Information Systems
 - Ahuja, V., Marti, D., Link, G., Germonprez, M., and Goggins, S. (2018). How to Measure the Impact of Your Open Source Project, Opensource.com.
 - Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R. (2016). DoSOCS: A System for SPDX 2.0 Document Creation and Storage, Journal of Open Source Software.
 
-### PROFESSIONAL UNIVERSITY ACTIVITIES
+#### PROFESSIONAL UNIVERSITY ACTIVITIES
 - University of Nebraska Omaha, Weitz Innovation and Excellence Advisory Committee, 2024-2027
 - University of Nebraska Omaha, Faculty Senate, 2021-2024
 - University of Nebraska Omaha, Office of Research / Sponsored Activity Advisory Board, 2021-2022
@@ -427,9 +427,9 @@ Assistant Professor of Information Systems
 - University of Wisconsin - Eau Claire Civility Committee, 2005-2007
 - Faculty Representative for USG Student Group - Case Western Reserve University, 2004
 
-### PROFESSIONAL ACADEMIC ACTIVITIES
+#### PROFESSIONAL ACADEMIC ACTIVITIES
 
-#### Commmittees and Executive
+##### Committees and Executive
 - Jessica Pye Doctoral Student Service Award Committee, Association for Information Systems, 2025–2027
 - Executive Advisory Board, Information Systems Practice Journal, 2025-current
 - President, Association for Information Systems SIGOPEN, 2017-2018
@@ -442,7 +442,7 @@ Assistant Professor of Information Systems
 - Membership and Publicity Director, Midwest Association for Information Systems, 2006 - 2009
 - Secretary-Treasurer, SIG-HCI, 2004-2007
 
-#### Journal Editorship
+##### Journal Editorship
 - Senior Editor, Journal of Information Technology, 2018-current
 - Associate Editor, European Journal of Information Systems, 2026-current
 - Senior Editor, Journal of the Midwest Association for Information Systems, 2017-2026
@@ -453,7 +453,7 @@ Assistant Professor of Information Systems
 - Guest Editor, DataBase for the Advances of Info. Sys. (with T. Hess and G. Lee) SI on HCI, 2008
 - Guest Editor, Information Systems Journal (with T. Hess and N. Russo) Special Issue on HCI, 2007
 
-#### Conference Organizing
+##### Conference Organizing
 - BIGXII+ Doctoral and Junior Faculty Consortium, Co-Chair, 2017
 - SIGOPEN ICIS Workshop, Co-Chair, 2015-2016
 - SIGOPEN ECIS Workshop Co-Chair, 2015
@@ -464,7 +464,7 @@ Assistant Professor of Information Systems
 - Organizing Co-Chair, SIGHCI/ICIS Workshop, 2006
 - Organizing Co-Chair, IFIP 8.2, 2005
 
-#### Conference Program Committee Member
+##### Conference Program Committee Member
 - Summer Institute of the Consortium for the Science of Sociotechnical Systems (CSST), Mentor, 2025
 - Mining Software Repositories FOSS Award Committee, 2025
 - AMCIS Doctoral Consortium Member, 2018
@@ -481,7 +481,7 @@ Assistant Professor of Information Systems
 - AMCIS Track Co-Chair, SIGCHI, 2006 - 2008
 - AMCIS Mini-track Co-Chair, Interface Design, Evaluation, and Impact (SIGHCI), 2006 - 2008
 
-#### Editorial Reviews
+##### Editorial Reviews
 - First Monday
 - MIS Quarterly
 - Research Policy
@@ -506,7 +506,7 @@ Assistant Professor of Information Systems
 - Hawaii International Conference on System Sciences
 - Communications of the Association for Information Systems
 
-#### Grant Reivews
+##### Grant Reviews
 - Ford Foundation/Sloan Foundation Digital Infrastructure Reviewer (2018, 2020, 2023)
 - Irish Software Research Centre ALECS Fellowship Reviewer (2018, 2020)
 - Natural Sciences and Engineering Research Council of Canada Reviewer (2019)
@@ -514,7 +514,7 @@ Assistant Professor of Information Systems
 - Israel Science Foundation Reviewer (2014)
 - National Science Foundation Panel and Ad Hoc Reviews (2010, 2012, 2013, 2016, 2017, 2019, 2024)
 
-### PH.D. WORK
+#### PH.D. WORK
 - Munsif Sokiyna, University of Alabama, Committee Member, Defended 2026. 
 - Vinod Ahuja, University of Nebraska Omaha, Advisor, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023.
 - Kevin Lumbard, University of Nebraska Omaha, Advisor, Open Source Design: How Corporations Realize Determinacy in Open Source Design Engagements, Defended 2023.
@@ -526,13 +526,13 @@ Assistant Professor of Information Systems
 - Dirk Hovorka, University of Colorado, Committee Member, Information Systems Foundations: Four Research Essays, Defended 2006.
 - Sean McGann, Case Western Reserve University, Committee Member, Coping with the Unplanned: The Dynamics of Improvisation in Information Systems: Evolution Within and Across Firm Boundaries, Defended 2005.
 
-### PROFESSIONAL AFFILIATIONS
+#### PROFESSIONAL AFFILIATIONS
 - IFIP 8.2
 - Association for Information Systems (AIS)
 - Association for Computing Machinery (ACM)
 - Midwest Association for Information Systems (MWAIS)
 
-### TEACHING
+#### TEACHING
 - Cloud Infrastructure
 - Managing in a Digital World
 - Object Oriented Programming
@@ -543,7 +543,7 @@ Assistant Professor of Information Systems
 - Open Source Software Development
 - Computer Network Design and Management
 
-### PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 - LPR Construction, Loveland, CO, 1996-1998, IT Director
 - COSS Technology Group, Fort Collins, CO, 1996-1997, Managing Director
 - Cumulus Internet Services, Fort Collins, CO, 1995-1996, Co-Founder
