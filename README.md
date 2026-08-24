@@ -16,6 +16,10 @@ I am the Mutual of Omaha Distinguished Chair of Information Science & Technology
 - HS, Neenah High School, Neenah, WI, 1989
 
 ### ACADEMIC APPOINTMENTS  
+University of Nebraska Omaha
+Public Science Fellow
+2026/2027
+
 University of Nebraska Omaha, College of Information Science & Technology  
 Mutual of Omaha Distinguished Chair of Information Science & Technology  
 Professor of Information Systems and Quantitative Analysis  
@@ -39,7 +43,6 @@ Assistant Professor of Information Systems
 2002 - 2005  
 
 ### HONORS, AWARDS, AND DISTINCTIONS
-- University of Nebraska Omaha, University Public Science Fellowship - 2026/2027
 - University of Nebraska Omaha, College of Information Science & Technology, Outstanding Research and Creativity Award - 2026
 - AIS Distinguished Member - Cum Laude - 2025
 - University of Nebraska Omaha Circle of Distinction Honoree - 2025
@@ -114,7 +117,7 @@ National Science Foundation, Science Across Virtual Institutes (SAVI), Brought o
 
 - Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, <i>Information Systems Journal</i>, 34(2), 499-532.
 
-- Goggins, S., Germonprez, M., and Lumbard (2021). <i>Making Open Source Project Health Transparent</i>, IEEE Computer, 54(8), 104-111.
+- Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, <i>IEEE Computer</i>, 54(8), 104-111.
 
 - Germonprez, M., Gandhi, R., and Link, G. (2021). The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines, <i>Communications of the Association for Information Systems</i>, 49, 729-747.
 
