@@ -1,11 +1,11 @@
-<h2>Matt Germonprez  
-Mutual of Omaha Distinguished Chair of Information Science & Technology  
-Professor of Information Systems and Quantitative Analysis  
-College of Information Science & Technology  
-University of Nebraska Omaha  
-AIS Distinguished Member - Cum Laude  
+<h3>Matt Germonprez<br>
+Mutual of Omaha Distinguished Chair of Information Science & Technology<br>
+Professor of Information Systems and Quantitative Analysis<br>
+College of Information Science & Technology<br>
+University of Nebraska Omaha<br>
+AIS Distinguished Member - Cum Laude<br>
 germonprez@gmail.com  
-</h2>
+</h3>
 
 ### RESEARCH SUMMARY
 Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Science & Technology and Professor of Information Systems and Quantitative Analysis at the University of Nebraska Omaha. His qualitative field research examines the governance, sustainability, and sociotechnical dynamics of open source software ecosystems, connecting information systems theory with the practice of open collaboration. His research has been supported by the National Science Foundation, Alfred P. Sloan Foundation, Ford Foundation, Wellcome Trust, Chan Zuckerberg Initiative, Mozilla, and industry partners. He is a co-founder and board member of the Linux Foundation’s Community Health Analytics Open Source Software (CHAOSS) project, which advances the measurement and sustainability of open source communities.
