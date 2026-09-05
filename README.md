@@ -515,6 +515,7 @@ Assistant Professor of Information Systems
 - National Science Foundation Panel and Ad Hoc Reviews (2010, 2012, 2013, 2016, 2017, 2019, 2024)
 
 ### PH.D. WORK
+- Abigail Dogbe, University of Cincinnati, Committee Member, Ongoing. 
 - Munsif Sokiyna, University of Alabama, Committee Member, Defended 2026. 
 - Vinod Ahuja, University of Nebraska Omaha, Advisor, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023.
 - Kevin Lumbard, University of Nebraska Omaha, Advisor, Open Source Design: How Corporations Realize Determinacy in Open Source Design Engagements, Defended 2023.
