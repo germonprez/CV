@@ -301,23 +301,23 @@ Assistant Professor of Information Systems
 
 - Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K., and Howison, J. (2024). Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field, ArXiv, https://arxiv.org/abs/2402.14172
 
-- Germonprez, M., Pallud, J., and Monod, E. (2011). Technology Embodiment: The Contribution of Heidegger's Phenomenology, Sprouts: Working Papers on Information Systems, 466.
+- Germonprez, M., Pallud, J., and Monod, E. (2011). Technology Embodiment: The Contribution of Heidegger's Phenomenology, *Sprouts: Working Papers on Information Systems*, 11(152), [https://aisel.aisnet.org/sprouts_all/466/](https://aisel.aisnet.org/sprouts_all/466/)
 
-- Hovorka, D.S. and Germonprez, M. (2011). Towards an Informativity Account of Design Research, Sprouts: Working Papers on Information Systems, 452.
+- Hovorka, D. S. and Germonprez, M. (2011). Towards an Informativity Account of Design Research, *Sprouts: Working Papers on Information Systems*, 11(137), [https://aisel.aisnet.org/sprouts_all/452/](https://aisel.aisnet.org/sprouts_all/452/)
 
-- Germonprez, M., Hovorka, D.S., and Gal, U. (2009). Theorizing On Secondary Design, Sprouts:bWorking Papers on Information Systems, 294.
+- Germonprez, M., Hovorka, D. S., and Gal, U. (2009). Theorizing On Secondary Design, *Sprouts: Working Papers on Information Systems*, 9(41), [https://aisel.aisnet.org/sprouts_all/294/](https://aisel.aisnet.org/sprouts_all/294/)
 
-- Mathiassen, L., Chiasson, M., and Germonprez, M. (2009). Compositional Styles in Action Research: A Critical Analysis of Leading Information Systems Journals, Sprouts: Working Papers on Information Systems, 9(35).
+- Mathiassen, L., Chiasson, M., and Germonprez, M. (2009). Compositional Styles in Action Research: A Critical Analysis of Leading Information Systems Journals, *Sprouts: Working Papers on Information Systems*, 9(35), [https://aisel.aisnet.org/sprouts_all/289/](https://aisel.aisnet.org/sprouts_all/289/)
 
-- Hovorka, D.S., Germonprez, M., and Larsen, K. (2008). Explanation in Information Systems, Sprouts: Working Papers on Information Systems, 50.
+- Hovorka, D. S., Germonprez, M., and Larsen, K. R. T. (2008). Explanation in Information Systems, *Sprouts: Working Papers on Information Systems*, 3(15), [https://aisel.aisnet.org/sprouts_all/50/](https://aisel.aisnet.org/sprouts_all/50/)
 
-- Avital, M. and Germonprez, M. (2008). Ubiquitous Computing: Surfing the Trend in a Balanced Act, Sprouts: Working Papers on Information Systems, 54.
+- Avital, M. and Germonprez, M. (2008). Ubiquitous Computing: Surfing the Trend in a Balanced Act, *Sprouts: Working Papers on Information Systems*, 3(19), [https://aisel.aisnet.org/sprouts_all/54/](https://aisel.aisnet.org/sprouts_all/54/)
 
-- Germonprez, M., Srinivasan, N., and Avital, M. (2005). Using Interface Design Standards to Support Pervasive Computing, Sprouts: Working Papers on Information Systems, 5(1).
+- Germonprez, M., Srinivasan, N., and Avital, M. (2005). Using Interface Design Standards to Support Pervasive Computing, *Sprouts: Working Papers on Information Systems*, 5(14), [https://aisel.aisnet.org/sprouts_all/100/](https://aisel.aisnet.org/sprouts_all/100/)
 
-- Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technology, Sprouts: Working Papers on Information Systems, 4(7).
+- Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technologies, *Sprouts: Working Papers on Information Systems*, 4(7), [https://aisel.aisnet.org/sprouts_all/63/](https://aisel.aisnet.org/sprouts_all/63/)
 
-- Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(5).
+- Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, *Sprouts: Working Papers on Information Systems*, 3(13), [https://aisel.aisnet.org/sprouts_all/48/](https://aisel.aisnet.org/sprouts_all/48/)
 
 ### PRESENTATIONS
 - Open Source Supply Chains as Sociotechnical Systems, University of Georgia, January 2026. 
