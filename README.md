@@ -18,7 +18,8 @@ His scholarship has appeared in leading journals, including _Information Systems
 
 ### ACADEMIC APPOINTMENTS  
 University of Nebraska Omaha  
-Public Science Fellow  
+Division of Innovative and Learning-Centric Initiatives
+Faculty Fellow for Public Science  
 2026 - 2027  
 
 University of Nebraska Omaha, College of Information Science & Technology  
