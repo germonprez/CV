@@ -190,109 +190,110 @@ Assistant Professor of Information Systems
 
 
 ### CONFERENCES AND WORKSHOPS
-- Lumbard, K., Ahuja, V., and Germonprez, M. (2026). Understanding Development Patterns in Corporate Open Source Projects, _Proceedings of ACMSE_, Troy, AL. 
+1. Lumbard, K., Ahuja, V., and Germonprez, M. (2026). Understanding Development Patterns in Corporate Open Source Projects, *Proceedings of the 2026 ACM Southeast Conference (ACMSE 2026)*, 10-17, Troy, AL, https://doi.org/10.1145/3746467.3801507
 
-- Germonprez, M., Lin Y-K, Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, _Proceedings of OFA Symposium_, Boston, MA.
+2. Germonprez, M., Lin, Y.-K., Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, *OpenForum Academy Symposium*, Boston, MA.
 
-- Goggins, S., Lumbard, K., and Germonprez, M. (2021). Open Source Community Health: Analytical Metrics and Their Corresponding Narratives, _Proceedings of SoHeal_, Online.
+3. Goggins, S., Lumbard, K., and Germonprez, M. (2021). Open Source Community Health: Analytical Metrics and Their Corresponding Narratives, *Proceedings of the 2021 IEEE/ACM 4th International Workshop on Software Health in Projects, Ecosystems and Communities (SoHeal)*, Online, https://doi.org/10.1109/SoHeal52568.2021.00010
 
-- Lumbard, K., Werther-Poulin, G., Buhman, A., Hale, M., Germonprez, M., and Goggins, S. (2020). Welcome? Investigating the reception of new contributors to organizational-communal open source software projects, _Proceeding of AMCIS_, Online.
+4. Lumbard, K., Buhman, A., Wethor, G. E., Hale, M., Goggins, S., and Germonprez, M. (2020). Welcome? Investigating the Reception of New Contributors to Organizational-Communal Open Source Software Projects, *Proceedings of AMCIS 2020*, Online, https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/14/
 
-- Yi, S., Lumbard, K., Damen, N., Germonprez, M., and Toh, C. (2019). Towards an Information Archetypes Framework: Exploring the Types of Information Used in Open Source Design Engagements, _Proceedings of AMSE 2019 International Design Engineering Technical Conferences & Design Education_, Anaheim, CA.
+5. Yi, S., Lumbard, K., Damen, N. B., Germonprez, M., and Toh, C. (2019). Towards an Information Archetypes Framework: Exploring the Types of Information Used in Open Source Design Engagements, *Proceedings of the ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference*, Anaheim, CA, https://doi.org/10.1115/DETC2019-97956
 
-- Lumbard, K., Ahuja, V., Goggins, S., and Germonprez, M. (2019). Something to Talk About: Exploring Open Source Design Spaces. _Proceedings of MWAIS_, Oshkosh, WI.
-  
-- Goggins, S. and Germonprez, M. (2019). Open Source Health and Sustainability Metrics: CHAOSS Update, _Proceedings of SoHeal Conference_, Montreal, Canada.
+6. Lumbard, K., Ahuja, V. K., Germonprez, M., and Goggins, S. (2019). Something to Talk About: Exploring Open Source Design Spaces, *Proceedings of MWAIS 2019*, Oshkosh, WI, https://aisel.aisnet.org/mwais2019/18/
 
-- Germonprez, M., Link, G., Lumbard, K., and Goggins, S. (2018). Eight Observations and 24 Research Questions About Open Source Projects: Illuminating New Realities, _Proceedings of CSCW_, Vol. 2, Article 57, New York, NY.
+7. Goggins, S. and Germonprez, M. (2019). Open Source Health and Sustainability Metrics: CHAOSS Update, *Proceedings of the SoHeal Conference*, Montreal, Canada.
 
-- Gandhi, R., Germonprez, M., and Link, G. (2018). Open Data Standards for Open Source Software Risk Management Routines: An Examination of SPDX, _Proceedings of GROUP_, Sanibel Island, FL.
+8. Germonprez, M., Link, G. J. P., Lumbard, K., and Goggins, S. (2018). Eight Observations and 24 Research Questions About Open Source Projects: Illuminating New Realities, *Proceedings of the ACM on Human-Computer Interaction*, 2(CSCW), Article 57, 1-22, https://doi.org/10.1145/3274326
 
-- Lumbard, K., Abbid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes, _Proceedings of HICSS_, Waikoloa Village, HI.
+9. Gandhi, R. A., Germonprez, M., and Link, G. J. P. (2018). Open Data Standards for Open Source Software Risk Management Routines: An Examination of SPDX, *Proceedings of the 2018 ACM Conference on Supporting Groupwork (GROUP ’18)*, 219-229, Sanibel Island, FL, https://doi.org/10.1145/3148330.3148333
 
-- Lumbard, K. and Germonprez, M. (2017). Open Source Communities as Liminal Ecosystems, _Proceedings of MWAIS_, Springfield, IL.
+10. Lumbard, K., Abid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes, *Proceedings of the 51st Hawaii International Conference on System Sciences (HICSS)*, Waikoloa Village, HI, https://doi.org/10.24251/HICSS.2018.511
 
-- Link, G., Lumbard, K., Germonprez, M., and Goggins, S. (2017). Advancing Open Online Community Science Practice: The Open Community Data Exchange, _Proceedings of MWAIS_, Springfield, IL.
+11. Lumbard, K. and Germonprez, M. (2017). Open Source Communities as Liminal Ecosystems, *Proceedings of MWAIS 2017*, Springfield, IL, https://aisel.aisnet.org/mwais2017/
 
-- Goggins, S., Germonprez, M., Million, A.J., Halfaker, A., and Hemphill, L. (2017). Advancing the OCDX: Building Social Computing Infrastructure, Workshop, _Companion of CSCW_, Portland, OR.
+12. Link, G. J. P., Lumbard, K., Germonprez, M., and Goggins, S. (2017). Advancing Open Online Community Science Practice: The Open Community Data Exchange, *Proceedings of MWAIS 2017*, Springfield, IL, https://aisel.aisnet.org/mwais2017/44/
 
-- Germonprez, M. and Hovorka, D. (2016). Prototyping Practice in Open Source Compliance, Poster, _Proceedings of IFIP8.2 Conference_, Dublin, Ireland.
+13. Goggins, S., Germonprez, M., Million, A. J., Halfaker, A., and Hemphill, L. (2017). Advancing the OCDX: Building Social Computing Infrastructure, Workshop, *Companion of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’17 Companion)*, 421-424, Portland, OR, https://doi.org/10.1145/3022198.3022661
 
-- Link, G. and Germonprez, M. (2016). Understanding Open Source Communities as Complex Adaptive Systems: A Case of the R Project Community, _Proceedings of AMCIS_, San Diego, CA.
+14. Germonprez, M. and Hovorka, D. (2016). Prototyping Practice in Open Source Compliance, Poster, *Proceedings of the IFIP 8.2 Conference*, Dublin, Ireland.
 
-- Link, G., Germonprez, M., Goggins, S., Hemsley, J., Rand, B., and Squire, M. (2016). The Open Community Data Exchange: Advancing Data Sharing and Discovery in Open Online Community Science, _Proceedings of OpenSym_, Berlin, Germany.
+15. Link, G. J. P. and Germonprez, M. (2016). Understanding Open Source Communities as Complex Adaptive Systems: A Case of the R Project Community, *Proceedings of AMCIS 2016*, San Diego, CA, https://aisel.aisnet.org/amcis2016/Open/Presentations/7/
 
-- Germonprez, M. and Levy, M. (2015). Egalitarianism or Enterprise Strategy? Exploring a New Method of Innovation in Open Source, _Proceedings of AMCIS_, San Jose, Puerto Rico.
+16. Link, G. J. P., Germonprez, M., Goggins, S., Hemsley, J., Rand, B., and Squire, M. (2016). The Open Community Data Exchange: Advancing Data Sharing and Discovery in Open Online Community Science, *Proceedings of the 12th International Symposium on Open Collaboration Companion (OpenSym ’16)*, Berlin, Germany, https://doi.org/10.1145/2962132.2962142
 
-- Hovorka, D., Germonprez, and Levy, M. (2015). Design History: Exploring Corporate Communities, _Proceedings of DESRIST_, Dublin, Ireland.
+17. Germonprez, M. and Levy, M. (2015). Is It Egalitarianism or Enterprise Strategy? Exploring a New Method of Innovation in Open Source, *Proceedings of AMCIS 2015*, Puerto Rico, https://aisel.aisnet.org/amcis2015/StrategicUse/GeneralPresentations/18/
 
-- Germonprez, M., Kendall, K., Kendall, J., and Young, B. (2014). Expressing the Domestication of Open Source: How the Ecosystem Metaphor Illuminates and Obscures Understanding of Organizational Participation in Open Source Communities, _Proceedings of WDSI_, Napa, CA.
+18. Hovorka, D., Germonprez, M., and Levy, M. (2015). Design History: Exploring Corporate Communities, *Proceedings of DESRIST 2015*, Dublin, Ireland.
 
-- Germonprez, M., Kendall, K., Kendall, J., and Young, B. (2014). On the Rationality of For-Profit Corporations Participating in Open Source Software Communities, _Proceedings of WDSI_, Napa, CA.
+19. Germonprez, M., Kendall, K., Kendall, J., and Young, B. (2014). Expressing the Domestication of Open Source: How the Ecosystem Metaphor Illuminates and Obscures Understanding of Organizational Participation in Open Source Communities, *Proceedings of WDSI 2014*, Napa, CA.
 
-- Germonprez, M., Kendall, K., Kendall, J., Young, B., and Warner, B. (2013). The Domestication of Open Source, _Proceedings of DIGIT Workshop_, ICIS, Milan, Italy.
+20. Germonprez, M., Kendall, K., Kendall, J., and Young, B. (2014). On the Rationality of For-Profit Corporations Participating in Open Source Software Communities, *Proceedings of WDSI 2014*, Napa, CA.
 
-- Germonprez, M. and Mitchell, A. (2012). Member Engagement Types in Online Communities, _Proceedings of MWAIS_, Green Bay, WI.
+21. Germonprez, M., Kendall, K., Kendall, J., Young, B., and Warner, B. (2013). The Domestication of Open Source, *Proceedings of the DIGIT Workshop*, ICIS, Milan, Italy.
 
-- Germonprez, M., Warner, B., Kendall, J., Kendall, K., and Mathiassen, L., and Cao, L. (2012). Risk Mitigation in Corporate Participation with Open Source Communities: Protection and Compliance in an Open Source Supply Chain, _Proceedings of AIS SIGIT PROJ MGMT Workshop_, ICIS, Orlando, FL.
+22. Germonprez, M. and Mitchell, A. (2012). Member Engagement Types in Online Communities, *Proceedings of MWAIS 2012*, Green Bay, WI, https://aisel.aisnet.org/mwais2012/10/
 
-- Germonprez, M., Pallaud, J., and Monod, E. (2011). Technology Embodiment: A Heideggerian View, _Proceedings of JAIS Theory Workshop_, Shanghai, China.
+23. Germonprez, M., Warner, B., Kendall, J., Kendall, K., Mathiassen, L., and Cao, L. (2012). Risk Mitigation in Corporate Participation with Open Source Communities: Protection and Compliance in an Open Source Supply Chain, *Proceedings of the AIS SIGIT Project Management Workshop*, ICIS, Orlando, FL.
 
-- Hovorka, D. and Germonprez, M. (2011). Toward an Informativity Account of Design Science, _Proceedings of JAIS Theory Workshop_, Shanghai, China.
+24. Germonprez, M., Pallaud, J., and Monod, E. (2011). Technology Embodiment: A Heideggerian View, *Proceedings of the JAIS Theory Workshop*, Shanghai, China.
 
-- Germonprez, M., Warner, B., Kendall, J., Kendall, K., and Mathiassen, L. (2011). A Tutorial on Organizational Participation in Open Communities, _Proceedings of AIS SIG-ED Workshop_, Shanghai, China.
+25. Hovorka, D. and Germonprez, M. (2011). Toward an Informativity Account of Design Science, *Proceedings of the JAIS Theory Workshop*, Shanghai, China.
 
-- Germonprez, M. and Hovorka, D. (2011). Secondary Design: A Case of Community Participation, _Proceedings of AMCIS_, Detroit, MI.
+26. Germonprez, M., Warner, B., Kendall, J., Kendall, K., and Mathiassen, L. (2011). A Tutorial on Organizational Participation in Open Communities, *Proceedings of the AIS SIG-ED Workshop*, Shanghai, China.
 
-- Germonprez, M., Warner, B., Kendall, J., Kendall, K., and Mathiassen, L. (2011). Organizational Participation in Open Communities: Conceptual Framing and Early Findings, _Proceedings of AMCIS_, Detroit, MI.
+27. Germonprez, M. and Hovorka, D. (2011). Secondary Design: A Case of Community Participation, *Proceedings of AMCIS 2011*, 1901-1915, Detroit, MI, https://aisel.aisnet.org/amcis2011_submissions/212/
 
-- Klein, B., Eierman, M., Germonprez, M., and Guo, Y. (2011). Strategies for Conducting Research and Publishing in Universities with a Balanced Approach to Research and Teaching, Panel, _Proceedings of MWAIS_, Omaha, NE.
+28. Germonprez, M., Kendall, J., Kendall, K., Warner, B., and Mathiassen, L. (2011). Organizational Participation in Open Communities: Conceptual Framing and Early Findings, *Proceedings of AMCIS 2011*, 2164-2172, Detroit, MI, https://aisel.aisnet.org/amcis2011_submissions/242/
 
-- Germonprez, M., Hovorka, D., and Gal, U. (2009). Secondary Design: Mid-Range Theorizing, _Proceedings of JAIS Theory Workshop_, Phoenix, AZ.
+29. Klein, B., Eierman, M., Germonprez, M., and Guo, Y. (2011). Strategies for Conducting Research and Publishing in Universities with a Balanced Approach to Research and Teaching, Panel, *Proceedings of MWAIS 2011*, Omaha, NE.
 
-- Hovorka, D. and Germonprez, M. (2009). Tinkering, Tailoring and Bricolage: Implications for Theories of Design, _Proceedings of AMCIS_, San Francisco, CA.
+30. Germonprez, M., Hovorka, D., and Gal, U. (2009). Secondary Design: Mid-Range Theorizing, *Proceedings of the JAIS Theory Workshop*, Phoenix, AZ.
 
-- Germonprez, M. and Gal, U. (2009). Understanding Tailorable Technology Use through Social Representations Theory, _Proceedings of AMCIS_, San Francisco, CA.
+31. Hovorka, D. and Germonprez, M. (2009). Tinkering, Tailoring and Bricolage: Implications for Theories of Design, *Proceedings of AMCIS 2009*, 4231-4238, San Francisco, CA, https://aisel.aisnet.org/amcis2009/488/
 
-- Germonprez, M., Gou, M., Petter, S., and Zigurs, I. (2009). Perspectives on Publishing, Panel, _Proceedings of MWAIS_, Madison, SD.
+32. Germonprez, M. and Gal, U. (2009). Understanding Tailorable Technology Use Through Social Representations Theory, *Proceedings of AMCIS 2009*, San Francisco, CA.
 
-- Hovorka, D. and Germonprez, M. (2008). From Practice to Design: Emergence of an Information Service View, _Proceedings of ACIS_, Christchurch, New Zealand.
+33. Germonprez, M., Gou, M., Petter, S., and Zigurs, I. (2009). Perspectives on Publishing, Panel, *Proceedings of MWAIS 2009*, Madison, SD.
 
-- Hovorka, D. and Germonprez, M. (2008). Identification-Interaction-Innovation: A Phenomenological Basis for an Information Service View, _Proceedings of the 4th Information Systems Foundations Workshop_, Canberra, Australia.
+34. Hovorka, D. and Germonprez, M. (2008). From Practice to Design and Back: Emergence of an Information Service View, *Proceedings of ACIS 2008*, 432-441, Christchurch, New Zealand, https://aisel.aisnet.org/acis2008/50/
 
-- Montealegre, R., Germonprez, M., and Hovorka, D. (2008). Toward an Information System View of an Enterprise, Poster, _Proceedings of ICIS_, Paris, France.
+35. Hovorka, D. and Germonprez, M. (2008). Identification-Interaction-Innovation: A Phenomenological Basis for an Information Services View, *Proceedings of the 4th Information Systems Foundations Workshop*, Canberra, Australia. Subsequently published in *Information Systems Foundations: The Role of Design Science*, 3-20, https://doi.org/10.22459/ISF.12.2010.01
 
-- Germonprez, M. and Hovorka, D. (2008). The Information Service View, _Proceedings of IFIP 8.2_, Toronto, Canada.
+36. Montealegre, R., Hovorka, D., and Germonprez, M. (2008). Toward an Information Service View of an Enterprise, Poster, *Proceedings of ICIS 2008*, Paris, France.
 
-- Germonprez, M. (2007). The Adoption of Service Oriented Architecture, _Proceedings of MBAA International Conference_, Chicago, IL.
+37. Germonprez, M. and Hovorka, D. (2008). The Information Service View, *Proceedings of IFIP 8.2*, Toronto, Canada.
 
-- Germonprez, M. and Avital, M. (2006). Service Oriented Architectures for Designing Information Systems, _Proceedings of AIM Pre-ICIS Workshop_, Milwaukee, WI.
+38. Germonprez, M. (2007). The Adoption of Service Oriented Architecture, *Proceedings of the MBAA International Conference*, Chicago, IL.
 
-- Germonprez, M., Hovorka, D., and Collopy, F. (2006). Theorizing about Tailorable Technology, JAIS Theory Workshop, _Proceedings of AMCIS_, Acapulco, Mexico.
+39. Germonprez, M. and Avital, M. (2006). Service Oriented Architectures for Designing Information Systems, *Proceedings of the AIM Pre-ICIS Workshop*, Milwaukee, WI.
 
-- Wilson, V. and Germonprez, M. (2006). An HCI-Oriented Approach to the Introductory IS Programming, _Proceedings of MWAIS_, Grand Rapids, MI.
+40. Germonprez, M., Hovorka, D., and Collopy, F. (2006). Theorizing About Tailorable Technology, *JAIS Theory Workshop*, AMCIS, Acapulco, Mexico.
 
-- Germonprez, M., Hovorka, D., and Collopy, F. (2005). Theorizing about Tailorable Technology, _Proceedings of JAIS Theory Development Workshop_, Las Vegas, NV.
+41. Wilson, V. and Germonprez, M. (2006). An HCI-Oriented Approach to the Introductory IS Programming, *Proceedings of MWAIS 2006*, Grand Rapids, MI.
 
-- Braley, D., Fano, A., Light, J., and Germonprez, M. (2005). Ubiquitous Computing in Practice, _Proceedings of IFIP 8.2_, Cleveland, OH.
+42. Germonprez, M., Hovorka, D., and Collopy, F. (2005). Theorizing About Tailorable Technology, *Proceedings of the JAIS Theory Development Workshop*, Las Vegas, NV.
 
-- Lyytinen, K., Ramesh, B., Iacono, S., Prey, S., Ko, DG., and Germonprez, M. (2005). Grant Writing in Information Systems, Pre-Conference Workshop, _Proceedings of AMCIS_, Omaha, NE.
+43. Braley, D., Fano, A., Light, J., and Germonprez, M. (2005). Ubiquitous Computing in Practice, *Proceedings of IFIP 8.2*, Cleveland, OH.
 
-- Germonprez, M. (2005). Designing and Teaching Web Systems Integration, Pre-Conference Workshop, _Proceedings of AMCIS_, Omaha, NE.
+44. Lyytinen, K., Ramesh, B., Iacono, S., Prey, J., Ko, D. G., and Germonprez, M. (2005). Grant Writing in Information Systems, Pre-Conference Workshop, *Proceedings of AMCIS 2005*, Omaha, NE.
 
-- Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technology, _Proceedings of SIGHCI ICIS Pre-Conference Workshop_, Washington, D.C.
+45. Germonprez, M. (2005). Designing and Teaching Web Systems Integration, Pre-Conference Workshop, *Proceedings of AMCIS 2005*, Omaha, NE.
 
-- Avital, M., Germonprez, M., Baskerville, R., Boland, R., Hart, P., and Schultze, U. (2004). The Actionability of Information Systems Theory, OCIS Panel, _Proceedings of The Academy of Management Conference_, New Orleans, LA.
+46. Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technology, *Proceedings of the SIGHCI ICIS Pre-Conference Workshop*, Washington, D.C.
 
-- Germonprez, M., Srinivasan, N., and Meyer, E. (2004). Interface Design Standards: A Little K Goes a Long Way, _Proceedings of the Austin Mobility Roundtable_, Austin, TX.
+47. Avital, M., Germonprez, M., Baskerville, R., Boland, R., Hart, P., and Schultze, U. (2004). The Actionability of Information Systems Theory, OCIS Panel, *Proceedings of the Academy of Management Conference*, New Orleans, LA.
 
-- Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, _Proceedings of IFIP 8.2_, Manchester, England.
+48. Germonprez, M., Srinivasan, N., and Meyer, E. (2004). Interface Design Standards: A Little K Goes a Long Way, *Proceedings of the Austin Mobility Roundtable*, Austin, TX.
 
-- Avital, M. and Germonprez, M. (2003). Ubiquitous Computing: Surfing the Trend in a Balanced Act, _Proceedings of the Workshop on Ubiquitous Computer Environments_, Cleveland, OH.
+49. Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, *Proceedings of IFIP 8.2*, Manchester, England.
 
-- Germonprez, M. and Hovorka, D. (2002). Examining Group Communicative Processes: Critically Based Tools and Training, _Proceedings of AMCIS_, Dallas, TX.
+50. Avital, M. and Germonprez, M. (2003). Ubiquitous Computing: Surfing the Trend in a Balanced Act, *Proceedings of the Workshop on Ubiquitous Computer Environments*, Cleveland, OH.
 
-- Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, _Proceedings of AMCIS_, Boston, MA.
+51. Germonprez, M. and Hovorka, D. (2002). Examining Group Communicative Processes: Critically Based Tools and Training, *Proceedings of AMCIS 2002*, Dallas, TX, https://aisel.aisnet.org/amcis2002/221/
+
+52. Germonprez, M. (2001). Redefining Channel Expansion: A Critical Approach, *Proceedings of AMCIS 2001*, Boston, MA.
+
 
 ### ARCHIVAL AND WORKING PAPERS
 - Germonprez, M., Conboy, K., Morgan, L., Link, G., and Goggins, S. (2026). Where is the Control? The Distribution of Outcome Control in Open Source Software Consortia, SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6711038
