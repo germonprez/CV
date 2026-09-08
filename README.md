@@ -58,7 +58,7 @@ Assistant Professor of Information Systems
 - Undergraduate Teaching Excellence Award - Case Western Reserve University - 2005
 - Committee on Learning and Academic Support Services Honoree - University of Colorado - 2001
 
-### GRANTS AND CONTRACTS
+### GRANTS AND CONTRACTS (Over $5.4M in Funding)
 
 #### _Foundations, Institutes, and Initiatives_ 
 - Germonprez, M., Goggins, S., El Zein, R., Foster, D., and Barron, E. (2024-2026), Scientific Open Source Project Health and Sustainability, **Wellcome Trust**, $557,888.
@@ -107,7 +107,7 @@ Assistant Professor of Information Systems
 - My InnerView, Student Mentorship (2009), $3,500
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
-### ARTICLES
+### ARTICLES (14 AIS Senior Scholar Premier Journals)
 - Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, https://onlinelibrary.wiley.com/doi/10.1111/isj.70060
 
 - Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, *IEEE Computer*, 59(9), 110-114, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q
