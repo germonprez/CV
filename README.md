@@ -107,7 +107,7 @@ Assistant Professor of Information Systems
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
 ### ARTICLES
-- Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, Accepted for Publication.
+- Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, Available at: https://onlinelibrary.wiley.com/doi/10.1111/isj.70060 
 
 - Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, _IEEE Computer_, 59(9), 110-114.
 
