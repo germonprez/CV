@@ -107,17 +107,17 @@ Assistant Professor of Information Systems
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
 ### ARTICLES
-- Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, Available at: https://onlinelibrary.wiley.com/doi/10.1111/isj.70060 
+- Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, https://onlinelibrary.wiley.com/doi/10.1111/isj.70060 
 
-- Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, _IEEE Computer_, 59(9), 110-114.
+- Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, _IEEE Computer_, 59(9), 110-114, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q
 
-- Germonprez, M. (2026). Open Source Community Roles and Community Continuity, _IEEE Computer_, 59(2), 137-141.
+- Germonprez, M. (2026). Open Source Community Roles and Community Continuity, _IEEE Computer_, 59(2), 137-141, https://www.computer.org/csdl/magazine/co/2026/02/11371017/2dOheQhA3Hq
 
-- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, _First Monday_, 30(2). 
+- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, _First Monday_, 30(2), https://firstmonday.org/ojs/index.php/fm/article/view/13629
 
-- Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, _Information Systems Journal_, 34(2), 499-532.
+- Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, _Information Systems Journal_, 34(2), 499-532, https://onlinelibrary.wiley.com/doi/full/10.1111/isj.12485
 
-- Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, _IEEE Computer_, 54(8), 104-111.
+- Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, _IEEE Computer_, 54(8), 104-111, https://www.computer.org/csdl/magazine/co/2021/08/09504501/1vJVw0rwtm8
 
 - Germonprez, M., Gandhi, R., and Link, G. (2021). The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines, _Communications of the Association for Information Systems_, 49, 729-747.
 
