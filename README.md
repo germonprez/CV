@@ -216,7 +216,7 @@ Assistant Professor of Information Systems
 
 - Goggins, S., Germonprez, M., Million, A. J., Halfaker, A., and Hemphill, L. (2017). Advancing the OCDX: Building Social Computing Infrastructure, Workshop, *Companion of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’17 Companion)*, 421-424, Portland, OR, https://doi.org/10.1145/3022198.3022661
 
-- Germonprez, M. and Hovorka, D. (2016). Prototyping Practice in Open Source Compliance, Poster, *Proceedings of IFIP 8.2 Conference*, Dublin, Ireland.
+- Germonprez, M. and Hovorka, D. (2016). Prototyping Practice in Open Source Compliance, Poster, *Proceedings of IFIP 8.2 Conference*, Dublin, Ireland, https://ifip82dublin.weebly.com/
 
 - Link, G. J. P. and Germonprez, M. (2016). Understanding Open Source Communities as Complex Adaptive Systems: A Case of the R Project Community, *Proceedings of AMCIS*, San Diego, CA, https://aisel.aisnet.org/amcis2016/Open/Presentations/7/
 
@@ -264,7 +264,7 @@ Assistant Professor of Information Systems
 
 - Germonprez, M. and Hovorka, D. (2008). The Information Services View, *Proceedings of IFIP 8.2: Information Technology in the Service Economy: Challenges and Possibilities for the 21st Century*, 365-366, Toronto, Canada, https://dl.ifip.org/db/conf/ifip8-2/ifip8-2-2008/GermonprezH08.pdf
 
-- Germonprez, M. (2007). The Adoption of Service Oriented Architecture, *Proceedings of MBAA International Conference*, Chicago, IL.
+- Germonprez, M. (2007). The Adoption of Service Oriented Architecture, *Proceedings of MBAA International Conference*, Chicago, IL, https://mbaasais.org/archived_programs/MBAAProgram_2007.pdf
 
 - Germonprez, M. and Avital, M. (2006). Service Oriented Architectures for Designing Information Systems, *Proceedings of AIM Pre-ICIS Workshop*, Milwaukee, WI.
 
@@ -278,9 +278,9 @@ Assistant Professor of Information Systems
 
 - Lyytinen, K., Ramesh, B., Iacono, S., Prey, J., Ko, D. G., and Germonprez, M. (2005). Grant Writing in Information Systems, Pre-Conference Workshop, *Proceedings of AMCIS*, Omaha, NE, https://aisel.aisnet.org/amcis2005/477/
 
-- Germonprez, M. (2005). Designing and Teaching Web Systems Integration, Pre-Conference Workshop, *Proceedings of AMCIS*, Omaha, NE.
+- Germonprez, M. (2005). Designing and Teaching Web Systems Integration, Pre-Conference Workshop, *Proceedings of AMCIS*, Omaha, NE, https://aisel.aisnet.org/amcis2005/479/
 
-- Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technologies, *Proceedings of SIGHCI ICIS Pre-Conference Workshop*, Washington, D.C. An archival version is available as *Sprouts: Working Papers on Information Systems*, 4(7).
+- Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technologies, *Proceedings of SIGHCI ICIS Pre-Conference Workshop*, Washington, D.C. 4(7), https://aisel.aisnet.org/sighci2004/10/
 
 - Avital, M., Germonprez, M., Baskerville, R., Boland, R., Hart, P., and Schultze, U. (2004). The Actionability of Information Systems Theory, OCIS Panel, *Proceedings of the Academy of Management Conference*, New Orleans, LA.
 
@@ -288,7 +288,7 @@ Assistant Professor of Information Systems
 
 - Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, *Proceedings of IFIP 8.2*, Manchester, England. Subsequently published in *Information Systems Research: Relevant Theory and Informed Practice*, 335-352, https://doi.org/10.1007/1-4020-8095-6_19
 
-- Avital, M. and Germonprez, M. (2003). Ubiquitous Computing: Surfing the Trend in a Balanced Act, *Proceedings of the Workshop on Ubiquitous Computer Environments*, Cleveland, OH. Archival version available through *Sprouts: Working Papers on Information Systems*.
+- Avital, M. and Germonprez, M. (2003). Ubiquitous Computing: Surfing the Trend in a Balanced Act, *Proceedings of the Workshop on Ubiquitous Computer Environments*, Cleveland, OH, https://aisel.aisnet.org/sprouts_all/54/
 
 - Germonprez, M. and Hovorka, D. (2002). Examining Group Communicative Processes: Critically Based Tools and Training, *Proceedings of AMCIS*, Dallas, TX, https://aisel.aisnet.org/amcis2002/221/
 
