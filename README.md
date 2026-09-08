@@ -174,19 +174,20 @@ Assistant Professor of Information Systems
 - Avital, M. and Germonprez, M. (2004). Reflections on Paragrammatic Uses of Organizational Theory: A Response to Yiannis Gabriel, *Organization Studies*, 25(6), 1045-1048, https://doi.org/10.1177/0170840604043886
 
 ### BOOK CHAPTERS AND FOREWORDS
-- Germonprez, M. and Feller, J. (2015). Foreword, in Software Sourcing in the **Age of Open: Leveraging the Unknown Workforce**, Agerfalk, P., Fitzgerald, B., and Stol, K-J (eds.), Springer, Berlin, Germany.
+- Germonprez, M. and Feller, J. (2015). Foreword, in **Software Sourcing in the Age of Open: Leveraging the Unknown Workforce**, Ågerfalk, P. J., Fitzgerald, B., and Stol, K.-J. (eds.), Springer, Cham, Switzerland, https://doi.org/10.1007/978-3-319-17266-8
 
-- Germonprez, M., & Warner, B. (2013). Organizational Participation in Open Innovation Communities, in **Managing Open Innovation Technologies**, Lundström, E., Wiberg, M., Hrastinski, S., Edenius, M. & Agerfalk, P. (eds.), Berlin Heidelberg: Springer-Verlag.
+- Germonprez, M. and Warner, B. (2013). Organisational Participation in Open Innovation Communities, in **Managing Open Innovation Technologies**, Lundström, E., Wiberg, M., Hrastinski, S., Edenius, M., and Ågerfalk, P. J. (eds.), Springer-Verlag, Berlin Heidelberg, pp. 35-52, https://doi.org/10.1007/978-3-642-31650-0_3
 
-- Hovorka, D. and Germonprez, M. (2010). Reflecting, Tinkering, and Tailoring: Implications for Theories of Information Systems Design, in **Reframing the Human in Information Systems Design**, Isomaki, H. & Pekkola, S. (eds.), Springer, New York, NY.
+- Hovorka, D. and Germonprez, M. (2011). Reflecting, Tinkering, and Tailoring: Implications for Theories of Information System Design, in **Reframing Humans in Information Systems Development**, Isomäki, H. and Pekkola, S. (eds.), Springer, London, UK, pp. 135-149, https://doi.org/10.1007/978-1-84996-347-3_8
 
-- Germonprez, M., Avital, M., and Srinivasan, N. (2007). The Value of Web Design Standards for Mobile Computing, in **Standardization Research in Information Technology**, Jakobs, K. (ed.), IGI Global, Hershey, PA.
+- Germonprez, M., Avital, M., and Srinivasan, N. (2007). The Value of Web Design Standards for Mobile Computing, in **Standardization Research in Information Technology**, Jakobs, K. (ed.), IGI Global, Hershey, PA, pp. 214-226, https://doi.org/10.4018/978-1-59904-561-0.ch013
 
-- Hovorka, D. and Germonprez, M. (2007). Design Theorizing: A Kantian Inquiring Approach in **Perspectives in Information Management**, de Vries, E. & Huizing, A. (eds.), Elsevier Publishers, Atlanta, GA.
+- Hovorka, D. and Germonprez, M. (2007). Design Theorizing: A Kantian Inquiring Approach, in **Perspectives in Information Management**, de Vries, E. J. and Huizing, A. (eds.), Elsevier, Amsterdam, The Netherlands.
 
-- Braley, D., Fano, A., Light, J., and Germonprez, M. (2005). Ubiquitous Computing in Practice, in **Designing Ubiquitous Information Environments: Socio-technical Issues and Challenges**, Lyytinen, K., Yoo, Y., Sorensen, K., & DeGross, J. (eds.), Springer-Verlag, New York, NY.
+- Braley, D., Fano, A., Lassila, O., Light, J., and Germonprez, M. (2005). Ubiquitous Computing in Practice, in **Designing Ubiquitous Information Environments: Socio-Technical Issues and Challenges**, Lyytinen, K., Yoo, Y., and DeGross, J. I. (eds.), Springer, New York, NY, pp. 365-367, https://doi.org/10.1007/0-387-28918-6_31
 
-- Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, in **Information Systems Research: Relevant Theory and Informed Practice**, Kaplan, B., Truex, D., Wastell, D., Wood-Harper, T., & DeGross, J. (eds.), Kluwer Academic Publishers, Boston, MA.
+- Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, in **Information Systems Research: Relevant Theory and Informed Practice**, Kaplan, B., Truex, D. P., Wastell, D., Wood-Harper, A. T., and DeGross, J. I. (eds.), Kluwer Academic Publishers, Boston, MA, pp. 335-349, https://doi.org/10.1007/1-4020-8095-6_19
+
 
 ### CONFERENCES AND WORKSHOPS
 - Lumbard, K., Ahuja, V., and Germonprez, M. (2026). Understanding Development Patterns in Corporate Open Source Projects, _Proceedings of ACMSE_, Troy, AL. 
