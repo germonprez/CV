@@ -107,72 +107,71 @@ Assistant Professor of Information Systems
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
 ### ARTICLES
-- Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, https://onlinelibrary.wiley.com/doi/10.1111/isj.70060 
+- Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, https://onlinelibrary.wiley.com/doi/10.1111/isj.70060
 
-- Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, _IEEE Computer_, 59(9), 110-114, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q
+- Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, *IEEE Computer*, 59(9), 110-114, DOI not yet verified, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q
 
-- Germonprez, M. (2026). Open Source Community Roles and Community Continuity, _IEEE Computer_, 59(2), 137-141, https://www.computer.org/csdl/magazine/co/2026/02/11371017/2dOheQhA3Hq
+- Germonprez, M. (2026). Open Source Community Roles and Community Continuity, *IEEE Computer*, 59(2), 137-141, https://doi.org/10.1109/MC.2025.3636342
 
-- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du. C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, _First Monday_, 30(2), https://firstmonday.org/ojs/index.php/fm/article/view/13629
+- Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du, C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, *First Monday*, 30(2), https://doi.org/10.5210/fm.v30i2.13629
 
-- Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, _Information Systems Journal_, 34(2), 499-532, https://onlinelibrary.wiley.com/doi/full/10.1111/isj.12485
+- Lumbard, K., Germonprez, M., and Goggins, S. (2024). An Empirical Investigation of Social Comparison and Open Source Community Health, *Information Systems Journal*, 34(2), 499-532, https://doi.org/10.1111/isj.12485
 
-- Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, _IEEE Computer_, 54(8), 104-111, https://www.computer.org/csdl/magazine/co/2021/08/09504501/1vJVw0rwtm8
+- Goggins, S., Germonprez, M., and Lumbard, K. (2021). Making Open Source Project Health Transparent, *IEEE Computer*, 54(8), 104-111, https://doi.org/10.1109/MC.2021.3084015
 
-- Germonprez, M., Gandhi, R., and Link, G. (2021). The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines, _Communications of the Association for Information Systems_, 49, 729-747, https://aisel.aisnet.org/cais/vol49/iss1/39/
+- Germonprez, M., Gandhi, R., and Link, G. (2021). The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines, *Communications of the Association for Information Systems*, 49, 729-747, https://doi.org/10.17705/1CAIS.04938
 
-- Kendall, K., Kendall, J., Germonprez, M., and Mathiassen, L. (2020). The Third Design Space: A Postcolonial Perspective on Corporate Engagement with Open Source Software Communities, _Information Systems Journal_, 30(2), 369-402, https://onlinelibrary.wiley.com/doi/full/10.1111/isj.12270
+- Kendall, K., Kendall, J., Germonprez, M., and Mathiassen, L. (2020). The Third Design Space: A Postcolonial Perspective on Corporate Engagement with Open Source Software Communities, *Information Systems Journal*, 30(2), 369-402, https://doi.org/10.1111/isj.12270
 
-- Germonprez, M., Levy, M., Kendall, J., and Kendall, K. (2020). Tapestries of Innovation: Structures of Contemporary Open Source Project Engagements, _Journal of the Association for Information Systems_, 21(3), 637-663, https://www.researchgate.net/publication/346664795_Tapestries_of_Innovation_Structures_of_Contemporary_Open_Source_Project_Engagements
+- Germonprez, M., Levy, M., Kendall, J., and Kendall, K. (2020). Tapestries of Innovation: Structures of Contemporary Open Source Project Engagements, *Journal of the Association for Information Systems*, 21(3), 637-663, https://doi.org/10.17705/1jais.00615
 
-- Germonprez, M., Lipps, J., and Goggins, S. (2019). The Rising Tide: Open Source’s Steady Transformation, _First Monday_, 24(8), https://firstmonday.org/ojs/index.php/fm/article/view/9297/
+- Germonprez, M., Lipps, J., and Goggins, S. (2019). The Rising Tide: Open Source’s Steady Transformation, *First Monday*, 24(8), https://doi.org/10.5210/fm.v24i8.9297
 
-- Hukal, P., Berente, N., Germonprez, M., and Schecter, A. (2019). Bots Coordinating Work in Open Source Software Projects, _IEEE Computer_, 52(9), 52-60, https://ieeexplore.ieee.org/document/8812169
+- Hukal, P., Berente, N., Germonprez, M., and Schecter, A. (2019). Bots Coordinating Work in Open Source Software Projects, *IEEE Computer*, 52(9), 52-60, https://doi.org/10.1109/MC.2018.2885970
 
-- Link, G., Lumbard, K., Conboy, K., Feldman, M., Feller, J., George, J., Germonprez, M., Goggins, S., Jeske, D., Kieley, G., Schuster, K., and Willis, M. (2017). Contemporary Issues of Open Data in Information Systems Research: Considerations and Recommendations, _Communications of the Association for Information Systems_, 41(25),
+- Link, G., Lumbard, K., Conboy, K., Feldman, M., Feller, J., George, J., Germonprez, M., Goggins, S., Jeske, D., Kieley, G., Schuster, K., and Willis, M. (2017). Contemporary Issues of Open Data in Information Systems Research: Considerations and Recommendations, *Communications of the Association for Information Systems*, 41, 587-610, https://doi.org/10.17705/1CAIS.04125
 
-- Germonprez, M., Kendall, J., Kendall, K., Mathiassen, L., Young, B., and Warner, B. (2017). A Theory of Responsive Design: A Field Study of Corporate Engagement with Open Source Communities, _Information Systems Research_, 28(1), 64-83.
+- Germonprez, M., Kendall, J., Kendall, K., Mathiassen, L., Young, B., and Warner, B. (2017). A Theory of Responsive Design: A Field Study of Corporate Engagement with Open Source Communities, *Information Systems Research*, 28(1), 64-83, https://doi.org/10.1287/isre.2016.0662
 
-- Levy, M. and Germonprez, M. (2016). The Potential for Citizen Science in Information Systems Research, _Communications of the Association for Information Systems_, 40(2), 22-39.
+- Levy, M. and Germonprez, M. (2017). The Potential for Citizen Science in Information Systems Research, *Communications of the Association for Information Systems*, 40, 22-39, https://doi.org/10.17705/1CAIS.04002
 
-- Kendall, J., Kendall, K., and Germonprez, M. (2016). Game Theory and Open Source Contribution: Rationale Behind Corporate Participation in Open Source Software Development, _Journal of Organizational Computing and Electronic Commerce_, 323-343.
+- Kendall, J., Kendall, K., and Germonprez, M. (2016). Game Theory and Open Source Contribution: Rationale Behind Corporate Participation in Open Source Software Development, *Journal of Organizational Computing and Electronic Commerce*, 26(4), 323-343, https://doi.org/10.1080/10919392.2016.1228360
 
-- Montealegre, R., Hovorka, D., and Germonprez, M. (2014). An Information Services View: A Coevolutionary, Longitudinal Analysis of the U.S. National Oceanic and Atmospheric Administration, _Journal of the Association for Information Systems_, 15(9), 577-613.
+- Montealegre, R., Hovorka, D., and Germonprez, M. (2014). A Coevolutionary View of Information Services Development: Lessons from the U.S. National Oceanic and Atmospheric Administration, *Journal of the Association for Information Systems*, 15(9), 577-613, https://doi.org/10.17705/1jais.00372
 
-- Germonprez, M., Kendall, J., Kendall, K., and Young, B. (2014). Collectivism, Creativity, Competition, and Control in Open Source Software Development: Reflections on the Emergent Governance of the SPDX Working Group, _International Journal of Information Systems and Management_, 1(1), 125-145.
+- Germonprez, M., Kendall, J., Kendall, K., and Young, B. (2014). Collectivism, Creativity, Competition, and Control in Open Source Software Development: Reflections on the Emergent Governance of the SPDX Working Group, *International Journal of Information Systems and Management*, 1(1/2), 125-145, https://doi.org/10.1504/IJISAM.2014.062290
 
-- Germonprez, M., Kendall, J., Kendall, K., and Young, B. (2014). Born Free: How the Origins and Advancement of Open Source Software through Sharing Will Uphold the Values of Free Software, _Decision Line_, 45(1), 125-145.
+- Germonprez, M., Kendall, J., Kendall, K., and Young, B. (2014). Born Free: How the Origins and Advancement of Open Source Software through Sharing Will Uphold the Values of Free Software, *Decision Line*, 45(1), 16-19.
 
-- Firth, D., Germonprez, M., and Thatcher, J. (2013). Managing Your PhD Student Career: How to Prepare for the Job Market, _Communications of the Association for Information Systems_, 33(20), 87-104.
+- Firth, D., Germonprez, M., and Thatcher, J. (2014). Managing Your PhD Student Career: How to Prepare for the Job Market, *Communications of the Association for Information Systems*, 34, 87-104, https://doi.org/10.17705/1CAIS.03405
 
-- Germonprez, M., Allen, JP, Warner, B., Hill, J., and McClements, G. (2013). Open Source Communities of Competitors, _ACM Interactions_, 20(6), 54-59.
+- Germonprez, M., Allen, J. P., Warner, B., Hill, J., and McClements, G. (2013). Open Source Communities of Competitors, *ACM Interactions*, 20(6), 54-59, https://doi.org/10.1145/2527191
 
-- Hovorka, D. and Germonprez, M. (2013). Perspectives on Emergence in Information Systems Research, _Communications of the Association for Information Systems_, 34(5), 353-364.
+- Hovorka, D. and Germonprez, M. (2013). Perspectives on Emergence in Information Systems Research, *Communications of the Association for Information Systems*, 33, 353-364, https://doi.org/10.17705/1CAIS.03320
 
-- Germonprez, M. and Hovorka, D. (2013). Engagement and Design in Digitally Enabled Social Network Communities: New Methodological Considerations, _Information Systems Journal_,
-23(6), 525-549.
+- Germonprez, M. and Hovorka, D. (2013). Member Engagement within Digitally Enabled Social Network Communities: New Methodological Considerations, *Information Systems Journal*, 23(6), 525-549, https://doi.org/10.1111/isj.12021
 
-- Mathiassen, L., Chiasson, M., and Germonprez, M. (2011). Style Composition in Action Research Publication, _MIS Quarterly_, 36(2), 347-363.
+- Mathiassen, L., Chiasson, M., and Germonprez, M. (2012). Style Composition in Action Research Publication, *MIS Quarterly*, 36(2), 347-363, https://doi.org/10.2307/41703459
 
-- Germonprez, M. (2011). Pluralism is Not about Me: It is About Us, _Journal of Information Technology_, 26, 304-305.
+- Germonprez, M. (2011). Pluralism is Not about Me: It is About Us, *Journal of Information Technology*, 26, 304-305, https://doi.org/10.1057/jit.2011.23
 
-- Germonprez, M., Hovorka, D., and Gal, U. (2011). Secondary Design: A Case of Behavioral Design Science Research, _Journal of the Association for Information Systems_, 12(10), 662-683.
+- Germonprez, M., Hovorka, D., and Gal, U. (2011). Secondary Design: A Case of Behavioral Design Science Research, *Journal of the Association for Information Systems*, 12(10), 662-683, https://doi.org/10.17705/1jais.00278
 
-- Davis, A., Germonprez, M., Petter, S., Drum, D., and Kolstad, J. (2009). A Case Study of Offshore Development across IS Courses: Lessons Learned from a Global Student Project, _Communications of the Association for Information Systems_, 24(21), 351-372.
+- Davis, A., Germonprez, M., Petter, S., Drum, D., and Kolstad, J. (2009). A Case Study of Offshore Development across IS Courses: Lessons Learned from a Global Student Project, *Communications of the Association for Information Systems*, 24, 351-372, https://doi.org/10.17705/1CAIS.02421
 
-- Germonprez, M. and Zigurs, I. (2009). Task, Technology, and Tailoring in Communicative Action: An In-Depth Analysis of Group Communication, _Information & Organization_, 19, 22-46.
+- Germonprez, M. and Zigurs, I. (2009). Task, Technology, and Tailoring in Communicative Action: An In-Depth Analysis of Group Communication, *Information & Organization*, 19(1), 22-46, https://doi.org/10.1016/j.infoandorg.2008.03.002
 
-- Chiasson, M., Germonprez, M., and Mathiassen, L. (2009). Pluralist Action Research: A Review of the Information Systems Literature, _Information Systems Journal_, 19, 31-54.
+- Chiasson, M., Germonprez, M., and Mathiassen, L. (2009). Pluralist Action Research: A Review of the Information Systems Literature, *Information Systems Journal*, 19(1), 31-54, https://doi.org/10.1111/j.1365-2575.2008.00297.x
 
-- Hovorka, D., Germonprez, M., and Larsen, K. (2008). Explanation in Information Systems, _Information Systems Journal_, 18(1), 23-43.
+- Hovorka, D., Germonprez, M., and Larsen, K. (2008). Explanation in Information Systems, *Information Systems Journal*, 18(1), 23-43, https://doi.org/10.1111/j.1365-2575.2007.00271.x
 
-- Germonprez, M., Hovorka, D., and Collopy, F. (2007). A Theory of Tailorable Technology Design, _Journal of the Association for Information Systems_, 8(6), 315-367.
+- Germonprez, M., Hovorka, D., and Collopy, F. (2007). A Theory of Tailorable Technology Design, *Journal of the Association for Information Systems*, 8(6), 315-367, https://doi.org/10.17705/1jais.00131
 
-- Germonprez, M., Avital, M., and Srinivasan, N. (2006). Impacts of Cascading Style Sheets on Mobile Computing, _International Journal of IT Standards & Standardisation Research_, 4(2), 55-69.
+- Germonprez, M., Avital, M., and Srinivasan, N. (2006). Impacts of Cascading Style Sheets on Mobile Computing, *International Journal of IT Standards & Standardisation Research*, 4(2), 55-69, https://doi.org/10.4018/jitsr.2006070104
 
-- Lyytinen, K., Prey, J., Ramesh, B., Germonprez, M., and Ko, DG. (2005). Grant Proposal Writing in Information Systems, _Communications of the Association for Information Systems_, 16(22), 457- 462.
+- Lyytinen, K., Prey, J., Ramesh, B., Germonprez, M., and Ko, D. G. (2005). Grant Proposal Writing in Information Systems, *Communications of the Association for Information Systems*, 16, 457-462, https://doi.org/10.17705/1CAIS.01622
 
-- Avital, M. and Germonprez, M. (2004). On Paragrammatic Uses of Organizational Theory - A Response to Yiannis Gabriel, _Organization Studies_, 25(6), 1045-1048.
+- Avital, M. and Germonprez, M. (2004). Reflections on Paragrammatic Uses of Organizational Theory: A Response to Yiannis Gabriel, *Organization Studies*, 25(6), 1045-1048, https://doi.org/10.1177/0170840604043886
 
 ### BOOK CHAPTERS AND FOREWORDS
 - Germonprez, M. and Feller, J. (2015). Foreword, in Software Sourcing in the **Age of Open: Leveraging the Unknown Workforce**, Agerfalk, P., Fitzgerald, B., and Stol, K-J (eds.), Springer, Berlin, Germany.
