@@ -119,15 +119,15 @@ Assistant Professor of Information Systems
 
 - Goggins, S., Germonprez, M., and Lumbard (2021). Making Open Source Project Health Transparent, _IEEE Computer_, 54(8), 104-111, https://www.computer.org/csdl/magazine/co/2021/08/09504501/1vJVw0rwtm8
 
-- Germonprez, M., Gandhi, R., and Link, G. (2021). The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines, _Communications of the Association for Information Systems_, 49, 729-747.
+- Germonprez, M., Gandhi, R., and Link, G. (2021). The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines, _Communications of the Association for Information Systems_, 49, 729-747, https://aisel.aisnet.org/cais/vol49/iss1/39/
 
-- Kendall, K., Kendall, J., Germonprez, M., and Mathiassen, L. (2020). The Third Design Space: A Postcolonial Perspective on Corporate Engagement with Open Source Software Communities, _Information Systems Journal_, 30(2), 369-402.
+- Kendall, K., Kendall, J., Germonprez, M., and Mathiassen, L. (2020). The Third Design Space: A Postcolonial Perspective on Corporate Engagement with Open Source Software Communities, _Information Systems Journal_, 30(2), 369-402, https://onlinelibrary.wiley.com/doi/full/10.1111/isj.12270
 
-- Germonprez, M., Levy, M., Kendall, J., and Kendall, K. (2020). Tapestries of Innovation: Structures of Contemporary Open Source Project Engagements, _Journal of the Association for Information Systems_, 21(3), 637-663.
+- Germonprez, M., Levy, M., Kendall, J., and Kendall, K. (2020). Tapestries of Innovation: Structures of Contemporary Open Source Project Engagements, _Journal of the Association for Information Systems_, 21(3), 637-663, https://www.researchgate.net/publication/346664795_Tapestries_of_Innovation_Structures_of_Contemporary_Open_Source_Project_Engagements
 
-- Germonprez, M., Lipps, J., and Goggins, S. (2019). The Rising Tide: Open Source’s Steady Transformation, _First Monday_, 24(8).
+- Germonprez, M., Lipps, J., and Goggins, S. (2019). The Rising Tide: Open Source’s Steady Transformation, _First Monday_, 24(8), https://firstmonday.org/ojs/index.php/fm/article/view/9297/
 
-- Hukal, P., Berente, N., Germonprez, M., and Schecter, A. (2019). Bots Coordinating Work in Open Source Software Projects, _IEEE Computer_, 52(9), 52-60.
+- Hukal, P., Berente, N., Germonprez, M., and Schecter, A. (2019). Bots Coordinating Work in Open Source Software Projects, _IEEE Computer_, 52(9), 52-60, https://ieeexplore.ieee.org/document/8812169
 
 - Link, G., Lumbard, K., Conboy, K., Feldman, M., Feller, J., George, J., Germonprez, M., Goggins, S., Jeske, D., Kieley, G., Schuster, K., and Willis, M. (2017). Contemporary Issues of Open Data in Information Systems Research: Considerations and Recommendations, _Communications of the Association for Information Systems_, 41(25),
 
