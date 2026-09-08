@@ -109,7 +109,7 @@ Assistant Professor of Information Systems
 ### ARTICLES
 - Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, https://onlinelibrary.wiley.com/doi/10.1111/isj.70060
 
-- Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, *IEEE Computer*, 59(9), 110-114, DOI not yet verified, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q
+- Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, *IEEE Computer*, 59(9), 110-114, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q
 
 - Germonprez, M. (2026). Open Source Community Roles and Community Continuity, *IEEE Computer*, 59(2), 137-141, https://doi.org/10.1109/MC.2025.3636342
 
