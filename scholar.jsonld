@@ -1,0 +1,1956 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Matt Germonprez",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Nebraska Omaha"
+  },
+  "url": "https://github.com/germonprez/CV",
+  "subjectOf": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events",
+      "datePublished": 2026,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Foster, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1111/isj.70060",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1111/isj.70060"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Value Capture Dynamics in Open Source",
+      "datePublished": 2026,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Foster, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Source Community Roles and Community Continuity",
+      "datePublished": 2026,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1109/MC.2025.3636342",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1109/MC.2025.3636342"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field",
+      "datePublished": 2025,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Du, C."
+        }
+      ],
+      "url": "https://doi.org/10.5210/fm.v30i2.13629",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5210/fm.v30i2.13629"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "An Empirical Investigation of Social Comparison and Open Source Community Health",
+      "datePublished": 2024,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lumbard, K., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        }
+      ],
+      "url": "https://doi.org/10.1111/isj.12485",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1111/isj.12485"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Making Open Source Project Health Transparent",
+      "datePublished": 2021,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Goggins, S., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Lumbard, K."
+        }
+      ],
+      "url": "https://doi.org/10.1109/MC.2021.3084015",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1109/MC.2021.3084015"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines",
+      "datePublished": 2021,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Gandhi, R."
+        },
+        {
+          "@type": "Person",
+          "name": "Link, G."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1CAIS.04938",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1CAIS.04938"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Third Design Space: A Postcolonial Perspective on Corporate Engagement with Open Source Software Communities",
+      "datePublished": 2020,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Kendall, K., Kendall, J., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L."
+        }
+      ],
+      "url": "https://doi.org/10.1111/isj.12270",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1111/isj.12270"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Tapestries of Innovation: Structures of Contemporary Open Source Project Engagements",
+      "datePublished": 2020,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Levy, M., Kendall, J."
+        },
+        {
+          "@type": "Person",
+          "name": "Kendall, K."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1jais.00615",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1jais.00615"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Rising Tide: Open Source’s Steady Transformation",
+      "datePublished": 2019,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Lipps, J."
+        },
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        }
+      ],
+      "url": "https://doi.org/10.5210/fm.v24i8.9297",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5210/fm.v24i8.9297"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Bots Coordinating Work in Open Source Software Projects",
+      "datePublished": 2019,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hukal, P., Berente, N., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Schecter, A."
+        }
+      ],
+      "url": "https://doi.org/10.1109/MC.2018.2885970",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1109/MC.2018.2885970"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Contemporary Issues of Open Data in Information Systems Research: Considerations and Recommendations",
+      "datePublished": 2017,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Link, G., Lumbard, K., Conboy, K., Feldman, M., Feller, J., George, J., Germonprez, M., Goggins, S., Jeske, D., Kieley, G., Schuster, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Willis, M."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1CAIS.04125",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1CAIS.04125"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "A Theory of Responsive Design: A Field Study of Corporate Engagement with Open Source Communities",
+      "datePublished": 2017,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Kendall, J., Kendall, K., Mathiassen, L., Young, B."
+        },
+        {
+          "@type": "Person",
+          "name": "Warner, B."
+        }
+      ],
+      "url": "https://doi.org/10.1287/isre.2016.0662",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1287/isre.2016.0662"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Potential for Citizen Science in Information Systems Research",
+      "datePublished": 2017,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Levy, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1CAIS.04002",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1CAIS.04002"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Game Theory and Open Source Contribution: Rationale Behind Corporate Participation in Open Source Software Development",
+      "datePublished": 2016,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Kendall, J., Kendall, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1080/10919392.2016.1228360",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1080/10919392.2016.1228360"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "A Coevolutionary View of Information Services Development: Lessons from the U.S. National Oceanic and Atmospheric Administration",
+      "datePublished": 2014,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Montealegre, R., Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1jais.00372",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1jais.00372"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Collectivism",
+      "datePublished": 2014,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Kendall, J., Kendall, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Young, B."
+        }
+      ],
+      "url": "https://doi.org/10.1504/IJISAM.2014.062290",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1504/IJISAM.2014.062290"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Born Free: How the Origins and Advancement of Open Source Software through Sharing Will Uphold the Values of Free Software",
+      "datePublished": 2014,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Kendall, J., Kendall, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Young, B."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Managing Your PhD Student Career: How to Prepare for the Job Market",
+      "datePublished": 2014,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Firth, D., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Thatcher, J."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1CAIS.03405",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1CAIS.03405"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Source Communities of Competitors",
+      "datePublished": 2013,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Allen, J. P., Warner, B., Hill, J."
+        },
+        {
+          "@type": "Person",
+          "name": "McClements, G."
+        }
+      ],
+      "url": "https://doi.org/10.1145/2527191",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1145/2527191"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Perspectives on Emergence in Information Systems Research",
+      "datePublished": 2013,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1CAIS.03320",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1CAIS.03320"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Member Engagement within Digitally Enabled Social Network Communities: New Methodological Considerations",
+      "datePublished": 2013,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        }
+      ],
+      "url": "https://doi.org/10.1111/isj.12021",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1111/isj.12021"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Style Composition in Action Research Publication",
+      "datePublished": 2012,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L., Chiasson, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.2307/41703459",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.2307/41703459"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Pluralism is Not about Me: It is About Us",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1057/jit.2011.23",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1057/jit.2011.23"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Secondary Design: A Case of Behavioral Design Science Research",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Gal, U."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1jais.00278",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1jais.00278"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "A Case Study of Offshore Development across IS Courses: Lessons Learned from a Global Student Project",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Davis, A., Germonprez, M., Petter, S., Drum, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Kolstad, J."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1CAIS.02421",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1CAIS.02421"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Task",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Zigurs, I."
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.infoandorg.2008.03.002",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1016/j.infoandorg.2008.03.002"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Pluralist Action Research: A Review of the Information Systems Literature",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Chiasson, M., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L."
+        }
+      ],
+      "url": "https://doi.org/10.1111/j.1365-2575.2008.00297.x",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1111/j.1365-2575.2008.00297.x"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Explanation in Information Systems",
+      "datePublished": 2008,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Larsen, K."
+        }
+      ],
+      "url": "https://doi.org/10.1111/j.1365-2575.2007.00271.x",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1111/j.1365-2575.2007.00271.x"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "A Theory of Tailorable Technology Design",
+      "datePublished": 2007,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Collopy, F."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1jais.00131",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1jais.00131"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Impacts of Cascading Style Sheets on Mobile Computing",
+      "datePublished": 2006,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Avital, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Srinivasan, N."
+        }
+      ],
+      "url": "https://doi.org/10.4018/jitsr.2006070104",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.4018/jitsr.2006070104"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Grant Proposal Writing in Information Systems",
+      "datePublished": 2005,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lyytinen, K., Prey, J., Ramesh, B., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Ko, D. G."
+        }
+      ],
+      "url": "https://doi.org/10.17705/1CAIS.01622",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17705/1CAIS.01622"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Reflections on Paragrammatic Uses of Organizational Theory: A Response to Yiannis Gabriel",
+      "datePublished": 2004,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Avital, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1177/0170840604043886",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1177/0170840604043886"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Foreword",
+      "datePublished": 2015,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Feller, J."
+        }
+      ],
+      "url": "https://doi.org/10.1007/978-3-319-17266-8",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1007/978-3-319-17266-8"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Organisational Participation in Open Innovation Communities",
+      "datePublished": 2013,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Warner, B."
+        }
+      ],
+      "url": "https://doi.org/10.1007/978-3-642-31650-0_3",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1007/978-3-642-31650-0_3"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Reflecting",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1007/978-1-84996-347-3_8",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1007/978-1-84996-347-3_8"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Value of Web Design Standards for Mobile Computing",
+      "datePublished": 2007,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Avital, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Srinivasan, N."
+        }
+      ],
+      "url": "https://doi.org/10.4018/978-1-59904-561-0.ch013",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.4018/978-1-59904-561-0.ch013"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Design Theorizing: A Kantian Inquiring Approach",
+      "datePublished": 2007,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Ubiquitous Computing in Practice",
+      "datePublished": 2005,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Braley, D., Fano, A., Lassila, O., Light, J."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1007/0-387-28918-6_31",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1007/0-387-28918-6_31"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Role of Conventional Research Methods in Information Systems Action Research",
+      "datePublished": 2004,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L."
+        }
+      ],
+      "url": "https://doi.org/10.1007/1-4020-8095-6_19",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1007/1-4020-8095-6_19"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Understanding Development Patterns in Corporate Open Source Projects",
+      "datePublished": 2026,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lumbard, K., Ahuja, V."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1145/3746467.3801507",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1145/3746467.3801507"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems",
+      "datePublished": 2024,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Lin, Y.-K., Li, Y."
+        },
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Source Community Health: Analytical Metrics and Their Corresponding Narratives",
+      "datePublished": 2021,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Goggins, S., Lumbard, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1109/SoHeal52568.2021.00010",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1109/SoHeal52568.2021.00010"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Welcome? Investigating the Reception of New Contributors to Organizational-Communal Open Source Software Projects",
+      "datePublished": 2020,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lumbard, K., Buhman, A., Wethor, G. E., Hale, M., Goggins, S."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/14/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Towards an Information Archetypes Framework: Exploring the Types of Information Used in Open Source Design Engagements",
+      "datePublished": 2019,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Yi, S., Lumbard, K., Damen, N. B., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Toh, C."
+        }
+      ],
+      "url": "https://doi.org/10.1115/DETC2019-97956",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1115/DETC2019-97956"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Something to Talk About: Exploring Open Source Design Spaces",
+      "datePublished": 2019,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lumbard, K., Ahuja, V. K., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/mwais2019/18/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Source Health and Sustainability Metrics: CHAOSS Update",
+      "datePublished": 2019,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Eight Observations and 24 Research Questions About Open Source Projects: Illuminating New Realities",
+      "datePublished": 2018,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Link, G. J. P., Lumbard, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        }
+      ],
+      "url": "https://doi.org/10.1145/3274326",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1145/3274326"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Data Standards for Open Source Software Risk Management Routines: An Examination of SPDX",
+      "datePublished": 2018,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Gandhi, R. A., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Link, G. J. P."
+        }
+      ],
+      "url": "https://doi.org/10.1145/3148330.3148333",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1145/3148330.3148333"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes",
+      "datePublished": 2018,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lumbard, K., Abid, A., Toh, C."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.24251/HICSS.2018.511",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.24251/HICSS.2018.511"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Source Communities as Liminal Ecosystems",
+      "datePublished": 2017,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lumbard, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/mwais2017/45/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Advancing Open Online Community Science Practice: The Open Community Data Exchange",
+      "datePublished": 2017,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Link, G. J. P., Lumbard, K., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/mwais2017/44/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Advancing the OCDX: Building Social Computing Infrastructure",
+      "datePublished": 2017,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Goggins, S., Germonprez, M., Million, A. J., Halfaker, A."
+        },
+        {
+          "@type": "Person",
+          "name": "Hemphill, L."
+        }
+      ],
+      "url": "https://doi.org/10.1145/3022198.3022661",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1145/3022198.3022661"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Prototyping Practice in Open Source Compliance",
+      "datePublished": 2016,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        }
+      ],
+      "url": "https://ifip82dublin.weebly.com/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Understanding Open Source Communities as Complex Adaptive Systems: A Case of the R Project Community",
+      "datePublished": 2016,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Link, G. J. P."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2016/Open/Presentations/7/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Open Community Data Exchange: Advancing Data Sharing and Discovery in Open Online Community Science",
+      "datePublished": 2016,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Link, G. J. P., Germonprez, M., Goggins, S., Hemsley, J., Rand, B."
+        },
+        {
+          "@type": "Person",
+          "name": "Squire, M."
+        }
+      ],
+      "url": "https://doi.org/10.1145/2962132.2962142",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1145/2962132.2962142"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Is It Egalitarianism or Enterprise Strategy? Exploring a New Method of Innovation in Open Source",
+      "datePublished": 2015,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Levy, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2015/StrategicUse/GeneralPresentations/18/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Design History: Exploring Corporate Communities",
+      "datePublished": 2015,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Levy, M."
+        }
+      ],
+      "url": "https://cora.ucc.ie/bitstream/handle/10468/1822/At%20the%20Vanguard%20of%20Design%20Science.pdf"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Expressing the Domestication of Open Source: How the Ecosystem Metaphor Illuminates and Obscures Understanding of Organizational Participation in Open Source Communities",
+      "datePublished": 2014,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Kendall, K., Kendall, J."
+        },
+        {
+          "@type": "Person",
+          "name": "Young, B."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "On the Rationality of For-Profit Corporations Participating in Open Source Software Communities",
+      "datePublished": 2014,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Kendall, K., Kendall, J."
+        },
+        {
+          "@type": "Person",
+          "name": "Young, B."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Domestication of Open Source",
+      "datePublished": 2013,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Kendall, K., Kendall, J., Young, B., Warner, B."
+        },
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/digit2013/8/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Member Engagement Types in Online Communities",
+      "datePublished": 2012,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Mitchell, A."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/mwais2012/10/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Risk Mitigation in Corporate Participation with Open Source Communities: Protection and Compliance in an Open Source Supply Chain",
+      "datePublished": 2012,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Young, B., Mathiassen, L., Kendall, J. E., Kendall, K. E."
+        },
+        {
+          "@type": "Person",
+          "name": "Warner, B."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/irwitpm2012/3/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Technology Embodiment: The Contribution of Heidegger’s Phenomenology",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Pallud, J."
+        },
+        {
+          "@type": "Person",
+          "name": "Monod, E."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_proceedings_jais_theory_dev_2011/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Towards an Informativity Account of Design Research",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/452/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "A Tutorial on Organizational Participation in Open Communities",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Kendall, J., Kendall, K., Warner, B."
+        },
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/siged2011/41/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Secondary Design: A Case of Community Participation",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2011_submissions/212/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Organizational Participation in Open Communities: Conceptual Framing and Early Findings",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Kendall, J., Kendall, K., Warner, B."
+        },
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2011_submissions/242/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Strategies for Conducting Research and Publishing in Universities with a Balanced Approach to Research and Teaching",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Klein, B., Eierman, M., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Guo, Y."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Secondary Design: Mid-Range Theorizing",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Gal, U."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Tinkering",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2009/488/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Understanding Tailorable Technology Use Through Social Representations Theory",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Gal, U."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2009/143/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Panel - Perspectives on Publishing",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Zigurs, I., Germonprez, M., Guo, Y."
+        },
+        {
+          "@type": "Person",
+          "name": "Petter, S."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/mwais2009/3/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "From Practice to Design and Back: Emergence of an Information Service View",
+      "datePublished": 2008,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/acis2008/50/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Identification-Interaction-Innovation: A Phenomenological Basis for an Information Services View",
+      "datePublished": 2008,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.22459/ISF.12.2010.01",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.22459/ISF.12.2010.01"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Toward an Information Service View of an Enterprise",
+      "datePublished": 2008,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Montealegre, R., Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/icis2008/87/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Information Services View",
+      "datePublished": 2008,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        }
+      ],
+      "url": "https://dl.ifip.org/db/conf/ifip8-2/ifip8-2-2008/GermonprezH08.pdf"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Adoption of Service Oriented Architecture",
+      "datePublished": 2007,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://mbaasais.org/archived_programs/MBAAProgram_2007.pdf"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Service Oriented Architectures for Designing Information Systems",
+      "datePublished": 2006,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Avital, M."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Theorizing About Tailorable Technology",
+      "datePublished": 2006,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Collopy, F."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "An HCI-Oriented Approach to the Introductory IS Programming Course",
+      "datePublished": 2006,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wilson, E. V."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/mwais2006/20/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Theorizing About Tailorable Technology",
+      "datePublished": 2005,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Hovorka, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Collopy, F."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Ubiquitous Computing in Practice",
+      "datePublished": 2005,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Braley, D., Fano, A., Lassila, O., Light, J."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://doi.org/10.1007/0-387-28918-6_31",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1007/0-387-28918-6_31"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Grant Writing in Information Systems",
+      "datePublished": 2005,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lyytinen, K., Ramesh, B., Iacono, S., Prey, J., Ko, D. G."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2005/477/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Designing and Teaching Web Systems Integration",
+      "datePublished": 2005,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2005/479/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Designing Tailorable Technologies",
+      "datePublished": 2004,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Collopy, F."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sighci2004/10/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Actionability of Information Systems Theory",
+      "datePublished": 2004,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Avital, M., Germonprez, M., Baskerville, R., Boland, R., Hart, P."
+        },
+        {
+          "@type": "Person",
+          "name": "Schultze, U."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Interface Design Standards: A Little K Goes a Long Way",
+      "datePublished": 2004,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Srinivasan, N."
+        },
+        {
+          "@type": "Person",
+          "name": "Meyer, E."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "The Role of Conventional Research Methods in Information Systems Action Research",
+      "datePublished": 2004,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L."
+        }
+      ],
+      "url": "https://doi.org/10.1007/1-4020-8095-6_19",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1007/1-4020-8095-6_19"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Ubiquitous Computing: Surfing the Trend in a Balanced Act",
+      "datePublished": 2003,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Avital, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/54/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Examining Group Communicative Processes: Critically Based Tools and Training",
+      "datePublished": 2002,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Hovorka, D."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2002/221/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Refining Channel Expansion: A Critical Approach",
+      "datePublished": 2001,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/amcis2001/409/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Where is the Control? The Distribution of Outcome Control in Open Source Software Consortia",
+      "datePublished": 2026,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Conboy, K., Morgan, L., Link, G."
+        },
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        }
+      ],
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6711038"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "and Goggins",
+      "datePublished": 2025,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M."
+        }
+      ],
+      "url": "https://arxiv.org/abs/2504.16670"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field",
+      "datePublished": 2024,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K."
+        },
+        {
+          "@type": "Person",
+          "name": "Howison, J."
+        }
+      ],
+      "url": "https://arxiv.org/abs/2402.14172"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Technology Embodiment: The Contribution of Heidegger's Phenomenology",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Pallud, J."
+        },
+        {
+          "@type": "Person",
+          "name": "Monod, E."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/466/](https://aisel.aisnet.org/sprouts_all/466/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Towards an Informativity Account of Design Research",
+      "datePublished": 2011,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D. S."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/452/](https://aisel.aisnet.org/sprouts_all/452/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Theorizing On Secondary Design",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Hovorka, D. S."
+        },
+        {
+          "@type": "Person",
+          "name": "Gal, U."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/294/](https://aisel.aisnet.org/sprouts_all/294/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Compositional Styles in Action Research: A Critical Analysis of Leading Information Systems Journals",
+      "datePublished": 2009,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Mathiassen, L., Chiasson, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/289/](https://aisel.aisnet.org/sprouts_all/289/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Explanation in Information Systems",
+      "datePublished": 2008,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Hovorka, D. S., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Larsen, K. R. T."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/50/](https://aisel.aisnet.org/sprouts_all/50/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Ubiquitous Computing: Surfing the Trend in a Balanced Act",
+      "datePublished": 2008,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Avital, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/54/](https://aisel.aisnet.org/sprouts_all/54/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Using Interface Design Standards to Support Pervasive Computing",
+      "datePublished": 2005,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Srinivasan, N."
+        },
+        {
+          "@type": "Person",
+          "name": "Avital, M."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/100/](https://aisel.aisnet.org/sprouts_all/100/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Designing Tailorable Technologies",
+      "datePublished": 2004,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Collopy, F."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/63/](https://aisel.aisnet.org/sprouts_all/63/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Causal Factors for Web Site Complexity",
+      "datePublished": 2003,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Zigurs, I."
+        }
+      ],
+      "url": "https://aisel.aisnet.org/sprouts_all/48/](https://aisel.aisnet.org/sprouts_all/48/)"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Measuring and Communicating Impact by your OSPO",
+      "datePublished": 2024,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Linåker, J."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Open Community Health: Workshop Report",
+      "datePublished": 2019,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Link, G., Lumbard, K., Damen, N., Rosser, H., Germonprez, M. Goggins, S., Wiggins, A., Ahuja, V., Brier, J., Cohoon, H., Halfaker, A., Howison, J., Marti, D., Newman, G., Osterlund, C., Paik, R., Rother, B."
+        },
+        {
+          "@type": "Person",
+          "name": "Schecter, A."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "How to Measure the Impact of Your Open Source Project",
+      "datePublished": 2018,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Ahuja, V., Marti, D., Link, G., Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Goggins, S."
+        }
+      ],
+      "url": null
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "DoSOCS: A System for SPDX 2.0 Document Creation and Storage",
+      "datePublished": 2016,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M., Gurney, T., Korlimarla, U."
+        },
+        {
+          "@type": "Person",
+          "name": "Gandhi, R."
+        }
+      ],
+      "url": null
+    }
+  ]
+}

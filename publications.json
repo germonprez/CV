@@ -1,0 +1,1533 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Matt Germonprez Scholarly Works",
+  "description": "Machine-readable discovery index derived from Matt Germonprez's CV. Cite original works via DOI or canonical source.",
+  "source": "https://github.com/germonprez/CV",
+  "author": {
+    "name": "Matt Germonprez",
+    "affiliation": "University of Nebraska Omaha",
+    "title": "Mutual of Omaha Distinguished Chair of Information Science & Technology; Professor of Information Systems and Quantitative Analysis"
+  },
+  "research_summary": "Qualitative field research on governance, sustainability, and sociotechnical dynamics of open source software ecosystems, connecting information systems theory with open collaboration practice.",
+  "discovery_topics": [
+    "open source software",
+    "open source ecosystems",
+    "open source governance",
+    "open source sustainability",
+    "community health",
+    "corporate engagement with open source",
+    "sociotechnical systems",
+    "information systems",
+    "CHAOSS",
+    "SPDX"
+  ],
+  "citation_guidance": "Use this index for discovery. When referencing a work, cite the original publication using its DOI or canonical publisher/repository URL.",
+  "publications": [
+    {
+      "type": "journal_article",
+      "year": 2026,
+      "title": "Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events",
+      "authors_display": "Foster, D. and Germonprez, M.",
+      "authors": [
+        "Foster, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Information Systems Journal, https://onlinelibrary.wiley.com/doi/10.1111/isj.70060",
+      "doi": "10.1111/isj.70060",
+      "canonical_url": "https://doi.org/10.1111/isj.70060",
+      "source_citation": "Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, Information Systems Journal, https://onlinelibrary.wiley.com/doi/10.1111/isj.70060"
+    },
+    {
+      "type": "journal_article",
+      "year": 2026,
+      "title": "Value Capture Dynamics in Open Source",
+      "authors_display": "Foster, D. and Germonprez, M.",
+      "authors": [
+        "Foster, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "IEEE Computer, 59(9), 110-114, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q",
+      "doi": null,
+      "canonical_url": "https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q",
+      "source_citation": "Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, IEEE Computer, 59(9), 110-114, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q"
+    },
+    {
+      "type": "journal_article",
+      "year": 2026,
+      "title": "Open Source Community Roles and Community Continuity",
+      "authors_display": "Germonprez, M.",
+      "authors": [
+        "Germonprez, M."
+      ],
+      "publication_details": "IEEE Computer, 59(2), 137-141, https://doi.org/10.1109/MC.2025.3636342",
+      "doi": "10.1109/MC.2025.3636342",
+      "canonical_url": "https://doi.org/10.1109/MC.2025.3636342",
+      "source_citation": "Germonprez, M. (2026). Open Source Community Roles and Community Continuity, IEEE Computer, 59(2), 137-141, https://doi.org/10.1109/MC.2025.3636342"
+    },
+    {
+      "type": "journal_article",
+      "year": 2025,
+      "title": "Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field",
+      "authors_display": "Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du, C.",
+      "authors": [
+        "Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K.",
+        "Du, C."
+      ],
+      "publication_details": "First Monday, 30(2), https://doi.org/10.5210/fm.v30i2.13629",
+      "doi": "10.5210/fm.v30i2.13629",
+      "canonical_url": "https://doi.org/10.5210/fm.v30i2.13629",
+      "source_citation": "Goggins, S., Germonprez, M., Lumbard, K., Howison, J., Ram, K., and Du, C. (2025). Open Source Software Field Research: Spanning Social and Practice Networks for Re-entering the Field, First Monday, 30(2), https://doi.org/10.5210/fm.v30i2.13629"
+    },
+    {
+      "type": "journal_article",
+      "year": 2024,
+      "title": "An Empirical Investigation of Social Comparison and Open Source Community Health",
+      "authors_display": "Lumbard, K., Germonprez, M., and Goggins, S.",
+      "authors": [
+        "Lumbard, K., Germonprez, M.",
+        "Goggins, S."
+      ],
+      "publication_details": "Information Systems Journal, 34(2), 499-532, https://doi.org/10.1111/isj.12485",
+      "doi": "10.1111/isj.12485",
+      "canonical_url": "https://doi.org/10.1111/isj.12485",
+      "source_citation": "Lumbard, K., Germonprez, M., and Goggins, S. (2024). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532, https://doi.org/10.1111/isj.12485"
+    },
+    {
+      "type": "journal_article",
+      "year": 2021,
+      "title": "Making Open Source Project Health Transparent",
+      "authors_display": "Goggins, S., Germonprez, M., and Lumbard, K.",
+      "authors": [
+        "Goggins, S., Germonprez, M.",
+        "Lumbard, K."
+      ],
+      "publication_details": "IEEE Computer, 54(8), 104-111, https://doi.org/10.1109/MC.2021.3084015",
+      "doi": "10.1109/MC.2021.3084015",
+      "canonical_url": "https://doi.org/10.1109/MC.2021.3084015",
+      "source_citation": "Goggins, S., Germonprez, M., and Lumbard, K. (2021). Making Open Source Project Health Transparent, IEEE Computer, 54(8), 104-111, https://doi.org/10.1109/MC.2021.3084015"
+    },
+    {
+      "type": "journal_article",
+      "year": 2021,
+      "title": "The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines",
+      "authors_display": "Germonprez, M., Gandhi, R., and Link, G.",
+      "authors": [
+        "Germonprez, M., Gandhi, R.",
+        "Link, G."
+      ],
+      "publication_details": "Communications of the Association for Information Systems, 49, 729-747, https://doi.org/10.17705/1CAIS.04938",
+      "doi": "10.17705/1CAIS.04938",
+      "canonical_url": "https://doi.org/10.17705/1CAIS.04938",
+      "source_citation": "Germonprez, M., Gandhi, R., and Link, G. (2021). The Routinization of Open Source Project Engagement: The Case of Open Source Risk Management Routines, Communications of the Association for Information Systems, 49, 729-747, https://doi.org/10.17705/1CAIS.04938"
+    },
+    {
+      "type": "journal_article",
+      "year": 2020,
+      "title": "The Third Design Space: A Postcolonial Perspective on Corporate Engagement with Open Source Software Communities",
+      "authors_display": "Kendall, K., Kendall, J., Germonprez, M., and Mathiassen, L.",
+      "authors": [
+        "Kendall, K., Kendall, J., Germonprez, M.",
+        "Mathiassen, L."
+      ],
+      "publication_details": "Information Systems Journal, 30(2), 369-402, https://doi.org/10.1111/isj.12270",
+      "doi": "10.1111/isj.12270",
+      "canonical_url": "https://doi.org/10.1111/isj.12270",
+      "source_citation": "Kendall, K., Kendall, J., Germonprez, M., and Mathiassen, L. (2020). The Third Design Space: A Postcolonial Perspective on Corporate Engagement with Open Source Software Communities, Information Systems Journal, 30(2), 369-402, https://doi.org/10.1111/isj.12270"
+    },
+    {
+      "type": "journal_article",
+      "year": 2020,
+      "title": "Tapestries of Innovation: Structures of Contemporary Open Source Project Engagements",
+      "authors_display": "Germonprez, M., Levy, M., Kendall, J., and Kendall, K.",
+      "authors": [
+        "Germonprez, M., Levy, M., Kendall, J.",
+        "Kendall, K."
+      ],
+      "publication_details": "Journal of the Association for Information Systems, 21(3), 637-663, https://doi.org/10.17705/1jais.00615",
+      "doi": "10.17705/1jais.00615",
+      "canonical_url": "https://doi.org/10.17705/1jais.00615",
+      "source_citation": "Germonprez, M., Levy, M., Kendall, J., and Kendall, K. (2020). Tapestries of Innovation: Structures of Contemporary Open Source Project Engagements, Journal of the Association for Information Systems, 21(3), 637-663, https://doi.org/10.17705/1jais.00615"
+    },
+    {
+      "type": "journal_article",
+      "year": 2019,
+      "title": "The Rising Tide: Open Source’s Steady Transformation",
+      "authors_display": "Germonprez, M., Lipps, J., and Goggins, S.",
+      "authors": [
+        "Germonprez, M., Lipps, J.",
+        "Goggins, S."
+      ],
+      "publication_details": "First Monday, 24(8), https://doi.org/10.5210/fm.v24i8.9297",
+      "doi": "10.5210/fm.v24i8.9297",
+      "canonical_url": "https://doi.org/10.5210/fm.v24i8.9297",
+      "source_citation": "Germonprez, M., Lipps, J., and Goggins, S. (2019). The Rising Tide: Open Source’s Steady Transformation, First Monday, 24(8), https://doi.org/10.5210/fm.v24i8.9297"
+    },
+    {
+      "type": "journal_article",
+      "year": 2019,
+      "title": "Bots Coordinating Work in Open Source Software Projects",
+      "authors_display": "Hukal, P., Berente, N., Germonprez, M., and Schecter, A.",
+      "authors": [
+        "Hukal, P., Berente, N., Germonprez, M.",
+        "Schecter, A."
+      ],
+      "publication_details": "IEEE Computer, 52(9), 52-60, https://doi.org/10.1109/MC.2018.2885970",
+      "doi": "10.1109/MC.2018.2885970",
+      "canonical_url": "https://doi.org/10.1109/MC.2018.2885970",
+      "source_citation": "Hukal, P., Berente, N., Germonprez, M., and Schecter, A. (2019). Bots Coordinating Work in Open Source Software Projects, IEEE Computer, 52(9), 52-60, https://doi.org/10.1109/MC.2018.2885970"
+    },
+    {
+      "type": "journal_article",
+      "year": 2017,
+      "title": "Contemporary Issues of Open Data in Information Systems Research: Considerations and Recommendations",
+      "authors_display": "Link, G., Lumbard, K., Conboy, K., Feldman, M., Feller, J., George, J., Germonprez, M., Goggins, S., Jeske, D., Kieley, G., Schuster, K., and Willis, M.",
+      "authors": [
+        "Link, G., Lumbard, K., Conboy, K., Feldman, M., Feller, J., George, J., Germonprez, M., Goggins, S., Jeske, D., Kieley, G., Schuster, K.",
+        "Willis, M."
+      ],
+      "publication_details": "Communications of the Association for Information Systems, 41, 587-610, https://doi.org/10.17705/1CAIS.04125",
+      "doi": "10.17705/1CAIS.04125",
+      "canonical_url": "https://doi.org/10.17705/1CAIS.04125",
+      "source_citation": "Link, G., Lumbard, K., Conboy, K., Feldman, M., Feller, J., George, J., Germonprez, M., Goggins, S., Jeske, D., Kieley, G., Schuster, K., and Willis, M. (2017). Contemporary Issues of Open Data in Information Systems Research: Considerations and Recommendations, Communications of the Association for Information Systems, 41, 587-610, https://doi.org/10.17705/1CAIS.04125"
+    },
+    {
+      "type": "journal_article",
+      "year": 2017,
+      "title": "A Theory of Responsive Design: A Field Study of Corporate Engagement with Open Source Communities",
+      "authors_display": "Germonprez, M., Kendall, J., Kendall, K., Mathiassen, L., Young, B., and Warner, B.",
+      "authors": [
+        "Germonprez, M., Kendall, J., Kendall, K., Mathiassen, L., Young, B.",
+        "Warner, B."
+      ],
+      "publication_details": "Information Systems Research, 28(1), 64-83, https://doi.org/10.1287/isre.2016.0662",
+      "doi": "10.1287/isre.2016.0662",
+      "canonical_url": "https://doi.org/10.1287/isre.2016.0662",
+      "source_citation": "Germonprez, M., Kendall, J., Kendall, K., Mathiassen, L., Young, B., and Warner, B. (2017). A Theory of Responsive Design: A Field Study of Corporate Engagement with Open Source Communities, Information Systems Research, 28(1), 64-83, https://doi.org/10.1287/isre.2016.0662"
+    },
+    {
+      "type": "journal_article",
+      "year": 2017,
+      "title": "The Potential for Citizen Science in Information Systems Research",
+      "authors_display": "Levy, M. and Germonprez, M.",
+      "authors": [
+        "Levy, M.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Communications of the Association for Information Systems, 40, 22-39, https://doi.org/10.17705/1CAIS.04002",
+      "doi": "10.17705/1CAIS.04002",
+      "canonical_url": "https://doi.org/10.17705/1CAIS.04002",
+      "source_citation": "Levy, M. and Germonprez, M. (2017). The Potential for Citizen Science in Information Systems Research, Communications of the Association for Information Systems, 40, 22-39, https://doi.org/10.17705/1CAIS.04002"
+    },
+    {
+      "type": "journal_article",
+      "year": 2016,
+      "title": "Game Theory and Open Source Contribution: Rationale Behind Corporate Participation in Open Source Software Development",
+      "authors_display": "Kendall, J., Kendall, K., and Germonprez, M.",
+      "authors": [
+        "Kendall, J., Kendall, K.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Journal of Organizational Computing and Electronic Commerce, 26(4), 323-343, https://doi.org/10.1080/10919392.2016.1228360",
+      "doi": "10.1080/10919392.2016.1228360",
+      "canonical_url": "https://doi.org/10.1080/10919392.2016.1228360",
+      "source_citation": "Kendall, J., Kendall, K., and Germonprez, M. (2016). Game Theory and Open Source Contribution: Rationale Behind Corporate Participation in Open Source Software Development, Journal of Organizational Computing and Electronic Commerce, 26(4), 323-343, https://doi.org/10.1080/10919392.2016.1228360"
+    },
+    {
+      "type": "journal_article",
+      "year": 2014,
+      "title": "A Coevolutionary View of Information Services Development: Lessons from the U.S. National Oceanic and Atmospheric Administration",
+      "authors_display": "Montealegre, R., Hovorka, D., and Germonprez, M.",
+      "authors": [
+        "Montealegre, R., Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Journal of the Association for Information Systems, 15(9), 577-613, https://doi.org/10.17705/1jais.00372",
+      "doi": "10.17705/1jais.00372",
+      "canonical_url": "https://doi.org/10.17705/1jais.00372",
+      "source_citation": "Montealegre, R., Hovorka, D., and Germonprez, M. (2014). A Coevolutionary View of Information Services Development: Lessons from the U.S. National Oceanic and Atmospheric Administration, Journal of the Association for Information Systems, 15(9), 577-613, https://doi.org/10.17705/1jais.00372"
+    },
+    {
+      "type": "journal_article",
+      "year": 2014,
+      "title": "Collectivism",
+      "authors_display": "Germonprez, M., Kendall, J., Kendall, K., and Young, B.",
+      "authors": [
+        "Germonprez, M., Kendall, J., Kendall, K.",
+        "Young, B."
+      ],
+      "publication_details": "Creativity, Competition, and Control in Open Source Software Development: Reflections on the Emergent Governance of the SPDX Working Group, International Journal of Information Systems and Management, 1(1/2), 125-145, https://doi.org/10.1504/IJISAM.2014.062290",
+      "doi": "10.1504/IJISAM.2014.062290",
+      "canonical_url": "https://doi.org/10.1504/IJISAM.2014.062290",
+      "source_citation": "Germonprez, M., Kendall, J., Kendall, K., and Young, B. (2014). Collectivism, Creativity, Competition, and Control in Open Source Software Development: Reflections on the Emergent Governance of the SPDX Working Group, International Journal of Information Systems and Management, 1(1/2), 125-145, https://doi.org/10.1504/IJISAM.2014.062290"
+    },
+    {
+      "type": "journal_article",
+      "year": 2014,
+      "title": "Born Free: How the Origins and Advancement of Open Source Software through Sharing Will Uphold the Values of Free Software",
+      "authors_display": "Germonprez, M., Kendall, J., Kendall, K., and Young, B.",
+      "authors": [
+        "Germonprez, M., Kendall, J., Kendall, K.",
+        "Young, B."
+      ],
+      "publication_details": "Decision Line, 45(1), 16-19.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Kendall, J., Kendall, K., and Young, B. (2014). Born Free: How the Origins and Advancement of Open Source Software through Sharing Will Uphold the Values of Free Software, Decision Line, 45(1), 16-19."
+    },
+    {
+      "type": "journal_article",
+      "year": 2014,
+      "title": "Managing Your PhD Student Career: How to Prepare for the Job Market",
+      "authors_display": "Firth, D., Germonprez, M., and Thatcher, J.",
+      "authors": [
+        "Firth, D., Germonprez, M.",
+        "Thatcher, J."
+      ],
+      "publication_details": "Communications of the Association for Information Systems, 34, 87-104, https://doi.org/10.17705/1CAIS.03405",
+      "doi": "10.17705/1CAIS.03405",
+      "canonical_url": "https://doi.org/10.17705/1CAIS.03405",
+      "source_citation": "Firth, D., Germonprez, M., and Thatcher, J. (2014). Managing Your PhD Student Career: How to Prepare for the Job Market, Communications of the Association for Information Systems, 34, 87-104, https://doi.org/10.17705/1CAIS.03405"
+    },
+    {
+      "type": "journal_article",
+      "year": 2013,
+      "title": "Open Source Communities of Competitors",
+      "authors_display": "Germonprez, M., Allen, J. P., Warner, B., Hill, J., and McClements, G.",
+      "authors": [
+        "Germonprez, M., Allen, J. P., Warner, B., Hill, J.",
+        "McClements, G."
+      ],
+      "publication_details": "ACM Interactions, 20(6), 54-59, https://doi.org/10.1145/2527191",
+      "doi": "10.1145/2527191",
+      "canonical_url": "https://doi.org/10.1145/2527191",
+      "source_citation": "Germonprez, M., Allen, J. P., Warner, B., Hill, J., and McClements, G. (2013). Open Source Communities of Competitors, ACM Interactions, 20(6), 54-59, https://doi.org/10.1145/2527191"
+    },
+    {
+      "type": "journal_article",
+      "year": 2013,
+      "title": "Perspectives on Emergence in Information Systems Research",
+      "authors_display": "Hovorka, D. and Germonprez, M.",
+      "authors": [
+        "Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Communications of the Association for Information Systems, 33, 353-364, https://doi.org/10.17705/1CAIS.03320",
+      "doi": "10.17705/1CAIS.03320",
+      "canonical_url": "https://doi.org/10.17705/1CAIS.03320",
+      "source_citation": "Hovorka, D. and Germonprez, M. (2013). Perspectives on Emergence in Information Systems Research, Communications of the Association for Information Systems, 33, 353-364, https://doi.org/10.17705/1CAIS.03320"
+    },
+    {
+      "type": "journal_article",
+      "year": 2013,
+      "title": "Member Engagement within Digitally Enabled Social Network Communities: New Methodological Considerations",
+      "authors_display": "Germonprez, M. and Hovorka, D.",
+      "authors": [
+        "Germonprez, M.",
+        "Hovorka, D."
+      ],
+      "publication_details": "Information Systems Journal, 23(6), 525-549, https://doi.org/10.1111/isj.12021",
+      "doi": "10.1111/isj.12021",
+      "canonical_url": "https://doi.org/10.1111/isj.12021",
+      "source_citation": "Germonprez, M. and Hovorka, D. (2013). Member Engagement within Digitally Enabled Social Network Communities: New Methodological Considerations, Information Systems Journal, 23(6), 525-549, https://doi.org/10.1111/isj.12021"
+    },
+    {
+      "type": "journal_article",
+      "year": 2012,
+      "title": "Style Composition in Action Research Publication",
+      "authors_display": "Mathiassen, L., Chiasson, M., and Germonprez, M.",
+      "authors": [
+        "Mathiassen, L., Chiasson, M.",
+        "Germonprez, M."
+      ],
+      "publication_details": "MIS Quarterly, 36(2), 347-363, https://doi.org/10.2307/41703459",
+      "doi": "10.2307/41703459",
+      "canonical_url": "https://doi.org/10.2307/41703459",
+      "source_citation": "Mathiassen, L., Chiasson, M., and Germonprez, M. (2012). Style Composition in Action Research Publication, MIS Quarterly, 36(2), 347-363, https://doi.org/10.2307/41703459"
+    },
+    {
+      "type": "journal_article",
+      "year": 2011,
+      "title": "Pluralism is Not about Me: It is About Us",
+      "authors_display": "Germonprez, M.",
+      "authors": [
+        "Germonprez, M."
+      ],
+      "publication_details": "Journal of Information Technology, 26, 304-305, https://doi.org/10.1057/jit.2011.23",
+      "doi": "10.1057/jit.2011.23",
+      "canonical_url": "https://doi.org/10.1057/jit.2011.23",
+      "source_citation": "Germonprez, M. (2011). Pluralism is Not about Me: It is About Us, Journal of Information Technology, 26, 304-305, https://doi.org/10.1057/jit.2011.23"
+    },
+    {
+      "type": "journal_article",
+      "year": 2011,
+      "title": "Secondary Design: A Case of Behavioral Design Science Research",
+      "authors_display": "Germonprez, M., Hovorka, D., and Gal, U.",
+      "authors": [
+        "Germonprez, M., Hovorka, D.",
+        "Gal, U."
+      ],
+      "publication_details": "Journal of the Association for Information Systems, 12(10), 662-683, https://doi.org/10.17705/1jais.00278",
+      "doi": "10.17705/1jais.00278",
+      "canonical_url": "https://doi.org/10.17705/1jais.00278",
+      "source_citation": "Germonprez, M., Hovorka, D., and Gal, U. (2011). Secondary Design: A Case of Behavioral Design Science Research, Journal of the Association for Information Systems, 12(10), 662-683, https://doi.org/10.17705/1jais.00278"
+    },
+    {
+      "type": "journal_article",
+      "year": 2009,
+      "title": "A Case Study of Offshore Development across IS Courses: Lessons Learned from a Global Student Project",
+      "authors_display": "Davis, A., Germonprez, M., Petter, S., Drum, D., and Kolstad, J.",
+      "authors": [
+        "Davis, A., Germonprez, M., Petter, S., Drum, D.",
+        "Kolstad, J."
+      ],
+      "publication_details": "Communications of the Association for Information Systems, 24, 351-372, https://doi.org/10.17705/1CAIS.02421",
+      "doi": "10.17705/1CAIS.02421",
+      "canonical_url": "https://doi.org/10.17705/1CAIS.02421",
+      "source_citation": "Davis, A., Germonprez, M., Petter, S., Drum, D., and Kolstad, J. (2009). A Case Study of Offshore Development across IS Courses: Lessons Learned from a Global Student Project, Communications of the Association for Information Systems, 24, 351-372, https://doi.org/10.17705/1CAIS.02421"
+    },
+    {
+      "type": "journal_article",
+      "year": 2009,
+      "title": "Task",
+      "authors_display": "Germonprez, M. and Zigurs, I.",
+      "authors": [
+        "Germonprez, M.",
+        "Zigurs, I."
+      ],
+      "publication_details": "Technology, and Tailoring in Communicative Action: An In-Depth Analysis of Group Communication, Information & Organization, 19(1), 22-46, https://doi.org/10.1016/j.infoandorg.2008.03.002",
+      "doi": "10.1016/j.infoandorg.2008.03.002",
+      "canonical_url": "https://doi.org/10.1016/j.infoandorg.2008.03.002",
+      "source_citation": "Germonprez, M. and Zigurs, I. (2009). Task, Technology, and Tailoring in Communicative Action: An In-Depth Analysis of Group Communication, Information & Organization, 19(1), 22-46, https://doi.org/10.1016/j.infoandorg.2008.03.002"
+    },
+    {
+      "type": "journal_article",
+      "year": 2009,
+      "title": "Pluralist Action Research: A Review of the Information Systems Literature",
+      "authors_display": "Chiasson, M., Germonprez, M., and Mathiassen, L.",
+      "authors": [
+        "Chiasson, M., Germonprez, M.",
+        "Mathiassen, L."
+      ],
+      "publication_details": "Information Systems Journal, 19(1), 31-54, https://doi.org/10.1111/j.1365-2575.2008.00297.x",
+      "doi": "10.1111/j.1365-2575.2008.00297.x",
+      "canonical_url": "https://doi.org/10.1111/j.1365-2575.2008.00297.x",
+      "source_citation": "Chiasson, M., Germonprez, M., and Mathiassen, L. (2009). Pluralist Action Research: A Review of the Information Systems Literature, Information Systems Journal, 19(1), 31-54, https://doi.org/10.1111/j.1365-2575.2008.00297.x"
+    },
+    {
+      "type": "journal_article",
+      "year": 2008,
+      "title": "Explanation in Information Systems",
+      "authors_display": "Hovorka, D., Germonprez, M., and Larsen, K.",
+      "authors": [
+        "Hovorka, D., Germonprez, M.",
+        "Larsen, K."
+      ],
+      "publication_details": "Information Systems Journal, 18(1), 23-43, https://doi.org/10.1111/j.1365-2575.2007.00271.x",
+      "doi": "10.1111/j.1365-2575.2007.00271.x",
+      "canonical_url": "https://doi.org/10.1111/j.1365-2575.2007.00271.x",
+      "source_citation": "Hovorka, D., Germonprez, M., and Larsen, K. (2008). Explanation in Information Systems, Information Systems Journal, 18(1), 23-43, https://doi.org/10.1111/j.1365-2575.2007.00271.x"
+    },
+    {
+      "type": "journal_article",
+      "year": 2007,
+      "title": "A Theory of Tailorable Technology Design",
+      "authors_display": "Germonprez, M., Hovorka, D., and Collopy, F.",
+      "authors": [
+        "Germonprez, M., Hovorka, D.",
+        "Collopy, F."
+      ],
+      "publication_details": "Journal of the Association for Information Systems, 8(6), 315-367, https://doi.org/10.17705/1jais.00131",
+      "doi": "10.17705/1jais.00131",
+      "canonical_url": "https://doi.org/10.17705/1jais.00131",
+      "source_citation": "Germonprez, M., Hovorka, D., and Collopy, F. (2007). A Theory of Tailorable Technology Design, Journal of the Association for Information Systems, 8(6), 315-367, https://doi.org/10.17705/1jais.00131"
+    },
+    {
+      "type": "journal_article",
+      "year": 2006,
+      "title": "Impacts of Cascading Style Sheets on Mobile Computing",
+      "authors_display": "Germonprez, M., Avital, M., and Srinivasan, N.",
+      "authors": [
+        "Germonprez, M., Avital, M.",
+        "Srinivasan, N."
+      ],
+      "publication_details": "International Journal of IT Standards & Standardisation Research, 4(2), 55-69, https://doi.org/10.4018/jitsr.2006070104",
+      "doi": "10.4018/jitsr.2006070104",
+      "canonical_url": "https://doi.org/10.4018/jitsr.2006070104",
+      "source_citation": "Germonprez, M., Avital, M., and Srinivasan, N. (2006). Impacts of Cascading Style Sheets on Mobile Computing, International Journal of IT Standards & Standardisation Research, 4(2), 55-69, https://doi.org/10.4018/jitsr.2006070104"
+    },
+    {
+      "type": "journal_article",
+      "year": 2005,
+      "title": "Grant Proposal Writing in Information Systems",
+      "authors_display": "Lyytinen, K., Prey, J., Ramesh, B., Germonprez, M., and Ko, D. G.",
+      "authors": [
+        "Lyytinen, K., Prey, J., Ramesh, B., Germonprez, M.",
+        "Ko, D. G."
+      ],
+      "publication_details": "Communications of the Association for Information Systems, 16, 457-462, https://doi.org/10.17705/1CAIS.01622",
+      "doi": "10.17705/1CAIS.01622",
+      "canonical_url": "https://doi.org/10.17705/1CAIS.01622",
+      "source_citation": "Lyytinen, K., Prey, J., Ramesh, B., Germonprez, M., and Ko, D. G. (2005). Grant Proposal Writing in Information Systems, Communications of the Association for Information Systems, 16, 457-462, https://doi.org/10.17705/1CAIS.01622"
+    },
+    {
+      "type": "journal_article",
+      "year": 2004,
+      "title": "Reflections on Paragrammatic Uses of Organizational Theory: A Response to Yiannis Gabriel",
+      "authors_display": "Avital, M. and Germonprez, M.",
+      "authors": [
+        "Avital, M.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Organization Studies, 25(6), 1045-1048, https://doi.org/10.1177/0170840604043886",
+      "doi": "10.1177/0170840604043886",
+      "canonical_url": "https://doi.org/10.1177/0170840604043886",
+      "source_citation": "Avital, M. and Germonprez, M. (2004). Reflections on Paragrammatic Uses of Organizational Theory: A Response to Yiannis Gabriel, Organization Studies, 25(6), 1045-1048, https://doi.org/10.1177/0170840604043886"
+    },
+    {
+      "type": "book_chapter_or_foreword",
+      "year": 2015,
+      "title": "Foreword",
+      "authors_display": "Germonprez, M. and Feller, J.",
+      "authors": [
+        "Germonprez, M.",
+        "Feller, J."
+      ],
+      "publication_details": "in Software Sourcing in the Age of Open: Leveraging the Unknown Workforce, Ågerfalk, P. J., Fitzgerald, B., and Stol, K.-J. (eds.), Springer, Cham, Switzerland, https://doi.org/10.1007/978-3-319-17266-8",
+      "doi": "10.1007/978-3-319-17266-8",
+      "canonical_url": "https://doi.org/10.1007/978-3-319-17266-8",
+      "source_citation": "Germonprez, M. and Feller, J. (2015). Foreword, in Software Sourcing in the Age of Open: Leveraging the Unknown Workforce, Ågerfalk, P. J., Fitzgerald, B., and Stol, K.-J. (eds.), Springer, Cham, Switzerland, https://doi.org/10.1007/978-3-319-17266-8"
+    },
+    {
+      "type": "book_chapter_or_foreword",
+      "year": 2013,
+      "title": "Organisational Participation in Open Innovation Communities",
+      "authors_display": "Germonprez, M. and Warner, B.",
+      "authors": [
+        "Germonprez, M.",
+        "Warner, B."
+      ],
+      "publication_details": "in Managing Open Innovation Technologies, Lundström, E., Wiberg, M., Hrastinski, S., Edenius, M., and Ågerfalk, P. J. (eds.), Springer-Verlag, Berlin Heidelberg, pp. 35-52, https://doi.org/10.1007/978-3-642-31650-03",
+      "doi": "10.1007/978-3-642-31650-0_3",
+      "canonical_url": "https://doi.org/10.1007/978-3-642-31650-0_3",
+      "source_citation": "Germonprez, M. and Warner, B. (2013). Organisational Participation in Open Innovation Communities, in Managing Open Innovation Technologies, Lundström, E., Wiberg, M., Hrastinski, S., Edenius, M., and Ågerfalk, P. J. (eds.), Springer-Verlag, Berlin Heidelberg, pp. 35-52, https://doi.org/10.1007/978-3-642-31650-03"
+    },
+    {
+      "type": "book_chapter_or_foreword",
+      "year": 2011,
+      "title": "Reflecting",
+      "authors_display": "Hovorka, D. and Germonprez, M.",
+      "authors": [
+        "Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Tinkering, and Tailoring: Implications for Theories of Information System Design, in Reframing Humans in Information Systems Development, Isomäki, H. and Pekkola, S. (eds.), Springer, London, UK, pp. 135-149, https://doi.org/10.1007/978-1-84996-347-38",
+      "doi": "10.1007/978-1-84996-347-3_8",
+      "canonical_url": "https://doi.org/10.1007/978-1-84996-347-3_8",
+      "source_citation": "Hovorka, D. and Germonprez, M. (2011). Reflecting, Tinkering, and Tailoring: Implications for Theories of Information System Design, in Reframing Humans in Information Systems Development, Isomäki, H. and Pekkola, S. (eds.), Springer, London, UK, pp. 135-149, https://doi.org/10.1007/978-1-84996-347-38"
+    },
+    {
+      "type": "book_chapter_or_foreword",
+      "year": 2007,
+      "title": "The Value of Web Design Standards for Mobile Computing",
+      "authors_display": "Germonprez, M., Avital, M., and Srinivasan, N.",
+      "authors": [
+        "Germonprez, M., Avital, M.",
+        "Srinivasan, N."
+      ],
+      "publication_details": "in Standardization Research in Information Technology, Jakobs, K. (ed.), IGI Global, Hershey, PA, pp. 214-226, https://doi.org/10.4018/978-1-59904-561-0.ch013",
+      "doi": "10.4018/978-1-59904-561-0.ch013",
+      "canonical_url": "https://doi.org/10.4018/978-1-59904-561-0.ch013",
+      "source_citation": "Germonprez, M., Avital, M., and Srinivasan, N. (2007). The Value of Web Design Standards for Mobile Computing, in Standardization Research in Information Technology, Jakobs, K. (ed.), IGI Global, Hershey, PA, pp. 214-226, https://doi.org/10.4018/978-1-59904-561-0.ch013"
+    },
+    {
+      "type": "book_chapter_or_foreword",
+      "year": 2007,
+      "title": "Design Theorizing: A Kantian Inquiring Approach",
+      "authors_display": "Hovorka, D. and Germonprez, M.",
+      "authors": [
+        "Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "in Perspectives in Information Management, de Vries, E. J. and Huizing, A. (eds.), Elsevier, Amsterdam, The Netherlands.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Hovorka, D. and Germonprez, M. (2007). Design Theorizing: A Kantian Inquiring Approach, in Perspectives in Information Management, de Vries, E. J. and Huizing, A. (eds.), Elsevier, Amsterdam, The Netherlands."
+    },
+    {
+      "type": "book_chapter_or_foreword",
+      "year": 2005,
+      "title": "Ubiquitous Computing in Practice",
+      "authors_display": "Braley, D., Fano, A., Lassila, O., Light, J., and Germonprez, M.",
+      "authors": [
+        "Braley, D., Fano, A., Lassila, O., Light, J.",
+        "Germonprez, M."
+      ],
+      "publication_details": "in Designing Ubiquitous Information Environments: Socio-Technical Issues and Challenges, Lyytinen, K., Yoo, Y., and DeGross, J. I. (eds.), Springer, New York, NY, pp. 365-367, https://doi.org/10.1007/0-387-28918-631",
+      "doi": "10.1007/0-387-28918-6_31",
+      "canonical_url": "https://doi.org/10.1007/0-387-28918-6_31",
+      "source_citation": "Braley, D., Fano, A., Lassila, O., Light, J., and Germonprez, M. (2005). Ubiquitous Computing in Practice, in Designing Ubiquitous Information Environments: Socio-Technical Issues and Challenges, Lyytinen, K., Yoo, Y., and DeGross, J. I. (eds.), Springer, New York, NY, pp. 365-367, https://doi.org/10.1007/0-387-28918-631"
+    },
+    {
+      "type": "book_chapter_or_foreword",
+      "year": 2004,
+      "title": "The Role of Conventional Research Methods in Information Systems Action Research",
+      "authors_display": "Germonprez, M. and Mathiassen, L.",
+      "authors": [
+        "Germonprez, M.",
+        "Mathiassen, L."
+      ],
+      "publication_details": "in Information Systems Research: Relevant Theory and Informed Practice, Kaplan, B., Truex, D. P., Wastell, D., Wood-Harper, A. T., and DeGross, J. I. (eds.), Kluwer Academic Publishers, Boston, MA, pp. 335-349, https://doi.org/10.1007/1-4020-8095-619",
+      "doi": "10.1007/1-4020-8095-6_19",
+      "canonical_url": "https://doi.org/10.1007/1-4020-8095-6_19",
+      "source_citation": "Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, in Information Systems Research: Relevant Theory and Informed Practice, Kaplan, B., Truex, D. P., Wastell, D., Wood-Harper, A. T., and DeGross, J. I. (eds.), Kluwer Academic Publishers, Boston, MA, pp. 335-349, https://doi.org/10.1007/1-4020-8095-619"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2026,
+      "title": "Understanding Development Patterns in Corporate Open Source Projects",
+      "authors_display": "Lumbard, K., Ahuja, V., and Germonprez, M.",
+      "authors": [
+        "Lumbard, K., Ahuja, V.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of the 2026 ACM Southeast Conference (ACMSE 2026), 10-17, Troy, AL, https://doi.org/10.1145/3746467.3801507",
+      "doi": "10.1145/3746467.3801507",
+      "canonical_url": "https://doi.org/10.1145/3746467.3801507",
+      "source_citation": "Lumbard, K., Ahuja, V., and Germonprez, M. (2026). Understanding Development Patterns in Corporate Open Source Projects, Proceedings of the 2026 ACM Southeast Conference (ACMSE 2026), 10-17, Troy, AL, https://doi.org/10.1145/3746467.3801507"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2024,
+      "title": "Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems",
+      "authors_display": "Germonprez, M., Lin, Y.-K., Li, Y., and Goggins, S.",
+      "authors": [
+        "Germonprez, M., Lin, Y.-K., Li, Y.",
+        "Goggins, S."
+      ],
+      "publication_details": "Proceedings of OpenForum Academy Symposium, Boston, MA.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Lin, Y.-K., Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, Proceedings of OpenForum Academy Symposium, Boston, MA."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2021,
+      "title": "Open Source Community Health: Analytical Metrics and Their Corresponding Narratives",
+      "authors_display": "Goggins, S., Lumbard, K., and Germonprez, M.",
+      "authors": [
+        "Goggins, S., Lumbard, K.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of the 2021 IEEE/ACM 4th International Workshop on Software Health in Projects, Ecosystems and Communities (SoHeal), Online, https://doi.org/10.1109/SoHeal52568.2021.00010",
+      "doi": "10.1109/SoHeal52568.2021.00010",
+      "canonical_url": "https://doi.org/10.1109/SoHeal52568.2021.00010",
+      "source_citation": "Goggins, S., Lumbard, K., and Germonprez, M. (2021). Open Source Community Health: Analytical Metrics and Their Corresponding Narratives, Proceedings of the 2021 IEEE/ACM 4th International Workshop on Software Health in Projects, Ecosystems and Communities (SoHeal), Online, https://doi.org/10.1109/SoHeal52568.2021.00010"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2020,
+      "title": "Welcome? Investigating the Reception of New Contributors to Organizational-Communal Open Source Software Projects",
+      "authors_display": "Lumbard, K., Buhman, A., Wethor, G. E., Hale, M., Goggins, S., and Germonprez, M.",
+      "authors": [
+        "Lumbard, K., Buhman, A., Wethor, G. E., Hale, M., Goggins, S.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of AMCIS, Online, https://aisel.aisnet.org/amcis2020/virtualcommunities/virtualcommunities/14/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/14/",
+      "source_citation": "Lumbard, K., Buhman, A., Wethor, G. E., Hale, M., Goggins, S., and Germonprez, M. (2020). Welcome? Investigating the Reception of New Contributors to Organizational-Communal Open Source Software Projects, Proceedings of AMCIS, Online, https://aisel.aisnet.org/amcis2020/virtualcommunities/virtualcommunities/14/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2019,
+      "title": "Towards an Information Archetypes Framework: Exploring the Types of Information Used in Open Source Design Engagements",
+      "authors_display": "Yi, S., Lumbard, K., Damen, N. B., Germonprez, M., and Toh, C.",
+      "authors": [
+        "Yi, S., Lumbard, K., Damen, N. B., Germonprez, M.",
+        "Toh, C."
+      ],
+      "publication_details": "Proceedings of the ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, Anaheim, CA, https://doi.org/10.1115/DETC2019-97956",
+      "doi": "10.1115/DETC2019-97956",
+      "canonical_url": "https://doi.org/10.1115/DETC2019-97956",
+      "source_citation": "Yi, S., Lumbard, K., Damen, N. B., Germonprez, M., and Toh, C. (2019). Towards an Information Archetypes Framework: Exploring the Types of Information Used in Open Source Design Engagements, Proceedings of the ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, Anaheim, CA, https://doi.org/10.1115/DETC2019-97956"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2019,
+      "title": "Something to Talk About: Exploring Open Source Design Spaces",
+      "authors_display": "Lumbard, K., Ahuja, V. K., Germonprez, M., and Goggins, S.",
+      "authors": [
+        "Lumbard, K., Ahuja, V. K., Germonprez, M.",
+        "Goggins, S."
+      ],
+      "publication_details": "Proceedings of MWAIS, Oshkosh, WI, https://aisel.aisnet.org/mwais2019/18/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/mwais2019/18/",
+      "source_citation": "Lumbard, K., Ahuja, V. K., Germonprez, M., and Goggins, S. (2019). Something to Talk About: Exploring Open Source Design Spaces, Proceedings of MWAIS, Oshkosh, WI, https://aisel.aisnet.org/mwais2019/18/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2019,
+      "title": "Open Source Health and Sustainability Metrics: CHAOSS Update",
+      "authors_display": "Goggins, S. and Germonprez, M.",
+      "authors": [
+        "Goggins, S.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of SoHeal Conference, Montreal, Canada.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Goggins, S. and Germonprez, M. (2019). Open Source Health and Sustainability Metrics: CHAOSS Update, Proceedings of SoHeal Conference, Montreal, Canada."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2018,
+      "title": "Eight Observations and 24 Research Questions About Open Source Projects: Illuminating New Realities",
+      "authors_display": "Germonprez, M., Link, G. J. P., Lumbard, K., and Goggins, S.",
+      "authors": [
+        "Germonprez, M., Link, G. J. P., Lumbard, K.",
+        "Goggins, S."
+      ],
+      "publication_details": "Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), Article 57, 1-22, New York, NY, https://doi.org/10.1145/3274326",
+      "doi": "10.1145/3274326",
+      "canonical_url": "https://doi.org/10.1145/3274326",
+      "source_citation": "Germonprez, M., Link, G. J. P., Lumbard, K., and Goggins, S. (2018). Eight Observations and 24 Research Questions About Open Source Projects: Illuminating New Realities, Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), Article 57, 1-22, New York, NY, https://doi.org/10.1145/3274326"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2018,
+      "title": "Open Data Standards for Open Source Software Risk Management Routines: An Examination of SPDX",
+      "authors_display": "Gandhi, R. A., Germonprez, M., and Link, G. J. P.",
+      "authors": [
+        "Gandhi, R. A., Germonprez, M.",
+        "Link, G. J. P."
+      ],
+      "publication_details": "Proceedings of the 2018 ACM Conference on Supporting Groupwork (GROUP ’18), 219-229, Sanibel Island, FL, https://doi.org/10.1145/3148330.3148333",
+      "doi": "10.1145/3148330.3148333",
+      "canonical_url": "https://doi.org/10.1145/3148330.3148333",
+      "source_citation": "Gandhi, R. A., Germonprez, M., and Link, G. J. P. (2018). Open Data Standards for Open Source Software Risk Management Routines: An Examination of SPDX, Proceedings of the 2018 ACM Conference on Supporting Groupwork (GROUP ’18), 219-229, Sanibel Island, FL, https://doi.org/10.1145/3148330.3148333"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2018,
+      "title": "Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes",
+      "authors_display": "Lumbard, K., Abid, A., Toh, C., and Germonprez, M.",
+      "authors": [
+        "Lumbard, K., Abid, A., Toh, C.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of the 51st Hawaii International Conference on System Sciences (HICSS), Waikoloa Village, HI, https://doi.org/10.24251/HICSS.2018.511",
+      "doi": "10.24251/HICSS.2018.511",
+      "canonical_url": "https://doi.org/10.24251/HICSS.2018.511",
+      "source_citation": "Lumbard, K., Abid, A., Toh, C., and Germonprez, M. (2018). Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes, Proceedings of the 51st Hawaii International Conference on System Sciences (HICSS), Waikoloa Village, HI, https://doi.org/10.24251/HICSS.2018.511"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2017,
+      "title": "Open Source Communities as Liminal Ecosystems",
+      "authors_display": "Lumbard, K. and Germonprez, M.",
+      "authors": [
+        "Lumbard, K.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of MWAIS, Springfield, IL, https://aisel.aisnet.org/mwais2017/45/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/mwais2017/45/",
+      "source_citation": "Lumbard, K. and Germonprez, M. (2017). Open Source Communities as Liminal Ecosystems, Proceedings of MWAIS, Springfield, IL, https://aisel.aisnet.org/mwais2017/45/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2017,
+      "title": "Advancing Open Online Community Science Practice: The Open Community Data Exchange",
+      "authors_display": "Link, G. J. P., Lumbard, K., Germonprez, M., and Goggins, S.",
+      "authors": [
+        "Link, G. J. P., Lumbard, K., Germonprez, M.",
+        "Goggins, S."
+      ],
+      "publication_details": "Proceedings of MWAIS, Springfield, IL, https://aisel.aisnet.org/mwais2017/44/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/mwais2017/44/",
+      "source_citation": "Link, G. J. P., Lumbard, K., Germonprez, M., and Goggins, S. (2017). Advancing Open Online Community Science Practice: The Open Community Data Exchange, Proceedings of MWAIS, Springfield, IL, https://aisel.aisnet.org/mwais2017/44/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2017,
+      "title": "Advancing the OCDX: Building Social Computing Infrastructure",
+      "authors_display": "Goggins, S., Germonprez, M., Million, A. J., Halfaker, A., and Hemphill, L.",
+      "authors": [
+        "Goggins, S., Germonprez, M., Million, A. J., Halfaker, A.",
+        "Hemphill, L."
+      ],
+      "publication_details": "Workshop, Companion of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’17 Companion), 421-424, Portland, OR, https://doi.org/10.1145/3022198.3022661",
+      "doi": "10.1145/3022198.3022661",
+      "canonical_url": "https://doi.org/10.1145/3022198.3022661",
+      "source_citation": "Goggins, S., Germonprez, M., Million, A. J., Halfaker, A., and Hemphill, L. (2017). Advancing the OCDX: Building Social Computing Infrastructure, Workshop, Companion of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’17 Companion), 421-424, Portland, OR, https://doi.org/10.1145/3022198.3022661"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2016,
+      "title": "Prototyping Practice in Open Source Compliance",
+      "authors_display": "Germonprez, M. and Hovorka, D.",
+      "authors": [
+        "Germonprez, M.",
+        "Hovorka, D."
+      ],
+      "publication_details": "Poster, Proceedings of IFIP 8.2 Conference, Dublin, Ireland, https://ifip82dublin.weebly.com/",
+      "doi": null,
+      "canonical_url": "https://ifip82dublin.weebly.com/",
+      "source_citation": "Germonprez, M. and Hovorka, D. (2016). Prototyping Practice in Open Source Compliance, Poster, Proceedings of IFIP 8.2 Conference, Dublin, Ireland, https://ifip82dublin.weebly.com/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2016,
+      "title": "Understanding Open Source Communities as Complex Adaptive Systems: A Case of the R Project Community",
+      "authors_display": "Link, G. J. P. and Germonprez, M.",
+      "authors": [
+        "Link, G. J. P.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of AMCIS, San Diego, CA, https://aisel.aisnet.org/amcis2016/Open/Presentations/7/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2016/Open/Presentations/7/",
+      "source_citation": "Link, G. J. P. and Germonprez, M. (2016). Understanding Open Source Communities as Complex Adaptive Systems: A Case of the R Project Community, Proceedings of AMCIS, San Diego, CA, https://aisel.aisnet.org/amcis2016/Open/Presentations/7/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2016,
+      "title": "The Open Community Data Exchange: Advancing Data Sharing and Discovery in Open Online Community Science",
+      "authors_display": "Link, G. J. P., Germonprez, M., Goggins, S., Hemsley, J., Rand, B., and Squire, M.",
+      "authors": [
+        "Link, G. J. P., Germonprez, M., Goggins, S., Hemsley, J., Rand, B.",
+        "Squire, M."
+      ],
+      "publication_details": "Proceedings of the 12th International Symposium on Open Collaboration (OpenSym ’16), Berlin, Germany, https://doi.org/10.1145/2962132.2962142",
+      "doi": "10.1145/2962132.2962142",
+      "canonical_url": "https://doi.org/10.1145/2962132.2962142",
+      "source_citation": "Link, G. J. P., Germonprez, M., Goggins, S., Hemsley, J., Rand, B., and Squire, M. (2016). The Open Community Data Exchange: Advancing Data Sharing and Discovery in Open Online Community Science, Proceedings of the 12th International Symposium on Open Collaboration (OpenSym ’16), Berlin, Germany, https://doi.org/10.1145/2962132.2962142"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2015,
+      "title": "Is It Egalitarianism or Enterprise Strategy? Exploring a New Method of Innovation in Open Source",
+      "authors_display": "Germonprez, M. and Levy, M.",
+      "authors": [
+        "Germonprez, M.",
+        "Levy, M."
+      ],
+      "publication_details": "Proceedings of AMCIS, Puerto Rico, https://aisel.aisnet.org/amcis2015/StrategicUse/GeneralPresentations/18/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2015/StrategicUse/GeneralPresentations/18/",
+      "source_citation": "Germonprez, M. and Levy, M. (2015). Is It Egalitarianism or Enterprise Strategy? Exploring a New Method of Innovation in Open Source, Proceedings of AMCIS, Puerto Rico, https://aisel.aisnet.org/amcis2015/StrategicUse/GeneralPresentations/18/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2015,
+      "title": "Design History: Exploring Corporate Communities",
+      "authors_display": "Hovorka, D., Germonprez, M., and Levy, M.",
+      "authors": [
+        "Hovorka, D., Germonprez, M.",
+        "Levy, M."
+      ],
+      "publication_details": "Proceedings of DESRIST, Dublin, Ireland, https://cora.ucc.ie/bitstream/handle/10468/1822/At%20the%20Vanguard%20of%20Design%20Science.pdf",
+      "doi": null,
+      "canonical_url": "https://cora.ucc.ie/bitstream/handle/10468/1822/At%20the%20Vanguard%20of%20Design%20Science.pdf",
+      "source_citation": "Hovorka, D., Germonprez, M., and Levy, M. (2015). Design History: Exploring Corporate Communities, Proceedings of DESRIST, Dublin, Ireland, https://cora.ucc.ie/bitstream/handle/10468/1822/At%20the%20Vanguard%20of%20Design%20Science.pdf"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2014,
+      "title": "Expressing the Domestication of Open Source: How the Ecosystem Metaphor Illuminates and Obscures Understanding of Organizational Participation in Open Source Communities",
+      "authors_display": "Germonprez, M., Kendall, K., Kendall, J., and Young, B.",
+      "authors": [
+        "Germonprez, M., Kendall, K., Kendall, J.",
+        "Young, B."
+      ],
+      "publication_details": "Proceedings of WDSI, Napa, CA.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Kendall, K., Kendall, J., and Young, B. (2014). Expressing the Domestication of Open Source: How the Ecosystem Metaphor Illuminates and Obscures Understanding of Organizational Participation in Open Source Communities, Proceedings of WDSI, Napa, CA."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2014,
+      "title": "On the Rationality of For-Profit Corporations Participating in Open Source Software Communities",
+      "authors_display": "Germonprez, M., Kendall, K., Kendall, J., and Young, B.",
+      "authors": [
+        "Germonprez, M., Kendall, K., Kendall, J.",
+        "Young, B."
+      ],
+      "publication_details": "Proceedings of WDSI, Napa, CA.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Kendall, K., Kendall, J., and Young, B. (2014). On the Rationality of For-Profit Corporations Participating in Open Source Software Communities, Proceedings of WDSI, Napa, CA."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2013,
+      "title": "The Domestication of Open Source",
+      "authors_display": "Germonprez, M., Kendall, K., Kendall, J., Young, B., Warner, B., and Mathiassen, L.",
+      "authors": [
+        "Germonprez, M., Kendall, K., Kendall, J., Young, B., Warner, B.",
+        "Mathiassen, L."
+      ],
+      "publication_details": "Proceedings of DIGIT Workshop, ICIS, Milan, Italy, https://aisel.aisnet.org/digit2013/8/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/digit2013/8/",
+      "source_citation": "Germonprez, M., Kendall, K., Kendall, J., Young, B., Warner, B., and Mathiassen, L. (2013). The Domestication of Open Source, Proceedings of DIGIT Workshop, ICIS, Milan, Italy, https://aisel.aisnet.org/digit2013/8/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2012,
+      "title": "Member Engagement Types in Online Communities",
+      "authors_display": "Germonprez, M. and Mitchell, A.",
+      "authors": [
+        "Germonprez, M.",
+        "Mitchell, A."
+      ],
+      "publication_details": "Proceedings of MWAIS, Green Bay, WI, https://aisel.aisnet.org/mwais2012/10/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/mwais2012/10/",
+      "source_citation": "Germonprez, M. and Mitchell, A. (2012). Member Engagement Types in Online Communities, Proceedings of MWAIS, Green Bay, WI, https://aisel.aisnet.org/mwais2012/10/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2012,
+      "title": "Risk Mitigation in Corporate Participation with Open Source Communities: Protection and Compliance in an Open Source Supply Chain",
+      "authors_display": "Germonprez, M., Young, B., Mathiassen, L., Kendall, J. E., Kendall, K. E., and Warner, B.",
+      "authors": [
+        "Germonprez, M., Young, B., Mathiassen, L., Kendall, J. E., Kendall, K. E.",
+        "Warner, B."
+      ],
+      "publication_details": "Proceedings of the International Research Workshop on IT Project Management, ICIS, Orlando, FL, https://aisel.aisnet.org/irwitpm2012/3/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/irwitpm2012/3/",
+      "source_citation": "Germonprez, M., Young, B., Mathiassen, L., Kendall, J. E., Kendall, K. E., and Warner, B. (2012). Risk Mitigation in Corporate Participation with Open Source Communities: Protection and Compliance in an Open Source Supply Chain, Proceedings of the International Research Workshop on IT Project Management, ICIS, Orlando, FL, https://aisel.aisnet.org/irwitpm2012/3/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2011,
+      "title": "Technology Embodiment: The Contribution of Heidegger’s Phenomenology",
+      "authors_display": "Germonprez, M., Pallud, J., and Monod, E.",
+      "authors": [
+        "Germonprez, M., Pallud, J.",
+        "Monod, E."
+      ],
+      "publication_details": "Proceedings of JAIS Theory Development Workshop, Shanghai, China, https://aisel.aisnet.org/sproutsproceedingsjaistheorydev2011/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_proceedings_jais_theory_dev_2011/",
+      "source_citation": "Germonprez, M., Pallud, J., and Monod, E. (2011). Technology Embodiment: The Contribution of Heidegger’s Phenomenology, Proceedings of JAIS Theory Development Workshop, Shanghai, China, https://aisel.aisnet.org/sproutsproceedingsjaistheorydev2011/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2011,
+      "title": "Towards an Informativity Account of Design Research",
+      "authors_display": "Hovorka, D. and Germonprez, M.",
+      "authors": [
+        "Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of JAIS Theory Development Workshop, Shanghai, China, Sprouts: Working Papers on Information Systems, 11(137), 1-24, https://aisel.aisnet.org/sproutsall/452/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/452/",
+      "source_citation": "Hovorka, D. and Germonprez, M. (2011). Towards an Informativity Account of Design Research, Proceedings of JAIS Theory Development Workshop, Shanghai, China, Sprouts: Working Papers on Information Systems, 11(137), 1-24, https://aisel.aisnet.org/sproutsall/452/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2011,
+      "title": "A Tutorial on Organizational Participation in Open Communities",
+      "authors_display": "Germonprez, M., Kendall, J., Kendall, K., Warner, B., and Mathiassen, L.",
+      "authors": [
+        "Germonprez, M., Kendall, J., Kendall, K., Warner, B.",
+        "Mathiassen, L."
+      ],
+      "publication_details": "Proceedings of the 2011 AIS SIGED: IAIM International Conference on Information Systems Education and Research, Shanghai, China, https://aisel.aisnet.org/siged2011/41/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/siged2011/41/",
+      "source_citation": "Germonprez, M., Kendall, J., Kendall, K., Warner, B., and Mathiassen, L. (2011). A Tutorial on Organizational Participation in Open Communities, Proceedings of the 2011 AIS SIGED: IAIM International Conference on Information Systems Education and Research, Shanghai, China, https://aisel.aisnet.org/siged2011/41/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2011,
+      "title": "Secondary Design: A Case of Community Participation",
+      "authors_display": "Germonprez, M. and Hovorka, D.",
+      "authors": [
+        "Germonprez, M.",
+        "Hovorka, D."
+      ],
+      "publication_details": "Proceedings of AMCIS, 1901-1915, Detroit, MI, https://aisel.aisnet.org/amcis2011submissions/212/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2011_submissions/212/",
+      "source_citation": "Germonprez, M. and Hovorka, D. (2011). Secondary Design: A Case of Community Participation, Proceedings of AMCIS, 1901-1915, Detroit, MI, https://aisel.aisnet.org/amcis2011submissions/212/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2011,
+      "title": "Organizational Participation in Open Communities: Conceptual Framing and Early Findings",
+      "authors_display": "Germonprez, M., Kendall, J., Kendall, K., Warner, B., and Mathiassen, L.",
+      "authors": [
+        "Germonprez, M., Kendall, J., Kendall, K., Warner, B.",
+        "Mathiassen, L."
+      ],
+      "publication_details": "Proceedings of AMCIS, 2164-2172, Detroit, MI, https://aisel.aisnet.org/amcis2011submissions/242/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2011_submissions/242/",
+      "source_citation": "Germonprez, M., Kendall, J., Kendall, K., Warner, B., and Mathiassen, L. (2011). Organizational Participation in Open Communities: Conceptual Framing and Early Findings, Proceedings of AMCIS, 2164-2172, Detroit, MI, https://aisel.aisnet.org/amcis2011submissions/242/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2011,
+      "title": "Strategies for Conducting Research and Publishing in Universities with a Balanced Approach to Research and Teaching",
+      "authors_display": "Klein, B., Eierman, M., Germonprez, M., and Guo, Y.",
+      "authors": [
+        "Klein, B., Eierman, M., Germonprez, M.",
+        "Guo, Y."
+      ],
+      "publication_details": "Panel, Proceedings of MWAIS, Omaha, NE.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Klein, B., Eierman, M., Germonprez, M., and Guo, Y. (2011). Strategies for Conducting Research and Publishing in Universities with a Balanced Approach to Research and Teaching, Panel, Proceedings of MWAIS, Omaha, NE."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2009,
+      "title": "Secondary Design: Mid-Range Theorizing",
+      "authors_display": "Germonprez, M., Hovorka, D., and Gal, U.",
+      "authors": [
+        "Germonprez, M., Hovorka, D.",
+        "Gal, U."
+      ],
+      "publication_details": "Proceedings of JAIS Theory Development Workshop, Phoenix, AZ.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Hovorka, D., and Gal, U. (2009). Secondary Design: Mid-Range Theorizing, Proceedings of JAIS Theory Development Workshop, Phoenix, AZ."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2009,
+      "title": "Tinkering",
+      "authors_display": "Hovorka, D. and Germonprez, M.",
+      "authors": [
+        "Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Tailoring and Bricolage: Implications for Theories of Design, Proceedings of AMCIS, San Francisco, CA, https://aisel.aisnet.org/amcis2009/488/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2009/488/",
+      "source_citation": "Hovorka, D. and Germonprez, M. (2009). Tinkering, Tailoring and Bricolage: Implications for Theories of Design, Proceedings of AMCIS, San Francisco, CA, https://aisel.aisnet.org/amcis2009/488/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2009,
+      "title": "Understanding Tailorable Technology Use Through Social Representations Theory",
+      "authors_display": "Germonprez, M. and Gal, U.",
+      "authors": [
+        "Germonprez, M.",
+        "Gal, U."
+      ],
+      "publication_details": "Proceedings of AMCIS, San Francisco, CA, https://aisel.aisnet.org/amcis2009/143/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2009/143/",
+      "source_citation": "Germonprez, M. and Gal, U. (2009). Understanding Tailorable Technology Use Through Social Representations Theory, Proceedings of AMCIS, San Francisco, CA, https://aisel.aisnet.org/amcis2009/143/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2009,
+      "title": "Panel - Perspectives on Publishing",
+      "authors_display": "Zigurs, I., Germonprez, M., Guo, Y., and Petter, S.",
+      "authors": [
+        "Zigurs, I., Germonprez, M., Guo, Y.",
+        "Petter, S."
+      ],
+      "publication_details": "Proceedings of MWAIS, Madison, SD, https://aisel.aisnet.org/mwais2009/3/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/mwais2009/3/",
+      "source_citation": "Zigurs, I., Germonprez, M., Guo, Y., and Petter, S. (2009). Panel - Perspectives on Publishing, Proceedings of MWAIS, Madison, SD, https://aisel.aisnet.org/mwais2009/3/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2008,
+      "title": "From Practice to Design and Back: Emergence of an Information Service View",
+      "authors_display": "Hovorka, D. and Germonprez, M.",
+      "authors": [
+        "Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of ACIS, Christchurch, New Zealand, https://aisel.aisnet.org/acis2008/50/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/acis2008/50/",
+      "source_citation": "Hovorka, D. and Germonprez, M. (2008). From Practice to Design and Back: Emergence of an Information Service View, Proceedings of ACIS, Christchurch, New Zealand, https://aisel.aisnet.org/acis2008/50/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2008,
+      "title": "Identification-Interaction-Innovation: A Phenomenological Basis for an Information Services View",
+      "authors_display": "Hovorka, D. and Germonprez, M.",
+      "authors": [
+        "Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of the 4th Information Systems Foundations Workshop, Canberra, Australia. Subsequently published in Information Systems Foundations: The Role of Design Science (2010), 3-20, https://doi.org/10.22459/ISF.12.2010.01",
+      "doi": "10.22459/ISF.12.2010.01",
+      "canonical_url": "https://doi.org/10.22459/ISF.12.2010.01",
+      "source_citation": "Hovorka, D. and Germonprez, M. (2008). Identification-Interaction-Innovation: A Phenomenological Basis for an Information Services View, Proceedings of the 4th Information Systems Foundations Workshop, Canberra, Australia. Subsequently published in Information Systems Foundations: The Role of Design Science (2010), 3-20, https://doi.org/10.22459/ISF.12.2010.01"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2008,
+      "title": "Toward an Information Service View of an Enterprise",
+      "authors_display": "Montealegre, R., Hovorka, D., and Germonprez, M.",
+      "authors": [
+        "Montealegre, R., Hovorka, D.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Research-in-Progress, Proceedings of ICIS, Paris, France, https://aisel.aisnet.org/icis2008/87/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/icis2008/87/",
+      "source_citation": "Montealegre, R., Hovorka, D., and Germonprez, M. (2008). Toward an Information Service View of an Enterprise, Research-in-Progress, Proceedings of ICIS, Paris, France, https://aisel.aisnet.org/icis2008/87/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2008,
+      "title": "The Information Services View",
+      "authors_display": "Germonprez, M. and Hovorka, D.",
+      "authors": [
+        "Germonprez, M.",
+        "Hovorka, D."
+      ],
+      "publication_details": "Proceedings of IFIP 8.2: Information Technology in the Service Economy: Challenges and Possibilities for the 21st Century, 365-366, Toronto, Canada, https://dl.ifip.org/db/conf/ifip8-2/ifip8-2-2008/GermonprezH08.pdf",
+      "doi": null,
+      "canonical_url": "https://dl.ifip.org/db/conf/ifip8-2/ifip8-2-2008/GermonprezH08.pdf",
+      "source_citation": "Germonprez, M. and Hovorka, D. (2008). The Information Services View, Proceedings of IFIP 8.2: Information Technology in the Service Economy: Challenges and Possibilities for the 21st Century, 365-366, Toronto, Canada, https://dl.ifip.org/db/conf/ifip8-2/ifip8-2-2008/GermonprezH08.pdf"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2007,
+      "title": "The Adoption of Service Oriented Architecture",
+      "authors_display": "Germonprez, M.",
+      "authors": [
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of MBAA International Conference, Chicago, IL, https://mbaasais.org/archivedprograms/MBAAProgram2007.pdf",
+      "doi": null,
+      "canonical_url": "https://mbaasais.org/archived_programs/MBAAProgram_2007.pdf",
+      "source_citation": "Germonprez, M. (2007). The Adoption of Service Oriented Architecture, Proceedings of MBAA International Conference, Chicago, IL, https://mbaasais.org/archivedprograms/MBAAProgram2007.pdf"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2006,
+      "title": "Service Oriented Architectures for Designing Information Systems",
+      "authors_display": "Germonprez, M. and Avital, M.",
+      "authors": [
+        "Germonprez, M.",
+        "Avital, M."
+      ],
+      "publication_details": "Proceedings of AIM Pre-ICIS Workshop, Milwaukee, WI.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M. and Avital, M. (2006). Service Oriented Architectures for Designing Information Systems, Proceedings of AIM Pre-ICIS Workshop, Milwaukee, WI."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2006,
+      "title": "Theorizing About Tailorable Technology",
+      "authors_display": "Germonprez, M., Hovorka, D., and Collopy, F.",
+      "authors": [
+        "Germonprez, M., Hovorka, D.",
+        "Collopy, F."
+      ],
+      "publication_details": "JAIS Theory Workshop, AMCIS, Acapulco, Mexico.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Hovorka, D., and Collopy, F. (2006). Theorizing About Tailorable Technology, JAIS Theory Workshop, AMCIS, Acapulco, Mexico."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2006,
+      "title": "An HCI-Oriented Approach to the Introductory IS Programming Course",
+      "authors_display": "Wilson, E. V. and Germonprez, M.",
+      "authors": [
+        "Wilson, E. V.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of MWAIS, Grand Rapids, MI, https://aisel.aisnet.org/mwais2006/20/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/mwais2006/20/",
+      "source_citation": "Wilson, E. V. and Germonprez, M. (2006). An HCI-Oriented Approach to the Introductory IS Programming Course, Proceedings of MWAIS, Grand Rapids, MI, https://aisel.aisnet.org/mwais2006/20/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2005,
+      "title": "Theorizing About Tailorable Technology",
+      "authors_display": "Germonprez, M., Hovorka, D., and Collopy, F.",
+      "authors": [
+        "Germonprez, M., Hovorka, D.",
+        "Collopy, F."
+      ],
+      "publication_details": "Proceedings of JAIS Theory Development Workshop, Las Vegas, NV.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Hovorka, D., and Collopy, F. (2005). Theorizing About Tailorable Technology, Proceedings of JAIS Theory Development Workshop, Las Vegas, NV."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2005,
+      "title": "Ubiquitous Computing in Practice",
+      "authors_display": "Braley, D., Fano, A., Lassila, O., Light, J., and Germonprez, M.",
+      "authors": [
+        "Braley, D., Fano, A., Lassila, O., Light, J.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of IFIP 8.2: Designing Ubiquitous Information Environments: Socio-Technical Issues and Challenges, Cleveland, OH, https://doi.org/10.1007/0-387-28918-631",
+      "doi": "10.1007/0-387-28918-6_31",
+      "canonical_url": "https://doi.org/10.1007/0-387-28918-6_31",
+      "source_citation": "Braley, D., Fano, A., Lassila, O., Light, J., and Germonprez, M. (2005). Ubiquitous Computing in Practice, Proceedings of IFIP 8.2: Designing Ubiquitous Information Environments: Socio-Technical Issues and Challenges, Cleveland, OH, https://doi.org/10.1007/0-387-28918-631"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2005,
+      "title": "Grant Writing in Information Systems",
+      "authors_display": "Lyytinen, K., Ramesh, B., Iacono, S., Prey, J., Ko, D. G., and Germonprez, M.",
+      "authors": [
+        "Lyytinen, K., Ramesh, B., Iacono, S., Prey, J., Ko, D. G.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Pre-Conference Workshop, Proceedings of AMCIS, Omaha, NE, https://aisel.aisnet.org/amcis2005/477/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2005/477/",
+      "source_citation": "Lyytinen, K., Ramesh, B., Iacono, S., Prey, J., Ko, D. G., and Germonprez, M. (2005). Grant Writing in Information Systems, Pre-Conference Workshop, Proceedings of AMCIS, Omaha, NE, https://aisel.aisnet.org/amcis2005/477/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2005,
+      "title": "Designing and Teaching Web Systems Integration",
+      "authors_display": "Germonprez, M.",
+      "authors": [
+        "Germonprez, M."
+      ],
+      "publication_details": "Pre-Conference Workshop, Proceedings of AMCIS, Omaha, NE, https://aisel.aisnet.org/amcis2005/479/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2005/479/",
+      "source_citation": "Germonprez, M. (2005). Designing and Teaching Web Systems Integration, Pre-Conference Workshop, Proceedings of AMCIS, Omaha, NE, https://aisel.aisnet.org/amcis2005/479/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2004,
+      "title": "Designing Tailorable Technologies",
+      "authors_display": "Germonprez, M. and Collopy, F.",
+      "authors": [
+        "Germonprez, M.",
+        "Collopy, F."
+      ],
+      "publication_details": "Proceedings of SIGHCI ICIS Pre-Conference Workshop, Washington, D.C. 4(7), https://aisel.aisnet.org/sighci2004/10/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sighci2004/10/",
+      "source_citation": "Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technologies, Proceedings of SIGHCI ICIS Pre-Conference Workshop, Washington, D.C. 4(7), https://aisel.aisnet.org/sighci2004/10/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2004,
+      "title": "The Actionability of Information Systems Theory",
+      "authors_display": "Avital, M., Germonprez, M., Baskerville, R., Boland, R., Hart, P., and Schultze, U.",
+      "authors": [
+        "Avital, M., Germonprez, M., Baskerville, R., Boland, R., Hart, P.",
+        "Schultze, U."
+      ],
+      "publication_details": "OCIS Panel, Proceedings of the Academy of Management Conference, New Orleans, LA.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Avital, M., Germonprez, M., Baskerville, R., Boland, R., Hart, P., and Schultze, U. (2004). The Actionability of Information Systems Theory, OCIS Panel, Proceedings of the Academy of Management Conference, New Orleans, LA."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2004,
+      "title": "Interface Design Standards: A Little K Goes a Long Way",
+      "authors_display": "Germonprez, M., Srinivasan, N., and Meyer, E.",
+      "authors": [
+        "Germonprez, M., Srinivasan, N.",
+        "Meyer, E."
+      ],
+      "publication_details": "Proceedings of the Austin Mobility Roundtable, Austin, TX.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Srinivasan, N., and Meyer, E. (2004). Interface Design Standards: A Little K Goes a Long Way, Proceedings of the Austin Mobility Roundtable, Austin, TX."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2004,
+      "title": "The Role of Conventional Research Methods in Information Systems Action Research",
+      "authors_display": "Germonprez, M. and Mathiassen, L.",
+      "authors": [
+        "Germonprez, M.",
+        "Mathiassen, L."
+      ],
+      "publication_details": "Proceedings of IFIP 8.2, Manchester, England. Subsequently published in Information Systems Research: Relevant Theory and Informed Practice, 335-352, https://doi.org/10.1007/1-4020-8095-619",
+      "doi": "10.1007/1-4020-8095-6_19",
+      "canonical_url": "https://doi.org/10.1007/1-4020-8095-6_19",
+      "source_citation": "Germonprez, M. and Mathiassen, L. (2004). The Role of Conventional Research Methods in Information Systems Action Research, Proceedings of IFIP 8.2, Manchester, England. Subsequently published in Information Systems Research: Relevant Theory and Informed Practice, 335-352, https://doi.org/10.1007/1-4020-8095-619"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2003,
+      "title": "Ubiquitous Computing: Surfing the Trend in a Balanced Act",
+      "authors_display": "Avital, M. and Germonprez, M.",
+      "authors": [
+        "Avital, M.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of the Workshop on Ubiquitous Computer Environments, Cleveland, OH, https://aisel.aisnet.org/sproutsall/54/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/54/",
+      "source_citation": "Avital, M. and Germonprez, M. (2003). Ubiquitous Computing: Surfing the Trend in a Balanced Act, Proceedings of the Workshop on Ubiquitous Computer Environments, Cleveland, OH, https://aisel.aisnet.org/sproutsall/54/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2002,
+      "title": "Examining Group Communicative Processes: Critically Based Tools and Training",
+      "authors_display": "Germonprez, M. and Hovorka, D.",
+      "authors": [
+        "Germonprez, M.",
+        "Hovorka, D."
+      ],
+      "publication_details": "Proceedings of AMCIS, Dallas, TX, https://aisel.aisnet.org/amcis2002/221/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2002/221/",
+      "source_citation": "Germonprez, M. and Hovorka, D. (2002). Examining Group Communicative Processes: Critically Based Tools and Training, Proceedings of AMCIS, Dallas, TX, https://aisel.aisnet.org/amcis2002/221/"
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2001,
+      "title": "Refining Channel Expansion: A Critical Approach",
+      "authors_display": "Germonprez, M.",
+      "authors": [
+        "Germonprez, M."
+      ],
+      "publication_details": "Proceedings of AMCIS, Boston, MA, https://aisel.aisnet.org/amcis2001/409/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/amcis2001/409/",
+      "source_citation": "Germonprez, M. (2001). Refining Channel Expansion: A Critical Approach, Proceedings of AMCIS, Boston, MA, https://aisel.aisnet.org/amcis2001/409/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2026,
+      "title": "Where is the Control? The Distribution of Outcome Control in Open Source Software Consortia",
+      "authors_display": "Germonprez, M., Conboy, K., Morgan, L., Link, G., and Goggins, S.",
+      "authors": [
+        "Germonprez, M., Conboy, K., Morgan, L., Link, G.",
+        "Goggins, S."
+      ],
+      "publication_details": "SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstractid=6711038",
+      "doi": null,
+      "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6711038",
+      "source_citation": "Germonprez, M., Conboy, K., Morgan, L., Link, G., and Goggins, S. (2026). Where is the Control? The Distribution of Outcome Control in Open Source Software Consortia, SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstractid=6711038"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2025,
+      "title": "and Goggins",
+      "authors_display": "Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M.",
+      "authors": [
+        "Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M."
+      ],
+      "publication_details": "G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670",
+      "doi": null,
+      "canonical_url": "https://arxiv.org/abs/2504.16670",
+      "source_citation": "Lu, W., Kasaadah, E. Rakib Ul Karim, S.M., Germonprez, M. (2025). and Goggins, G. Open Source Software Lifecycle Classification: Developing Wrangling Techniques for Complex Sociotechnical Systems, ArXiv, https://arxiv.org/abs/2504.16670"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2024,
+      "title": "Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field",
+      "authors_display": "Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K., and Howison, J.",
+      "authors": [
+        "Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K.",
+        "Howison, J."
+      ],
+      "publication_details": "ArXiv, https://arxiv.org/abs/2402.14172",
+      "doi": null,
+      "canonical_url": "https://arxiv.org/abs/2402.14172",
+      "source_citation": "Goggins, S., Lumbard, K., Germonprez, M., Du, C., Ram, K., and Howison, J. (2024). Open Source Software Field Research: Spanning Social and Practice Networks for Re-Entering the Field, ArXiv, https://arxiv.org/abs/2402.14172"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2011,
+      "title": "Technology Embodiment: The Contribution of Heidegger's Phenomenology",
+      "authors_display": "Germonprez, M., Pallud, J., and Monod, E.",
+      "authors": [
+        "Germonprez, M., Pallud, J.",
+        "Monod, E."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 11(152), https://aisel.aisnet.org/sproutsall/466/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/466/](https://aisel.aisnet.org/sprouts_all/466/)",
+      "source_citation": "Germonprez, M., Pallud, J., and Monod, E. (2011). Technology Embodiment: The Contribution of Heidegger's Phenomenology, Sprouts: Working Papers on Information Systems, 11(152), https://aisel.aisnet.org/sproutsall/466/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2011,
+      "title": "Towards an Informativity Account of Design Research",
+      "authors_display": "Hovorka, D. S. and Germonprez, M.",
+      "authors": [
+        "Hovorka, D. S.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 11(137), https://aisel.aisnet.org/sproutsall/452/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/452/](https://aisel.aisnet.org/sprouts_all/452/)",
+      "source_citation": "Hovorka, D. S. and Germonprez, M. (2011). Towards an Informativity Account of Design Research, Sprouts: Working Papers on Information Systems, 11(137), https://aisel.aisnet.org/sproutsall/452/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2009,
+      "title": "Theorizing On Secondary Design",
+      "authors_display": "Germonprez, M., Hovorka, D. S., and Gal, U.",
+      "authors": [
+        "Germonprez, M., Hovorka, D. S.",
+        "Gal, U."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 9(41), https://aisel.aisnet.org/sproutsall/294/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/294/](https://aisel.aisnet.org/sprouts_all/294/)",
+      "source_citation": "Germonprez, M., Hovorka, D. S., and Gal, U. (2009). Theorizing On Secondary Design, Sprouts: Working Papers on Information Systems, 9(41), https://aisel.aisnet.org/sproutsall/294/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2009,
+      "title": "Compositional Styles in Action Research: A Critical Analysis of Leading Information Systems Journals",
+      "authors_display": "Mathiassen, L., Chiasson, M., and Germonprez, M.",
+      "authors": [
+        "Mathiassen, L., Chiasson, M.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 9(35), https://aisel.aisnet.org/sproutsall/289/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/289/](https://aisel.aisnet.org/sprouts_all/289/)",
+      "source_citation": "Mathiassen, L., Chiasson, M., and Germonprez, M. (2009). Compositional Styles in Action Research: A Critical Analysis of Leading Information Systems Journals, Sprouts: Working Papers on Information Systems, 9(35), https://aisel.aisnet.org/sproutsall/289/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2008,
+      "title": "Explanation in Information Systems",
+      "authors_display": "Hovorka, D. S., Germonprez, M., and Larsen, K. R. T.",
+      "authors": [
+        "Hovorka, D. S., Germonprez, M.",
+        "Larsen, K. R. T."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 3(15), https://aisel.aisnet.org/sproutsall/50/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/50/](https://aisel.aisnet.org/sprouts_all/50/)",
+      "source_citation": "Hovorka, D. S., Germonprez, M., and Larsen, K. R. T. (2008). Explanation in Information Systems, Sprouts: Working Papers on Information Systems, 3(15), https://aisel.aisnet.org/sproutsall/50/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2008,
+      "title": "Ubiquitous Computing: Surfing the Trend in a Balanced Act",
+      "authors_display": "Avital, M. and Germonprez, M.",
+      "authors": [
+        "Avital, M.",
+        "Germonprez, M."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 3(19), https://aisel.aisnet.org/sproutsall/54/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/54/](https://aisel.aisnet.org/sprouts_all/54/)",
+      "source_citation": "Avital, M. and Germonprez, M. (2008). Ubiquitous Computing: Surfing the Trend in a Balanced Act, Sprouts: Working Papers on Information Systems, 3(19), https://aisel.aisnet.org/sproutsall/54/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2005,
+      "title": "Using Interface Design Standards to Support Pervasive Computing",
+      "authors_display": "Germonprez, M., Srinivasan, N., and Avital, M.",
+      "authors": [
+        "Germonprez, M., Srinivasan, N.",
+        "Avital, M."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 5(14), https://aisel.aisnet.org/sproutsall/100/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/100/](https://aisel.aisnet.org/sprouts_all/100/)",
+      "source_citation": "Germonprez, M., Srinivasan, N., and Avital, M. (2005). Using Interface Design Standards to Support Pervasive Computing, Sprouts: Working Papers on Information Systems, 5(14), https://aisel.aisnet.org/sproutsall/100/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2004,
+      "title": "Designing Tailorable Technologies",
+      "authors_display": "Germonprez, M. and Collopy, F.",
+      "authors": [
+        "Germonprez, M.",
+        "Collopy, F."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 4(7), https://aisel.aisnet.org/sproutsall/63/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/63/](https://aisel.aisnet.org/sprouts_all/63/)",
+      "source_citation": "Germonprez, M. and Collopy, F. (2004). Designing Tailorable Technologies, Sprouts: Working Papers on Information Systems, 4(7), https://aisel.aisnet.org/sproutsall/63/"
+    },
+    {
+      "type": "archival_or_working_paper",
+      "year": 2003,
+      "title": "Causal Factors for Web Site Complexity",
+      "authors_display": "Germonprez, M. and Zigurs, I.",
+      "authors": [
+        "Germonprez, M.",
+        "Zigurs, I."
+      ],
+      "publication_details": "Sprouts: Working Papers on Information Systems, 3(13), https://aisel.aisnet.org/sproutsall/48/",
+      "doi": null,
+      "canonical_url": "https://aisel.aisnet.org/sprouts_all/48/](https://aisel.aisnet.org/sprouts_all/48/)",
+      "source_citation": "Germonprez, M. and Zigurs, I. (2003). Causal Factors for Web Site Complexity, Sprouts: Working Papers on Information Systems, 3(13), https://aisel.aisnet.org/sproutsall/48/"
+    },
+    {
+      "type": "open_source_output",
+      "year": 2024,
+      "title": "Measuring and Communicating Impact by your OSPO",
+      "authors_display": "Germonprez, M. and Linåker, J.",
+      "authors": [
+        "Germonprez, M.",
+        "Linåker, J."
+      ],
+      "publication_details": "OSPO Book Project, Published by the TODO Group.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M. and Linåker, J. (2024). Measuring and Communicating Impact by your OSPO, OSPO Book Project, Published by the TODO Group."
+    },
+    {
+      "type": "open_source_output",
+      "year": 2019,
+      "title": "Open Community Health: Workshop Report",
+      "authors_display": "Link, G., Lumbard, K., Damen, N., Rosser, H., Germonprez, M. Goggins, S., Wiggins, A., Ahuja, V., Brier, J., Cohoon, H., Halfaker, A., Howison, J., Marti, D., Newman, G., Osterlund, C., Paik, R., Rother, B., and Schecter, A.",
+      "authors": [
+        "Link, G., Lumbard, K., Damen, N., Rosser, H., Germonprez, M. Goggins, S., Wiggins, A., Ahuja, V., Brier, J., Cohoon, H., Halfaker, A., Howison, J., Marti, D., Newman, G., Osterlund, C., Paik, R., Rother, B.",
+        "Schecter, A."
+      ],
+      "publication_details": "Journal of Peer Production, Issue 13.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Link, G., Lumbard, K., Damen, N., Rosser, H., Germonprez, M. Goggins, S., Wiggins, A., Ahuja, V., Brier, J., Cohoon, H., Halfaker, A., Howison, J., Marti, D., Newman, G., Osterlund, C., Paik, R., Rother, B., and Schecter, A. (2019). Open Community Health: Workshop Report, Journal of Peer Production, Issue 13."
+    },
+    {
+      "type": "open_source_output",
+      "year": 2018,
+      "title": "How to Measure the Impact of Your Open Source Project",
+      "authors_display": "Ahuja, V., Marti, D., Link, G., Germonprez, M., and Goggins, S.",
+      "authors": [
+        "Ahuja, V., Marti, D., Link, G., Germonprez, M.",
+        "Goggins, S."
+      ],
+      "publication_details": "Opensource.com.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Ahuja, V., Marti, D., Link, G., Germonprez, M., and Goggins, S. (2018). How to Measure the Impact of Your Open Source Project, Opensource.com."
+    },
+    {
+      "type": "open_source_output",
+      "year": 2016,
+      "title": "DoSOCS: A System for SPDX 2.0 Document Creation and Storage",
+      "authors_display": "Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R.",
+      "authors": [
+        "Germonprez, M., Gurney, T., Korlimarla, U.",
+        "Gandhi, R."
+      ],
+      "publication_details": "Journal of Open Source Software.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Gurney, T., Korlimarla, U., and Gandhi, R. (2016). DoSOCS: A System for SPDX 2.0 Document Creation and Storage, Journal of Open Source Software."
+    }
+  ]
+}

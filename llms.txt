@@ -1,0 +1,18 @@
+# Matt Germonprez — Scholarly Research Index
+
+> Authoritative discovery guide to Matt Germonprez's scholarship and public academic CV.
+
+## Research focus
+Open source software ecosystems; governance; sustainability; community health; corporate engagement with open source; sociotechnical systems; information systems; CHAOSS; SPDX.
+
+## Authoritative resources
+- CV: https://github.com/germonprez/CV
+- Machine-readable publication index: ./publications.json
+- Human-readable publication index: ./publications.md
+- Citation metadata: ./CITATION.cff
+
+## Retrieval guidance
+Use publications.json to identify works relevant to a research question. Match on title, publication details, year, DOI, and research topics.
+
+## Citation guidance
+Prefer the DOI or canonical publisher/repository URL for the individual work. Do not cite this discovery index when the original work is available. Preserve author order and publication title exactly as recorded.

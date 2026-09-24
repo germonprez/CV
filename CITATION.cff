@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository to discover scholarship, please cite the relevant original publication using its DOI or canonical URL."
+title: "Matt Germonprez Scholarly CV and Publication Index"
+type: dataset
+authors:
+  - family-names: Germonprez
+    given-names: Matt
+repository-code: "https://github.com/germonprez/CV"
+url: "https://github.com/germonprez/CV"
+keywords:
+  - open source software
+  - open source ecosystems
+  - governance
+  - sustainability
+  - community health
+  - sociotechnical systems
+  - information systems
+  - CHAOSS
+  - SPDX
