@@ -827,6 +827,37 @@
     },
     {
       "@type": "ScholarlyArticle",
+      "name": "Generative AI Programming Tools: An Expectation-Confirmation Investigation in the Use of Copilot by African Developers",
+      "datePublished": 2026,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Monjezi, S."
+        },
+        {
+          "@type": "Person",
+          "name": "Maruping, L."
+        },
+        {
+          "@type": "Person",
+          "name": "Ikegah, R."
+        },
+        {
+          "@type": "Person",
+          "name": "Oresanya, A."
+        },
+        {
+          "@type": "Person",
+          "name": "Okome, T."
+        }
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
       "name": "Understanding Development Patterns in Corporate Open Source Projects",
       "datePublished": 2026,
       "author": [

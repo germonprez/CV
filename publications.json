@@ -584,6 +584,24 @@
     {
       "type": "conference_or_workshop",
       "year": 2026,
+      "title": "Generative AI Programming Tools: An Expectation-Confirmation Investigation in the Use of Copilot by African Developers",
+      "authors_display": "Germonprez, M., Monjezi, S., Maruping, L., Ikegah, R., Oresanya, A., and Okome, T.",
+      "authors": [
+        "Germonprez, M.",
+        "Monjezi, S.",
+        "Maruping, L.",
+        "Ikegah, R.",
+        "Oresanya, A.",
+        "Okome, T."
+      ],
+      "publication_details": "Pre-ICIS FRAIS 2026 Paper Development Workshop, Lisbon, Portugal.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Monjezi, S., Maruping, L., Ikegah, R., Oresanya, A., and Okome, T. (2026). Generative AI Programming Tools: An Expectation-Confirmation Investigation in the Use of Copilot by African Developers, Pre-ICIS FRAIS 2026 Paper Development Workshop, Lisbon, Portugal."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2026,
       "title": "Understanding Development Patterns in Corporate Open Source Projects",
       "authors_display": "Lumbard, K., Ahuja, V., and Germonprez, M.",
       "authors": [
