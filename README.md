@@ -191,6 +191,8 @@ Assistant Professor of Information Systems
 
 
 ### CONFERENCES AND WORKSHOPS
+- Germonprez, M., Monjezi, S., Maruping, L., Ikegah, R., Oresanya, A., and Okome, T. (2026). Generative AI Programming Tools: An Expectation-Confirmation Investigation in the Use of Copilot by African Developers, *Pre-ICIS FRAIS 2026 Paper Development Workshop*, Lisbon, Portugal. 
+
 - Lumbard, K., Ahuja, V., and Germonprez, M. (2026). Understanding Development Patterns in Corporate Open Source Projects, *Proceedings of the 2026 ACM Southeast Conference (ACMSE 2026)*, 10-17, Troy, AL, https://doi.org/10.1145/3746467.3801507
 
 - Germonprez, M., Lin, Y.-K., Li, Y., and Goggins, S. (2024). Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems, *Proceedings of OpenForum Academy Symposium*, Boston, MA.
