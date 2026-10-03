@@ -52,8 +52,9 @@ Machine-readable version: [`publications.json`](./publications.json).
 
 ## Conferences and Workshops
 
+- **Generative AI Programming Tools: An Expectation-Confirmation Investigation in the Use of Copilot by African Developers** (2026) Germonprez, M., Monjezi, S., Maruping, L., Ikegah, R., Oresanya, A., and Okome, T. (2026).
 - **Understanding Development Patterns in Corporate Open Source Projects** (2026). Lumbard, K., Ahuja, V., and Germonprez, M.. — [10.1145/3746467.3801507](https://doi.org/10.1145/3746467.3801507)
-- **Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems** (2024). Germonprez, M., Lin, Y.-K., Li, Y., and Goggins, S..
+- **Operationalizing Open Source Supply Chains as Complex Sociotechnical Systems** (2024). Germonprez, M., Lin, Y.-K., Li, Y., and Goggins, S.
 - **Open Source Community Health: Analytical Metrics and Their Corresponding Narratives** (2021). Goggins, S., Lumbard, K., and Germonprez, M.. — [10.1109/SoHeal52568.2021.00010](https://doi.org/10.1109/SoHeal52568.2021.00010)
 - **Welcome? Investigating the Reception of New Contributors to Organizational-Communal Open Source Software Projects** (2020). Lumbard, K., Buhman, A., Wethor, G. E., Hale, M., Goggins, S., and Germonprez, M.. — [source](https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/14/)
 - **Towards an Information Archetypes Framework: Exploring the Types of Information Used in Open Source Design Engagements** (2019). Yi, S., Lumbard, K., Damen, N. B., Germonprez, M., and Toh, C.. — [10.1115/DETC2019-97956](https://doi.org/10.1115/DETC2019-97956)
