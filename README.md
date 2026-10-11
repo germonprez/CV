@@ -521,7 +521,7 @@ Assistant Professor of Information Systems
 
 ### PH.D. WORK
 - Abigail Dogbe, University of Cincinnati, Committee Member, Ongoing. 
-- Munsif Sokiyna, University of Alabama, Committee Member, Defended 2026. 
+- Munsif Sokiyna, University of Alabama, Committee Member, Measuring Toxicity and Its Impact on Sustainability in Open Source Software Communities, Defended 2026. 
 - Vinod Ahuja, University of Nebraska Omaha, Advisor, Where Companies Draw the Line: Exploring Corporate Boundaries in the Collaborative Creation of Open Source, Defended 2023.
 - Kevin Lumbard, University of Nebraska Omaha, Advisor, Open Source Design: How Corporations Realize Determinacy in Open Source Design Engagements, Defended 2023.
 - Georg Link, University of Nebraska Omaha, Advisor, Cooperative Signaling Behavior: Signals for Open Source Project Health, University of Nebraska Omaha. Defended 2019.
