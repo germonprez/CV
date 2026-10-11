@@ -108,7 +108,8 @@ Assistant Professor of Information Systems
 - My InnerView, Student Mentorship (2009), $3,500
 - Roehl Transportation, Student Mentorship (2008), $3,000
 
-### ARTICLES (14 AIS Senior Scholar Premier Journals)
+### ARTICLES 
+#### (14 AIS Senior Scholar Premier Journals)
 - Foster, D. and Germonprez, M. (2026). Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events, _Information Systems Journal_, https://onlinelibrary.wiley.com/doi/10.1111/isj.70060
 
 - Foster, D. and Germonprez, M. (2026). Value Capture Dynamics in Open Source, *IEEE Computer*, 59(9), 110-114, https://www.computer.org/csdl/magazine/co/2026/09/11667410/2jgNpRgka1q
