@@ -1,9 +1,11 @@
 <b>Matt Germonprez  
 Mutual of Omaha Distinguished Chair of Information Science & Technology  
 Professor of Information Systems and Quantitative Analysis  
+University Faculty Fellow for Public Science  
 College of Information Science & Technology  
 University of Nebraska Omaha  
 AIS Distinguished Member - Cum Laude  
+ACM Senior Member  
 mgermonprez@unomaha.com</b>
 
 ### RESEARCH SUMMARY
