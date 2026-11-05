@@ -827,6 +827,29 @@
     },
     {
       "@type": "ScholarlyArticle",
+      "name": "The Firm/Open Source Software Foundation Relationship: Ecosystem-Level Governance and Portfolio Management",
+      "datePublished": 2026,
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Germonprez, M."
+        },
+        {
+          "@type": "Person",
+          "name": "Foster, D."
+        },
+        {
+          "@type": "Person",
+          "name": "Walli, S."
+        },
+        {
+          "@type": "Person",
+          "name": "Khazanchi, D."
+        }
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
       "name": "Generative AI Programming Tools: An Expectation-Confirmation Investigation in the Use of Copilot by African Developers",
       "datePublished": 2026,
       "author": [

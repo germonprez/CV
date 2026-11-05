@@ -584,6 +584,22 @@
     {
       "type": "conference_or_workshop",
       "year": 2026,
+      "title": "The Firm/Open Source Software Foundation Relationship: Ecosystem-Level Governance and Portfolio Management",
+      "authors_display": "Germonprez, M., Foster, D., Walli, S., and Khazanchi, D.",
+      "authors": [
+        "Germonprez, M.",
+        "Foster, D.",
+        "Walli, S.",
+        "Khazanchi, D."
+      ],
+      "publication_details": "Pre-ICIS SIG IT Project Management Workshop, Lisbon, Portugal.",
+      "doi": null,
+      "canonical_url": null,
+      "source_citation": "Germonprez, M., Foster, D., Walli, S., and Khazanchi, D. (2026). The Firm/Open Source Software Foundation Relationship: Ecosystem-Level Governance and Portfolio Management, Pre-ICIS SIG IT Project Management Workshop, Lisbon, Portugal."
+    },
+    {
+      "type": "conference_or_workshop",
+      "year": 2026,
       "title": "Generative AI Programming Tools: An Expectation-Confirmation Investigation in the Use of Copilot by African Developers",
       "authors_display": "Germonprez, M., Monjezi, S., Maruping, L., Ikegah, R., Oresanya, A., and Okome, T.",
       "authors": [
